@@ -1,35 +1,3 @@
-const ssrTemplate = `<!DOCTYPE html>
-<html <%~ it.htmlAttributes %>>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
-    <meta name="generator" content="Docusaurus v<%= it.version %>">
-    <%~ it.headTags %>
-    <% it.metaAttributes.forEach((metaAttribute) => { %>
-      <%~ metaAttribute %>
-    <% }); %>
-    <% it.stylesheets.forEach((stylesheet) => { %>
-      <link rel="stylesheet" type="text/css" href="<%= it.baseUrl %><%= stylesheet %>" />
-    <% }); %>
-    <% it.scripts.forEach((script) => { %>
-      <link rel="preload" href="<%= it.baseUrl %><%= script %>" as="script">
-    <% }); %>
-  </head>
-  <body <%~ it.bodyAttributes %> itemscope="" itemtype="http://schema.org/Organization">
-    <%~ it.preBodyTags %>
-    <div id="__docusaurus">
-      <%~ it.appHtml %>
-    </div>
-    <div id="outside-docusaurus">
-      <span>Custom markup</span>
-    </div>
-    <% it.scripts.forEach((script) => { %>
-      <script type="text/javascript" src="<%= it.baseUrl %><%= script %>"></script>
-    <% }); %>
-    <%~ it.postBodyTags %>
-  </body>
-</html>`
-
 module.exports = {
   title: 'Quarkly docs',
   tagline: 'The tagline of my site',
@@ -68,51 +36,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
