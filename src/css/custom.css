@@ -93,12 +93,16 @@ body {
 }
 
 a[class^="sidebarLogo"] {
-  background: var(--qtheme-color-light);
+  background: var(--qtheme-color-darkL2);
   margin: 0;
   padding: 0 2rem;
+  border-width: 0px 1px 0px 0px;
+  border-style: solid;
+  border-color: var(--qtheme-color-lightD2);
+  color: var(--ifm-navbar-link-color);
 }
 
-a[class^="docMainContainer"] {
+main[class^="docMainContainer"] {
   background-color: #fff;
 }
 
