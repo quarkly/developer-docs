@@ -1,58 +1,112 @@
 module.exports = {
-  title: 'Quarkly docs',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/documentation/',
+  title: "Quarkly docs",
+  tagline: "The tagline of my site",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/documentation/",
   plugins: [
     // ...
-    require.resolve('docusaurus-lunr-search')
+    require.resolve("docusaurus-lunr-search"),
   ],
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'quarkly-team', // Usually your GitHub org/user name.
-  projectName: 'quarkly-docs', // Usually your repo name.
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "quarkly-team", // Usually your GitHub org/user name.
+  projectName: "quarkly-docs", // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: "light",
+      // Hides the switch in the navbar
+      // Useful if you want to support a single color mode
+      disableSwitch: true,
+    },
+
     navbar: {
-      title: 'documentation',
+      title: "documentation",
       logo: {
-        alt: 'My Site Logo',
-        src: 'https://test-upl.quarkly.io/5e60efa12db4d10024432a9f/images/quarkly-beta-logo-on-dark.svg?v=2020-10-30T09:51:10.304Z',
+        alt: "My Site Logo",
+        src:
+          "/img/quarkly-beta-sign-on-dark.svg",
       },
-      // items: [
-      //   {
-      //     to: 'docs/',
-      //     activeBasePath: 'docs',
-      //     label: 'Docs',
-      //     position: 'left',
-      //   },
-      //   // {to: 'blog', label: 'Blog', position: 'left'},
-      //   // {
-      //   //   href: 'https://github.com/facebook/docusaurus',
-      //   //   label: 'GitHub',
-      //   //   position: 'right',
-      //   // },
-      // ],
     },
     footer: {
-      style: 'dark',
-      links: [],
+      style: "dark",
+      links: [
+        {
+          title: "Docs",
+          items: [
+            {
+              label: "Style Guide",
+              to: "docs/",
+            },
+            {
+              label: "Second Doc",
+              to: "docs/doc2/",
+            },
+          ],
+        },
+        {
+          title: "Community",
+          items: [
+            {
+              label: "Spectrum",
+              href: "https://spectrum.chat/quarkly",
+            },
+            {
+              label: "Facebook",
+              href: "https://www.facebook.com/quarklyapp",
+            },
+            {
+              label: "Discord",
+              href: "https://discord.com/invite/AevfxmF3TM",
+            },
+            {
+              label: "Github",
+              href: "https://github.com/quarkly",
+            },
+            {
+              label: "Youtube",
+              href: "https://www.youtube.com/channel/UCK5bXs2L0bbSMQ82BQ3hIkw",
+            },
+            {
+              label: "Discord",
+              href: "https://discord.com/invite/AevfxmF3TM",
+            },
+            {
+              label: "Twitter",
+              href: "https://twitter.com/quarklyapp",
+            },
+          ],
+        },
+        {
+          title: "More",
+          items: [
+            {
+              label: "Blog",
+              to: "blog",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/facebook/docusaurus",
+            },
+          ],
+        },
+      ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            "https://github.com/facebook/docusaurus/edit/master/website/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
