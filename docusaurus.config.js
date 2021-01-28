@@ -38,7 +38,8 @@ module.exports = {
       logo: {
         alt: "Quarkly logo",
         src:
-          "/img/quarkly-beta-sign-on-dark.svg",
+          '/img/quarkly-beta-sign-on-dark.svg',
+        srcDark: '/img/quarkly-beta-sign-on-dark.svg',
         href: 'https://help.quarkly.io/', 
         target: '_self', 
       },

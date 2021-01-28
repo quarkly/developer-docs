@@ -23,6 +23,9 @@
   --qtheme-color-light: #f8faff;
   --qtheme-color-lightD1: #edf2f6;
   --qtheme-color-lightD2: #e4e8ec;
+  --qtheme-color-grey: #6f839f;
+  --qtheme-color-greyD1: #637897;
+  --qtheme-color-greyD2: #586d8e;
   --ifm-menu-color-active: #0065bc;
   --ifm-menu-color: #22262e;
   --ifm-menu-color-background-active: rgba(77, 174, 243, 0.2);
@@ -99,7 +102,10 @@ a[class^="sidebarLogo"] {
   border-width: 0px 1px 0px 0px;
   border-style: solid;
   border-color: var(--qtheme-color-lightD2);
-  color: var(--ifm-navbar-link-color);
+}
+
+a[class^="sidebarLogo"] strong {
+  color: var(--qtheme-color-light);
 }
 
 main[class^="docMainContainer"] {

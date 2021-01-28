@@ -1,7 +1,7 @@
 ---
-id: theme
-title: Theme
-sidebar_label: Theme
+id: transitions
+title: Transitions
+sidebar_label: Transitions
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
