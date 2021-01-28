@@ -9,10 +9,22 @@ module.exports = {
   ],
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
   organizationName: "quarkly-team", // Usually your GitHub org/user name.
   projectName: "quarkly-docs", // Usually your repo name.
   themeConfig: {
+    image: '/img/q-og-1200.png',
+    // announcementBar: {
+    //   id: 'support_us', // Any value that will identify this message.
+    //   content:
+    //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+    //   backgroundColor: '#fafbfc', // Defaults to `#fff`.
+    //   textColor: '#091E42', // Defaults to `#000`.
+    //   isCloseable: false, // Defaults to `true`.
+    // },
+    metadatas: [
+      {name: 'twitter:card', content: 'summary'}
+    ],
     colorMode: {
       defaultMode: "light",
       // Hides the switch in the navbar
@@ -21,77 +33,102 @@ module.exports = {
     },
 
     navbar: {
-      title: "documentation",
+      title: "Help",
+      style: 'dark',
       logo: {
-        alt: "My Site Logo",
+        alt: "Quarkly logo",
         src:
           "/img/quarkly-beta-sign-on-dark.svg",
+        href: 'https://help.quarkly.io/', 
+        target: '_self', 
       },
+
+      hideOnScroll: true,
+
+      
     },
     footer: {
       style: "dark",
+      logo: {
+        alt: "My Site Logo",
+        src:
+          "/img/quarkly-beta-logo-on-dark.svg",
+      },
       links: [
+        // {
+        //   title: "Docs",
+        //   items: [
+        //     {
+        //       label: "Style Guide",
+        //       to: "docs/",
+        //     },
+        //     {
+        //       label: "Second Doc",
+        //       to: "docs/doc2/",
+        //     },
+        //   ],
+        // },
         {
-          title: "Docs",
+          title: 'Quarkly',
           items: [
             {
-              label: "Style Guide",
-              to: "docs/",
+              label: "Features",
+              href: "https://quarkly.io/features",
             },
             {
-              label: "Second Doc",
-              to: "docs/doc2/",
+              label: "Updates",
+              href: "https://quarkly.io/updates",
+            },
+            {
+              label: "Pricing",
+              href: "https://quarkly.io/pricing",
+            },
+            {
+              label: "Contact",
+              href: "https://quarkly.io/contact-form",
             },
           ],
         },
         {
-          title: "Community",
+          title: 'Social',
           items: [
-            {
-              label: "Spectrum",
-              href: "https://spectrum.chat/quarkly",
-            },
             {
               label: "Facebook",
               href: "https://www.facebook.com/quarklyapp",
             },
             {
-              label: "Discord",
-              href: "https://discord.com/invite/AevfxmF3TM",
-            },
-            {
-              label: "Github",
-              href: "https://github.com/quarkly",
+              label: "Twitter",
+              href: "https://twitter.com/quarklyapp",
             },
             {
               label: "Youtube",
               href: "https://www.youtube.com/channel/UCK5bXs2L0bbSMQ82BQ3hIkw",
             },
             {
-              label: "Discord",
-              href: "https://discord.com/invite/AevfxmF3TM",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/quarklyapp",
+              label: "Github",
+              href: "https://github.com/quarkly",
             },
           ],
         },
         {
-          title: "More",
+          title: 'Community',
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: "Spectrum",
+              href: "https://spectrum.chat/quarkly",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Discord",
+              href: "https://discord.com/invite/AevfxmF3TM",
+            },
+            {
+              label: "Feedback",
+              href: "https://feedback.quarkly.io/",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()} All Rights Reserved`,
     },
   },
   presets: [
