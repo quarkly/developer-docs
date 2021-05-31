@@ -1,13 +1,13 @@
 ---
 id: styles
-title: Styles
-sidebar_label: Styles
+title: Как добавить стили для брейкпоинта
+sidebar_label: Как добавить стили для брейкпоинта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Стилевые свойства можно задавать для разных брейкпоинтов, используя такой синтаксис: breakpount-props="value". Например:
 
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
+```
+<Text lg-color="orange"> Оранжевый текст </Text>
+```
 
 ---
