@@ -1,13 +1,24 @@
 ---
 id: overview
-title: Overview
+title: Custom code
 sidebar_label: Overview
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code.png?v=2021-05-21T14:20:34.230Z)
 
-## Markdown Syntax
+Вкладка Custom Code, отвечает за добавление тегов внутрь head и в конец body.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Теги которые можно добавлять внутрь head:
+
+-   &lt;Script&gt;
+-   &lt;Link&gt;
+-   &lt;Meta&gt;
+-   &lt;Style&gt;
+
+Теги которые можно добавлять в конец body:
+
+-   &lt;Script&gt;
+-   &lt;Link&gt;
+-   &lt;Style&gt;
 
 ---

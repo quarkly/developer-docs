@@ -1,13 +1,21 @@
 ---
 id: link
-title: Link
-sidebar_label: Link
+title: <link>
+sidebar_label: <link>
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-link.png?v=2021-05-21T14:21:46.914Z)
 
-## Markdown Syntax
+Устанавливает связь с внешним файлом, например файл с CSS стилями, иконкой или шрифтом.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Содержит атрибуты:
+
+-   href — адрес внешнего файла
+-   rel — определяет отношения между проектом и файлом
+-   sizes — указывает размер иконки в случае импорта файла с иконкой
+-   type — MIME-тип данных подключаемого файла
+-   media — определяет устройство, для которого следует применять стилевое оформление
+-   as — определяет тип загружаемого контента
+-   crossorigin — указывает, должен ли CORS использоваться при получении файла.
 
 ---

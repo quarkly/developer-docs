@@ -1,13 +1,19 @@
 ---
 id: meta
-title: Meta
-sidebar_label: Meta
+title: <meta>
+sidebar_label: <meta>
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-meta.png?v=2021-05-21T14:21:16.038Z)
 
-## Markdown Syntax
+Добавляет метатеги в проект. Метатеги используются для хранения информации предназначенной для браузеров и поисковых систем.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Содержит атрибуты:
+
+-   charset — задает кодировку документа
+-   name — имя метатега, также косвенно устанавливает его предназначение
+-   content — содержит значение для атрибута http-equiv или name, в зависимости от того какой используется
+-   http-equiv — предназначен для конвертирования метатега в заголовок HTTP
+-   itemprop — предназначен для добавления пользовательских метаданных
 
 ---

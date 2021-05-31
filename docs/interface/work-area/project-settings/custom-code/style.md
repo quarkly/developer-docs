@@ -1,13 +1,17 @@
 ---
 id: style
-title: Style
-sidebar_label: Style
+title: <style>
+sidebar_label: <style>
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-style.png?v=2021-05-21T14:21:30.438Z)
 
-## Markdown Syntax
+Добавляет CSS стили на все страницы проекта. Например, такой код сделает текст, у которого не указан цвет, оранжевым:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+```
+* {
+    color: orange;
+}
+```
 
 ---
