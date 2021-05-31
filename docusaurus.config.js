@@ -2,7 +2,7 @@ module.exports = {
   title: "Quarkly docs",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/documentation/",
+  baseUrl: "/",
   plugins: [
     // ...
     require.resolve("docusaurus-lunr-search"),
@@ -40,7 +40,7 @@ module.exports = {
         src:
           '/img/quarkly-beta-sign-on-dark.svg',
         srcDark: '/img/quarkly-beta-sign-on-dark.svg',
-        href: 'https://help.quarkly.io/', 
+        href: '/', 
         target: '_self', 
       },
 

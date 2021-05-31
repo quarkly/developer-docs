@@ -2,6 +2,7 @@
 id: welcome-to-quarkly
 title: Welcome to Quarkly
 sidebar_label: Welcome to Quarkly
+slug: /
 ---
 
 ### Что такое Quarkly
