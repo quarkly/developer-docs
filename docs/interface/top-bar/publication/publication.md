@@ -1,13 +1,21 @@
 ---
 id: publication
-title: Publication
-sidebar_label: Publication
+title: Публикация проекта на Netlify
+sidebar_label: Публикация проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Выбор источника хранения перед публикацией проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-netlify.png?v=2021-05-15T12:02:18.544Z)
 
-## Markdown Syntax
+После того как вы сохранили проект в GitHub репозиторий, появляется возможность опубликовать его с помощью сервиса [Netlify](https://netlify.app/)
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Как выбрать сайт и запустить публикацию:
+
+1. Нажмите кнопку "Log In with Netlify" чтобы предоставить доступ Quarkly к вашим сайтам на Netlify. Войдите или зарегистрируйтесь в Netlify если это необходимо.
+2. Выберите уже существующий сайт на вашем аккаунте Netlify или создайте новый.
+3. Нажать "Build" для сборки и публикации проекта.
+
+Проект соберется не сразу, занимает обычно несколько минут. Для контроля процесса рядом показывается бэйджик
+![](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-badge.svg?v=2021-05-15T11:14:44.866Z)
+который показывает состояние.
 
 ---

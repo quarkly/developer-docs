@@ -1,13 +1,26 @@
 ---
 id: overview
-title: Overview
+title: Publication
 sidebar_label: Overview
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Окно процесса публикации проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication.png?v=2021-05-15T11:06:39.567Z)
 
-## Markdown Syntax
+Чтобы проект был доступен по URL адресу его нужно собрать и опубликовать. Кнопка "Publish" открывает модальное окно процесса публикации проекта. Сборка и публикация происходит с помощью сервиса Netlify, а собирается ваш GitHub репозиторий с проектом.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Итак, чтобы опубликовать проект нужно:
+
+1. Нажмите кнопку "Log In with Netlify" чтобы предоставить доступ Quarkly к вашим сайтам на Netlify. Войдите или зарегистрируйтесь в Netlify если это необходимо.
+2. Выбрать структуру
+3. Войти или зарегистрироваться в GitHub
+4. Прикрепить проект к существующему или к новому репозиторию
+5. Отправить код в репозиторий
+6. Войти или зарегистрироваться в Netlify
+7. Прикрепить проект к существующему или к новому сайту
+8. Нажать кнопку "Deploy". Процесс сборки и публикации занимает некоторое количество времени, обычно несколько минут. Статус состояния можно смотреть на бейджике ![](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-badge.svg?v=2021-05-15T11:14:44.866Z)
+
+### Видеоурок "Как опубликовать проект"
+
+[![](https://img.youtube.com/vi/qePS-JDO-oQ/0.jpg)](https://www.youtube.com/watch?v=qePS-JDO-oQ)
 
 ---
