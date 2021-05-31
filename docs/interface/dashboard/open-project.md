@@ -1,13 +1,16 @@
 ---
 id: open-project
-title: Open Project
-sidebar_label: Open Project
+title: Открытие проекта
+sidebar_label: Открытие проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Пункт "Delete" в контекстном меню удаляет проект](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-open-project.png?v=2021-05-15T08:07:10.023Z)
 
-## Markdown Syntax
+Кликните на карточку проекта, чтобы перейти в конструктор.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Альтернативный способ:
+
+1.  Вызовите контекстное меню проекта на правую кнопку мыши
+2.  Выберите пункт "Open"
 
 ---

@@ -1,13 +1,13 @@
 ---
 id: properties
-title: Properties
-sidebar_label: Properties
+title: Как добавить свойства
+sidebar_label: Как добавить свойства
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Если вы хотите добавить свойство (props) компоненту, вам нужно написать его в таком синтаксисе: props="value". Например:
 
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
+```
+<Text color="orange"> Оранжевый текст </Text>
+```
 
 ---

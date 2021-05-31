@@ -4,10 +4,22 @@ title: Input
 sidebar_label: Input
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Примитив Input на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-input.png?v=2021-05-16T08:09:53.001Z)
 
-## Markdown Syntax
+#### Примитив Input представляет собой одно или многострочное поле ввода текста. Input служит для передачи текстовой информации в форму.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+В свойствах можно выбрать тип Input, ввести текст подсказки, указать значение по умолчанию, установить флаги обязательного к заполнению или отключенного состояния.
+
+### Доступные свойства
+
+| Prop name    | Description                                                             |
+| :----------- | :---------------------------------------------------------------------- |
+| name         | Уникальное для формы имя поля                                           |
+| type         | тип элемента формы: text, email, tel, date, number, file, search        |
+| placeholder  | подсказывающий текст                                                    |
+| defaultValue | значение поля по умолчанию                                              |
+| required     | флаг, если поле обязательное для заполнения                             |
+| disabled     | флаг, если поле отключено по умолчанию                                  |
+| as           | html-элемент, который будет использован в документе: input или textarea |
 
 ---

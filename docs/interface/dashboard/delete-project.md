@@ -1,13 +1,19 @@
 ---
 id: delete-project
-title: Delete Project
-sidebar_label: Delete Project
+title: Полное удаление проекта
+sidebar_label: Полное удаление проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Пункт "Delete forever" в контекстном меню удаляет проект полностью](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-delete-project-forever.png?v=2021-05-15T08:13:53.940Z)
 
-## Markdown Syntax
+Как удалить проект полностью:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+1.  Перейдите в раздел Archived
+2.  Выберите проект, который хотите полностью удалить
+3.  Вызовите контекстное меню проекта на правую кнопку мыши
+4.  Выберите пункт "Delete Forever"
+5.  В диалоговом окне подтверждения выберите "Delete Forever"
+
+После полного удаления проекта, он исчезает из Dashboard. Но если вам всё таки необходимо восстановить этот проект, отправьте запрос в службу поддержки.
 
 ---

@@ -4,10 +4,14 @@ title: General
 sidebar_label: General
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-general.png?v=2021-05-21T14:19:08.199Z)
 
-## Markdown Syntax
+Здесь вы можете изменить имя проекта и задать favicon для разных устройств:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+-   favicon 32px
+-   Apple Touch Icon (152px)
+-   Win10 OS Icon (270px)
+
+Остальные необходимые фавиконки проекта будут сгенерированы автоматически.
 
 ---

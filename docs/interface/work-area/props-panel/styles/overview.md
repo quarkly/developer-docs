@@ -1,13 +1,21 @@
 ---
 id: overview
-title: Overview
+title: Styles
 sidebar_label: Overview
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+[![](https://img.youtube.com/vi/kDEtTCMTEY8/0.jpg)](https://www.youtube.com/watch?v=kDEtTCMTEY8)
 
-## Markdown Syntax
+Here, you can set the visual representation of the element. You can configure both default state and pseudo-class styles: hover, active, focused and more.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+All style properties are grouped into the following tabs:
+
+-   [States](/documentation/interface/work-area/props-panel/styles/states)
+-   [Layout](/documentation/interface/work-area/props-panel/styles/layout)
+-   [Typography](/documentation/interface/work-area/props-panel/styles/typography)
+-   [Indents](/documentation/interface/work-area/props-panel/styles/indents)
+-   [Border](/documentation/interface/work-area/props-panel/styles/border)
+-   [Position](/documentation/interface/work-area/props-panel/styles/position)
+-   [Effects](/documentation/interface/work-area/props-panel/styles/effects)
 
 ---

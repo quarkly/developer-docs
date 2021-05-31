@@ -4,10 +4,19 @@ title: Icon
 sidebar_label: Icon
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Примитив Icon на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-icon.png?v=2021-05-16T08:06:42.344Z)
 
-## Markdown Syntax
+#### Иконка из доступного в конструкторе набора.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+В свойствах можно указать размер иконки цвет и выбрать саму иконку из предоставленных наборов.
+
+### Доступные свойства
+
+| Prop name | Description                                                                                                                                                                                                                                                                                                  |
+| :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| size      | Размер иконки, соответствует размеру шрифта                                                                                                                                                                                                                                                                  |
+| category  | Имя набора:<br/><ul><li>fa – Font Awesome</li><li>bs – Bootstrap Icons</li><li>io – Ionicons</li><li>md – Material Design</li><li>ti – Typicons</li><li>go – GutHub Octicons</li><li>fi – Feather</li><li>gi – Game Icons</li><li>wi – Weather Icons</li><li>di – Devicons</li><li>ai – Ant Design</li></ul> |
+| icon      | Имя иконки в конкретном наборе, вы можете посмотреть полный список названий на оф. сайте нужного набора или узнать имя нужной иконки выбрав её в конструкторе                                                                                                                                                |
+| color     | Цвет иконки, соответствует стилевому свойству color                                                                                                                                                                                                                                                          |
 
 ---

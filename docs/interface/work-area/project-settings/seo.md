@@ -4,10 +4,14 @@ title: SEO
 sidebar_label: SEO
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-seo.png?v=2021-05-21T14:19:32.670Z)
 
-## Markdown Syntax
+Здесь вы можете задать заголовок, описание для поисковых систем и соцсетей (свойства с префиксом og:). Вы также можете указать изображение, которое будет появляется вместе со ссылкой в соцсетях и мессенджерах.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+-   Title — заголовок проекта, будет показываться во вкладке и в поисковых системах
+-   Description — краткое описание проекта
+-   og:title — заголовок проекта для соцсетей
+-   og:description — описание проекта для соцсетей
+-   og:image URL — превью сайта для соцсетей и мессенджеров
 
 ---

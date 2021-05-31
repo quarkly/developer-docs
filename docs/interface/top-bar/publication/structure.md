@@ -1,13 +1,16 @@
 ---
 id: structure
-title: Structure
-sidebar_label: Structure
+title: Выбор структуры
+sidebar_label: Выбор структуры
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Выбор структуры перед публикацией проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-structure.png?v=2021-05-15T11:38:28.941Z)
 
-## Markdown Syntax
+Проекты на React содержат в себе зависимости, рабочие файлы и контент. Для организации сборки проектов нужна определенная структура.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Структура экспорта это то, как в проекте организованы файлы, как будет происходить сборка и какие вспомогательные библиотеки будут участвовать в сборке проекта. В Quarkly мы предлагаем две самые популярные на сегодняшний день:
+
+-   Gatsby Project — больше подходит для сайтов
+-   Create React App — больше подходит для приложений
 
 ---

@@ -166,6 +166,16 @@ module.exports = {
             },
           ],
         },
+        {
+          type: 'category',
+          label: 'Components',
+          items: [
+            'interface/components/overview',
+            'interface/components/add',
+            'interface/components/actions',
+            'interface/components/code-editor',
+          ],
+        },
         'interface/shortcuts',
       ],
     },

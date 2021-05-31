@@ -1,13 +1,26 @@
 ---
 id: domain
-title: Domain
-sidebar_label: Domain
+title: Доменное имя сайта
+sidebar_label: Доменное имя
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+На последнем этапе, вы можете поменять техническое доменное имя своего сайта или прикрепить своё купленное имя.
 
-## Markdown Syntax
+Для того чтобы изменить имя домена предоставляемого сервисом Netlify, необходимо:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+1. Нажать кнопку "Edit"
+2. Ввести нужное имя домена
+3. Нажать кнопку "Save"
+
+![Публикация проекта на техническом доменном имени](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-technical-domain.png?v=2021-05-15T12:21:09.444Z)
+
+Чтобы прикрепить своё доменное имя к сайту, необходимо:
+
+1. Выберите вкладку Custom
+2. Введите в поле ввода ваше доменное имя
+3. Нажать кнопку "Save"
+4. У регистратора, где вы покупали свое доменное имя, в настройках Name Servers (NS) необходимо указать адреса серверов указанные в инструкции.
+
+![Публикация проекта на своём персональном доменном имени](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-custom-domain.png?v=2021-05-15T12:21:09.443Z)
 
 ---

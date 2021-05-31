@@ -4,10 +4,25 @@ title: Catalog
 sidebar_label: Catalog
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://uploads.quarkly.io/landing/docs-interface-context-menu.png)
 
-## Markdown Syntax
+В этом разделе находятся:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+-   Компоненты созданные пользователем
+-   Компоненты добавленные пользователем из каталога
+
+Чтобы добавить компонент на страницу просто перетащите его.
+
+### Действия с компонентами на панели
+
+![](https://uploads.quarkly.io/landing/docs-interface-context-menu.png)
+
+Компоненты созданные пользователем можно удалять и редактировать их код. Компоненты добавленные из маркетплейса можно только удалить.
+
+### Удаленные компоненты
+
+![](https://uploads.quarkly.io/landing/docs-interface-context-menu.png)
+
+Если компонент есть на странице и его удаляют, то вместо него появляется заглушка.
 
 ---

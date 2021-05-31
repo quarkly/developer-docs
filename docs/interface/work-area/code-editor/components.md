@@ -1,13 +1,42 @@
 ---
 id: components
-title: Components
-sidebar_label: Components
+title: Как добавить компоненты
+sidebar_label: Как добавить компоненты
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Чтобы добавить компонент введите его имя как HTML тег, например:
 
-## Markdown Syntax
+```
+<Text> Простой текст </Text>
+```
 
-To serve as an example page when styling markdown based Docusaurus sites.
+### Примитив
+
+Так вы можете добавлять любой примитив:
+
+-   &lt;Box/&gt;
+-   &lt;Button/&gt;
+-   &lt;Hr/&gt;
+-   &lt;Image/&gt;
+-   &lt;Input/&gt;
+-   &lt;Link/&gt;
+-   &lt;List/&gt;
+-   &lt;Text/&gt;
+
+### Свой компонент
+
+Свой созданный или добавленный компонент, указав его название. Например, чтобы добавить на страницу свой компонент с названием MyComponent вам нужно написать:
+
+```
+<MyComponent/>
+```
+
+### Вложенный компонент
+
+Если хотите поместить один компонент в другой, вам нужно написать:
+
+```
+<MyComponent>\n <Text> Простой текст </Text> \n</MyComponent>
+```
 
 ---

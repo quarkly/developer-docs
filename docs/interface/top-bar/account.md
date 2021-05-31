@@ -4,10 +4,11 @@ title: Account
 sidebar_label: Account
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Панель с настройками аккаунта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-account.png?v=2021-05-15T12:36:18.146Z)
 
-## Markdown Syntax
+Панель настроек аккаунта содержит в себе:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+1.  Профиль пользователя: имя, электронная почта и кнопка выхода.
+2.  Токены интегрированных сервисов: GitHub и Netlify. Если они привязаны к аккаунту.
 
 ---

@@ -1,13 +1,23 @@
 ---
 id: states
-title: States
-sidebar_label: States
+title: Как добавить состояния
+sidebar_label: Как добавить состояния
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Для некоторых компонентов доступны различные состояния, вот несколько из них:
 
-## Markdown Syntax
+-   hover — состояние при наведении курсора
+-   focus — состояние когда компонент в фокусе
+-   active, for a &lt;Button/&gt; and an &lt;Input/&gt; — состояние когда элемент активен
+-   disabled, for a &lt;Button/&gt; — состояние когда кнопка не активна
+-   link, for a &lt;Link/&gt; — состояние для непосещенной ссылки
+-   visited, for a &lt;Link/&gt; — состояние для посещенной ссылки
+-   и другие
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Свойства и значения для таких состояний вы можете указывать и в коде, используя такой синтаксис: state-props="value". Например:
+
+```
+<Text hover-color="orange"> Оранжевый текст </Text>
+```
 
 ---

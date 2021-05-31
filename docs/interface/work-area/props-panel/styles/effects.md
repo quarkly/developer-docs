@@ -4,10 +4,6 @@ title: Effects
 sidebar_label: Effects
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
-
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
+[![](https://img.youtube.com/vi/esh5UtPaXcU/0.jpg)](https://www.youtube.com/watch?v=esh5UtPaXcU)
 
 ---

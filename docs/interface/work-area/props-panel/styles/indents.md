@@ -4,10 +4,6 @@ title: Indents
 sidebar_label: Indents
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
-
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
+[![](https://img.youtube.com/vi/og2CZMritoY/0.jpg)](https://www.youtube.com/watch?v=og2CZMritoY)
 
 ---

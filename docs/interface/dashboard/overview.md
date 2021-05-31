@@ -1,13 +1,17 @@
 ---
 id: overview
-title: Overview
+title: Dashboard
 sidebar_label: Overview
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Вид дашборда после регистрации](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard.png?v=2021-05-15T07:54:09.911Z)
 
-## Markdown Syntax
+Здесь находятся все проекты пользователя и проекты, которыми с ним поделились другие пользователи.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Содержит в себе три раздела:
+
+-   Recent — недавние проекты
+-   My projects — все проекты
+-   Archived — удаленные проекты
 
 ---

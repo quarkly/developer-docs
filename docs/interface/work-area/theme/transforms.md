@@ -4,10 +4,25 @@ title: Transforms
 sidebar_label: Transforms
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+[![](https://img.youtube.com/vi/iBgOBURPrm8/0.jpg)](https://www.youtube.com/watch?v=iBgOBURPrm8)
 
-## Markdown Syntax
+Transforms allow you to rotate, zoom or move an element and even more. Transform values contain the following set of properties:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+-   Type, transform type.
+-   Arguments, value.
+
+To add a transform to the theme, click on the `+` icon in front of the category.
+
+[![](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create-poster.png)](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create.mp4)
+
+To add a background style from the theme to an element, go to the Effect section, click on the
+![](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+icon next to the Transform property and select the transform value you want.
+
+![](https://uploads.quarkly.io/landing/docs-theme-panel-transforms-styles-apply.png)
+
+#### Configuring the code
+
+`transform='--rotate90'`
 
 ---

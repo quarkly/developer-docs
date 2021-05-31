@@ -1,13 +1,23 @@
 ---
 id: script
-title: Script
-sidebar_label: Script
+title: <script>
+sidebar_label: <script>
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-script.png?v=2021-05-21T14:21:00.800Z)
 
-## Markdown Syntax
+Добавляет пользовательский javascript код в проект.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Содержит атрибуты:
+
+-   content — javascript код
+-   async — асинхронная загрузка скрипта
+-   defer — отложить выполнение скрипта до тех пор, пока вся страница не будет загружена полностью
+-   src — адрес файла с javascript кодом, который будет импортироваться в проект
+-   type — определяет тип содержимого тега script
+-   crossorigin — указывает, должен ли CORS использоваться при получении файла
+-   integrity — содержит встроенные метаданные, которые нужны для проверки того, что файл был доставлен без неожиданных манипуляций
+-   nomodule — использовано для обслуживания резервных скриптов старых браузеров, которые не поддерживают модульный код JavaScript
+-   referrerpolicy — указывает, какой референт отправить при получении скрипта
 
 ---

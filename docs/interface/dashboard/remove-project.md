@@ -1,13 +1,17 @@
 ---
 id: remove-project
-title: Remove Project
-sidebar_label: Remove Project
+title: Удаление проекта
+sidebar_label: Удаление проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Пункт "Delete" в контекстном меню удаляет проект](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-delete-project.png?v=2021-05-15T08:07:10.021Z)
 
-## Markdown Syntax
+Как удалить проект:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+1.  Выберите проект, который хотите удалить
+2.  Вызовите контекстное меню проекта на правую кнопку мыши
+3.  Выберите пункт "Delete"
+
+После удаления проект переместиться в раздел Archived. Здесь его можно восстановить или удалить окончательно.
 
 ---
