@@ -4,10 +4,8 @@ title: Styles
 sidebar_label: Styles
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-styles.png?v=2021-05-21T14:19:53.087Z)
 
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
+Здесь вы можете задать стили для всех страниц проекта разом. Укажите стили типографики, фон, внутренние отступы страниц, и другие стилевые свойства, которые можно задавать обычным элементам. Все они применяться ко всем страницам.
 
 ---
