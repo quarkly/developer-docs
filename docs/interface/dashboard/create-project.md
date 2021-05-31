@@ -1,13 +1,17 @@
 ---
 id: create-project
-title: Create Project
-sidebar_label: Create Project
+title: Создание нового проекта
+sidebar_label: Создание нового проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Указание имени нового проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-enter-project-name.png?v=2021-05-15T08:01:05.663Z)
 
-## Markdown Syntax
+Вы можете создать до 100 своих проектов.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Как создать новый проект:
+
+1.  Нажмите на кнопку «New Project»
+2.  Дайте имя новому проекту
+3.  Нажмите кнопку Save
 
 ---

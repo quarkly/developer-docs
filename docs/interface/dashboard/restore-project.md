@@ -1,13 +1,18 @@
 ---
 id: restore-project
-title: Restore Project
-sidebar_label: Restore Project
+title: Восстановление удаленного проекта
+sidebar_label: Восстановление удаленного проекта
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Пункт "Restore" в контекстном меню восстанавливает проект](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-restore-project.png?v=2021-05-15T08:15:05.691Z)
 
-## Markdown Syntax
+После первого удаления проекта он перемещается в Archived. Редактировать проект в этом разделе нельзя. Чтобы появилась возможность редактировать проект, нужно его восстановить.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Как восстановить проект:
+
+1.  Перейдите в раздел Archived
+2.  Выберите проект, который хотите восстановить
+3.  Вызовите контекстное меню проекта на правую кнопку мыши
+4.  Выберите пункт "Restore"
 
 ---
