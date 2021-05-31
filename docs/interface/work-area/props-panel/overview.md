@@ -1,13 +1,20 @@
 ---
 id: overview
-title: Overview
+title: Props panel
 sidebar_label: Overview
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Панель свойств](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-props-panel.png?v=2021-05-20T15:36:47.243Z)
 
-## Markdown Syntax
+To open the element props editor, select the desired element in one of the following ways:
 
-To serve as an example page when styling markdown based Docusaurus sites.
+-   Click on the element on the page
+-   Click on the element on the layers panel
+-   Set the сaret (text cursor) on the code element in the editor
+
+Once the element is selected, its props panel will appear on the right. There, you will see:
+
+-   Element name
+-   Tab bar with styles and props
 
 ---
