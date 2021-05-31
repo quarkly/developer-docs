@@ -4,10 +4,17 @@ title: Button
 sidebar_label: Button
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Примитив Button на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-button.png?v=2021-05-16T08:00:52.766Z)
 
-## Markdown Syntax
+#### Простая кнопка, которая предназначена для отправки формы
 
-To serve as an example page when styling markdown based Docusaurus sites.
+В свойствах можно выбрать в виде какого тега будет кнопка на опубликованном сайте. Также в свойствах можно установить состояние "отключена".
+
+### Доступные свойства
+
+| Prop name | Description                                                           |
+| :-------- | :-------------------------------------------------------------------- |
+| type      | HTML-элемент, который будет использован в документе: input или button |
+| disabled  | Флаг, если кнопка отключена по умолчанию                              |
 
 ---

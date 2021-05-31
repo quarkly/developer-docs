@@ -4,10 +4,19 @@ title: Section
 sidebar_label: Section
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Примитив Section на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-section.png?v=2021-05-16T08:12:43.154Z)
 
-## Markdown Syntax
+#### Примитив Section — это основа для создания блоков страницы
 
-To serve as an example page when styling markdown based Docusaurus sites.
+Section состоит из двух контейнеров, внешнего и внутреннего. Внутренний контейнер служит для контента, а внешний для фона. В свойствах можно регулировать ширину внутреннего контейнера.
+
+### Доступные свойства
+
+| Prop name       | Description                                        |
+| :-------------- | :------------------------------------------------- |
+| Inner-width     | Ширина контентной зоны                             |
+| inner-min-width | Минимальная ширина контентной зоны                 |
+| inner-max-width | Максимальная ширина контентной зоны                |
+| lazy-load       | Включает загрузку блока по мере прокрутки страницы |
 
 ---

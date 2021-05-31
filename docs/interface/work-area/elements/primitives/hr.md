@@ -4,10 +4,10 @@ title: Hr
 sidebar_label: Hr
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![Примитив Hr на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-hr.jpg?v=2021-05-16T08:04:56.982Z)
 
-## Markdown Syntax
+#### Разделитель, который образуется за счет верхней границы.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+На опубликованной странице будет представлять собой тег Hr
 
 ---
