@@ -30,14 +30,14 @@ sidebar_label: Shortcuts
 
 ### Edit
 
-| Action              | Windows and Linux      | MacOS                        |
-| :------------------ | :--------------------- | :--------------------------- |
-| Duplicate           | `Shift` + `D`          | `⇧ (Shift)` + `D`            |
-| Delete              | `Delete`               | `⌫`                          |
-| Copy element props  | `Ctrl` + `Alt` + `C`   | `⌘ (Cmd)` + `⌥ (Option)` `C` |
-| Paste element props | `Ctrl` + `Alt` + `V`   | `⌘ (Cmd)` + `⌥ (Option)` `V` |
-| Undo                | `Ctrl` + `Shift` + `Z` | `⌘ (Cmd)` `⇧ (Shift)` + `Z`  |
-| Redo                | `Ctrl` + `Z`           | `⌘ (Cmd)` + `Z`              |
+| Action              | Windows and Linux      | MacOS                          |
+| :------------------ | :--------------------- | :----------------------------- |
+| Duplicate           | `Shift` + `D`          | `⇧ (Shift)` + `D`              |
+| Delete              | `Delete`               | `⌫`                            |
+| Copy element props  | `Ctrl` + `Alt` + `C`   | `⌘ (Cmd)` + `⌥ (Option)` + `C` |
+| Paste element props | `Ctrl` + `Alt` + `V`   | `⌘ (Cmd)` + `⌥ (Option)` + `V` |
+| Undo                | `Ctrl` + `Shift` + `Z` | `⌘ (Cmd)` + `⇧ (Shift)` + `Z`  |
+| Redo                | `Ctrl` + `Z`           | `⌘ (Cmd)` + `Z`                |
 
 ### Input
 
