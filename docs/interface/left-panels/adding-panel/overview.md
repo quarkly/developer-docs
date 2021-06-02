@@ -8,8 +8,8 @@ sidebar_label: Overview
 
 Эта панель служит для добавления элементов на страницу. В ней содержатся 3 группы:
 
--   [Примитивы](/interface/work-area/elements/primitives/overview)
--   [Компоненты, участвующие в проекте](/interface/work-area/elements/components)
--   [Кнопки добавления блоков и компонентов из каталога](/interface/work-area/elements/catalog)
+-   [Примитивы](/interface/left-panels/adding-panel/primitives/overview)
+-   [Компоненты, участвующие в проекте](/interface/left-panels/adding-panel/components)
+-   [Кнопки добавления блоков и компонентов из каталога](/interface/left-panels/adding-panel/catalog)
 
 ---

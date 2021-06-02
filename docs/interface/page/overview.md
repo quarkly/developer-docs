@@ -1,7 +1,7 @@
 ---
-id: page
+id: overview
 title: Page
-sidebar_label: Page
+sidebar_label: Overview
 ---
 
 ![Страница в интерфейсе](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-interface.png?v=2021-05-16T13:46:40.507Z)
@@ -26,18 +26,27 @@ Once an element is selected, the Props panel (on the right) and Button bar (on t
 
 You can open the context menu for an element. The menu contains a list of actions you can perform on the element. To open it, mouse over the element and `right-click` on it.
 
-Список действий над элементом:
+### Список действий над элементом
+
+![Контекстное меню элемента](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-primitive.png?v=2021-05-20T15:59:40.385Z)
+
+Содержит:
 
 -   Show in Code Editor
 -   Duplicate
 -   Delete
 -   Create new Component
 
-Список действий над компонентом:
+### Список действий над компонентом
 
--   Edit code
+![Контекстное меню компонента](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-component.png?v=2021-05-20T16:17:22.664Z)
+
+Содержит:
+
+-   Edit Code
 -   Show in Code Editor
 -   Duplicate
+-   Rename
 -   Delete
 -   Create new Component
 -   Detach
@@ -45,17 +54,5 @@ You can open the context menu for an element. The menu contains a list of action
 -   Reset All Overrides
 -   Push to Master
 -   Push All to Master
-
-### How to add an element
-
-Есть два способа добавить элемент на страницу:
-
--   Первый — перетащить или кликнуть на примитив или компонент из панели добавления.
-
-    ![Добавление элемента из панели добавления](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-panel.png?v=2021-05-16T14:03:39.908Z)
-
--   Второй – нажать кнопку "**+**", открыть модальное окно Add и добавить блок или нужный компонент.
-
-    ![Добавление элемента из модального окна](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-modal-view.png?v=2021-05-16T14:03:39.902Z)
 
 ---

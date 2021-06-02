@@ -1,7 +1,7 @@
 ---
-id: edit
-title: Edit
-sidebar_label: Edit
+id: editing-elements
+title: Редактирование элементов
+sidebar_label: Редактирование элементов
 ---
 
 ### How to resize an element with absolute and fixed position

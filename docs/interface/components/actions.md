@@ -6,7 +6,7 @@ sidebar_label: Действия над компонентами
 
 ![Context menu for a component](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-components-context-menu.png?v=2021-05-24T12:56:35.734Z)
 
-You can open the [context menu](/interface/work-area/context-menu) for a component. The menu contains a list of actions you can do to the component. To open it, mouse over the component and `right-click` on it.
+You can open the [context menu](/interface/left-panels/context-menu) for a component. The menu contains a list of actions you can do to the component. To open it, mouse over the component and `right-click` on it.
 
 ### Creating a Component on a Page
 

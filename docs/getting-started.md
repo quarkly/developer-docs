@@ -35,7 +35,7 @@ sidebar_label: Getting Started
 9. Отредактируйте текст. Для этого кликните два раза по тексту в выбранном элементе.
    ![](https://test-upl.quarkly.io/5e60efa12db4d10024432a9f/images/quarkly-getting-started-interface-edit-text.png?v=2021-03-17T11:01:09.820Z)
 
-10. Вы можете создавать страницы. Для этого откройте панель [Pages and Layers](/interface/work-area/pages-and-layers).
+10. Вы можете создавать страницы. Для этого откройте панель [Pages and Layers](/interface/left-panels/pages-and-layers).
     ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 11. Чтобы добавить элемент, перейдите во вкладку [Components](/interface/components/overview). Здесь есть как примитивные компоненты так и сложные. Ещё здесь можно создавать свои компоненты.

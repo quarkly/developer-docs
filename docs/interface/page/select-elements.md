@@ -1,7 +1,7 @@
 ---
-id: selection
-title: Selection
-sidebar_label: Selection
+id: select-elements
+title: Выделение элементов
+sidebar_label: Выделение элементов
 ---
 
 ![Выделение элемента на странице](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-selection-simple.png?v=2021-05-20T13:43:10.433Z)

@@ -10,10 +10,10 @@ sidebar_label: Overview
 
 В настройках проектов есть пять разделов:
 
--   [General](/interface/work-area/project-settings/general)
--   [SEO](/interface/work-area/project-settings/seo)
--   [Styles](/interface/work-area/project-settings/styles)
--   [Custom code](/interface/work-area/project-settings/custom-code/overview)
--   [Dependencies](/interface/work-area/project-settings/dependencies)
+-   [General](/interface/left-panels/project-settings/general)
+-   [SEO](/interface/left-panels/project-settings/seo)
+-   [Styles](/interface/left-panels/project-settings/styles)
+-   [Custom code](/interface/left-panels/project-settings/custom-code/overview)
+-   [Dependencies](/interface/left-panels/project-settings/dependencies)
 
 ---

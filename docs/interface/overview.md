@@ -10,7 +10,7 @@ sidebar_label: Overview
 
 Отдельная страница, где вы можете создавать и управлять доступными проектами.
 
-### [Визуальный редактор](/interface/work-area/overview)
+### [Визуальный редактор](/interface/left-panels/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
@@ -28,43 +28,43 @@ sidebar_label: Overview
 
 Нажимая на кнопку "**Publish**", вы открываете модальное окно публикации проекта. Процесс публикации состоит из выбора структуры проекта, источника хранения, публикации на Netlify и доменного имени. В результате вы получаете ссылку на опубликованный проект.
 
-### [View Bar](/interface/work-area/view-bar/overview)
+### [View Bar](/interface/left-panels/view-bar/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Эта панель располагается под "**Top Bar**". Она отвечает за работу со страницей. Здесь находятся индикаторы брейкпоинтов, переключатели масштаба, размеров страницы и брейкпоинтов.
 
-### [Elements](/interface/work-area/elements/overview)
+### [Elements](/interface/left-panels/adding-panel/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Страница состоит из элементов. Вы можете добавлять, редактировать, дублировать и удалять элементы. В качестве элементов страницы могут быть примитивы, компоненты каталога или ваши собственные компоненты.
 
-### [Theme](/interface/work-area/theme/overview)
+### [Theme](/interface/left-panels/theme/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Панель содержит в себе группы с переменными и их значениями. Вы можете использовать существующие и добавлять свои переменные, чтобы потом использовать их в проекте. При необходимости значения можно менять, они также изменяться везде, где были использованы.
 
-### [Project Settings](/interface/work-area/project-settings/overview)
+### [Project Settings](/interface/left-panels/project-settings/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Панель позволяет задавать фавиконки, информацию для SEO, стили и пользовательские теги внутри `<head>` и `<body>`, общие для всех страниц. Ещё здесь можно задавать имя проекта и добавлять внешние зависимости (библиотеки).
 
-### [Props Panel](/interface/work-area/props-panel/overview)
+### [Props Panel](/interface/left-panels/props-panel/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Панель дает возможность менять стилевые и функциональные свойства элементов. Стилевые свойства сгруппированы по назначению: макет, типографика, отступы, фон, границы, позиционирование, эффекты. Функциональные свойства уникальны для каждого элемента.
 
-### [Context Menu](/interface/work-area/context-menu)
+### [Context Menu](/interface/left-panels/context-menu)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
 Контекстное меню содержит список действий над элементом, страницей, компонентом и другой сущностью. Чтобы вызвать контекстное меню, наведите курсор и нажмите правой кнопкой мыши.
 
-### [Code Editor](/interface/work-area/code-editor/overview)
+### [Code Editor](/interface/left-panels/code-editor/overview)
 
 ![](https://uploads.quarkly.io/609b923c13e4b0001f829749/images/Temp%20Image.png?v=2021-06-01T09:16:30.510Z)
 
