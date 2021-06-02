@@ -14,7 +14,7 @@ The second most important work area in Quarkly is the code editor. It displays a
 
 У редактора кода много полезных команд, например дублировать строку вниз, увеличить шрифт, найти и заменить. Чтобы посмотреть все команды редактора нажмите клавишу `F1`.
 
-### Статус состояние кода (Save/not Save)
+### Статус состояния кода
 
 ![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-code-editor-status.png?v=2021-05-24T12:52:02.648Z)
 

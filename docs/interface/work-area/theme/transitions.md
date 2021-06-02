@@ -13,7 +13,7 @@ Transitions can be used when styles of an element are changed in response to som
 -   Duration, transition duration;
 -   Delay, delay before the transition.
 
-To add a transition to the theme, click on the `+` icon in front of the category.
+To add a transition to the theme, click on the "**+**" icon in front of the category.
 
 ![](https://uploads.quarkly.io/landing/docs-theme-panel-transitions-styles-create.png)
 
@@ -25,6 +25,8 @@ icon next to the Transition property and select the transition value you want.
 
 #### Configuring the code
 
-`transition='--opacityOut'`
+```
+transition='--opacityOut'
+```
 
 ---

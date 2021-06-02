@@ -8,16 +8,16 @@ sidebar_label: Overview
 
 В этом разделе находятся простые элементы, которые используются чаще всего.
 
--   [Box](/documentation/interface/work-area/elements/primitives/box)
--   [Button](/documentation/interface/work-area/elements/primitives/button)
--   [Hr](/documentation/interface/work-area/elements/primitives/hr)
--   [Icon](/documentation/interface/work-area/elements/primitives/icon)
--   [Image](/documentation/interface/work-area/elements/primitives/image)
--   [Input](/documentation/interface/work-area/elements/primitives/input)
--   [Link](/documentation/interface/work-area/elements/primitives/link)
--   [List](/documentation/interface/work-area/elements/primitives/list)
--   [Section](/documentation/interface/work-area/elements/primitives/section)
--   [Text](/documentation/interface/work-area/elements/primitives/text)
+-   [Box](/interface/work-area/elements/primitives/box)
+-   [Button](/interface/work-area/elements/primitives/button)
+-   [Hr](/interface/work-area/elements/primitives/hr)
+-   [Icon](/interface/work-area/elements/primitives/icon)
+-   [Image](/interface/work-area/elements/primitives/image)
+-   [Input](/interface/work-area/elements/primitives/input)
+-   [Link](/interface/work-area/elements/primitives/link)
+-   [List](/interface/work-area/elements/primitives/list)
+-   [Section](/interface/work-area/elements/primitives/section)
+-   [Text](/interface/work-area/elements/primitives/text)
 
 Чтобы добавить элемент на страницу, просто перетащите его и бросьте в нужное место. Еще вы можете кликнуть на него, и элемент добавится вниз страницы.
 

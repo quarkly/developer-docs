@@ -8,15 +8,15 @@ All units of measurement available in CSS can be used.
 
 ### Math
 
-You can use the following mathematical operations in the input field: `+`, `-`, `*`, `/`.
+You can use the following mathematical operations in the input field: **+** **-** **\*** **/**.
 
-`For example, enter the **720px/2** value, click on Enter and get the **360px** value.`
+For example, enter the **720px/2** value, click on `Enter` and get the **360px** value.
 
 ### Calc()
 
 If you enter an expression containing different units, the input field will reformat it into a calc value.
 
-`For example, **100vh-60px** will be converted to **calc(100vh-60px)**.`
+For example, **100vh-60px** will be converted to **calc(100vh-60px)**.
 
 ### Input shortcuts
 

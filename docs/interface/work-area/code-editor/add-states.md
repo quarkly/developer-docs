@@ -1,5 +1,5 @@
 ---
-id: states
+id: add-states
 title: Как добавить состояния
 sidebar_label: Как добавить состояния
 ---

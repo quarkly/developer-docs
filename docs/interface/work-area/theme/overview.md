@@ -10,16 +10,16 @@ Some of the values can be used as part of other values. For example, a color val
 
 [![](https://img.youtube.com/vi/fyLLNYVNG30/0.jpg)](https://www.youtube.com/watch?v=fyLLNYVNG30)
 
-You can edit, remove and add new theme values. To edit or remove a value, mouse over it and click the relevant button. To add a new value, click on the `+` icon next to the category of the value you want to add. The categories are:
+You can edit, remove and add new theme values. To edit or remove a value, mouse over it and click the relevant button. To add a new value, click on the "**+**" icon next to the category of the value you want to add. The categories are:
 
--   [Text styles](/documentation/interface/work-area/theme/text-styles)
--   [Color styles](/documentation/interface/work-area/theme/color-styles)
--   [Background styles](/documentation/interface/work-area/theme/background-styles)
--   [Shadows](/documentation/interface/work-area/theme/shadows)
--   [Transitions](/documentation/interface/work-area/theme/transitions)
--   [Transforms](/documentation/interface/work-area/theme/transforms)
--   [Filters](/documentation/interface/work-area/theme/filters)
--   [Breakpoints](/documentation/interface/work-area/theme/breakpoints)
+-   [Text styles](/interface/work-area/theme/text-styles)
+-   [Color styles](/interface/work-area/theme/color-styles)
+-   [Background styles](/interface/work-area/theme/background-styles)
+-   [Shadows](/interface/work-area/theme/shadows)
+-   [Transitions](/interface/work-area/theme/transitions)
+-   [Transforms](/interface/work-area/theme/transforms)
+-   [Filters](/interface/work-area/theme/filters)
+-   [Breakpoints](/interface/work-area/theme/breakpoints)
 
 When creating a custom design, it’s better to apply a limited number of text styles, colors, fonts, shadows and so on. In the Quarkly Theme panel, you will find categorized values for various purposes.
 

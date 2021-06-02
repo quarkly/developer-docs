@@ -1,5 +1,5 @@
 ---
-id: components
+id: add-components
 title: Как добавить компоненты
 sidebar_label: Как добавить компоненты
 ---
@@ -36,7 +36,9 @@ sidebar_label: Как добавить компоненты
 Если хотите поместить один компонент в другой, вам нужно написать:
 
 ```
-<MyComponent>\n <Text> Простой текст </Text> \n</MyComponent>
+<MyComponent>
+  <Text>Простой текст</Text>
+</MyComponent>
 ```
 
 ---

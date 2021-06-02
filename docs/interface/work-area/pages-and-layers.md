@@ -65,6 +65,6 @@ You can open the context menu for a layer. The menu contains a list of actions y
 
 Choosing multiple elements
 
-If you need to choose several elements on the layers panel, click on them white-holding down the `Cmd (Ctrl)` key. To select a range of elements, click on the first on the list and then click on the last one while holding down the `Shift` key. The range will be marked as selected from the first to the last item. To exclude an element from the selected range, click on it while holding down the `Cmd (Ctrl)` key.
+If you need to choose several elements on the layers panel, click on them white-holding down the `Ctrl` or `⌘ (Cmd)` for MacOS. To select a range of elements, click on the first on the list and then click on the last one while holding down the `Shift` or `⇧ (Shift)` for MacOS. The range will be marked as selected from the first to the last item. To exclude an element from the selected range, click on it while holding down the `Ctrl` or `⌘ (Cmd)` for MacOS.
 
 ---

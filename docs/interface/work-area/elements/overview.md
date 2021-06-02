@@ -1,6 +1,6 @@
 ---
 id: overview
-title: Добавление элементов
+title: Панель для добавления элементов
 sidebar_label: Overview
 ---
 
@@ -8,8 +8,8 @@ sidebar_label: Overview
 
 Эта панель служит для добавления элементов на страницу. В ней содержатся 3 группы:
 
--   [Примитивы](/documentation/interface/work-area/elements/primitives/overview)
--   [Компоненты, участвующие в проекте](/documentation/interface/work-area/elements/components)
--   [Кнопки добавления блоков и компонентов из каталога](/documentation/interface/work-area/elements/catalog)
+-   [Примитивы](/interface/work-area/elements/primitives/overview)
+-   [Компоненты, участвующие в проекте](/interface/work-area/elements/components)
+-   [Кнопки добавления блоков и компонентов из каталога](/interface/work-area/elements/catalog)
 
 ---

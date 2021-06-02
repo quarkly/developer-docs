@@ -16,7 +16,7 @@ Backgrounds are used a lot in design. In addition to a plain color, you may want
 -   Attachment, background scrolling;
 -   Clip, background/border ratio.
 
-To add a background style to the theme, click on the `+` icon in front of the category.
+To add a background style to the theme, click on the "**+**" icon in front of the category.
 
 ![](https://uploads.quarkly.io/landing/docs-theme-panel-background-styles-create.png)
 
@@ -28,6 +28,8 @@ icon next to the Background property and select the background style you want.
 
 #### Configuring the code
 
-`background='--primaryGradient'`
+```
+background='--primaryGradient'
+```
 
 ---

@@ -12,7 +12,7 @@ On the page, you can see the page version that is close to how it is going to ap
 
 ![Выбор элементов на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-multi-select.png?v=2021-05-16T13:50:21.663Z)
 
-Elements are components the page contains. To select an element, click on it. To select several elements at a time, click on the desired elements while holding the `Shift` key.
+Elements are components the page contains. To select an element, click on it. To select several elements at a time, click on the desired elements while holding the `Shift` or `⇧ (Shift)` for MacOS.
 
 ![Button bar и Props panel элемента, когда он выбран](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-panels.png?v=2021-05-16T13:55:18.955Z)
 
@@ -20,7 +20,7 @@ Once an element is selected, the Props panel (on the right) and Button bar (on t
 
 -   Select one or several elements
 -   Move an element to another place
--   Clone an element (`Shift` + `D` or drag it while holding down the `Option (Alt)` key)
+-   Clone an element (`Shift` + `D` or `⇧ (Shift)` + `D` for MacOS, or drag it while holding down the `Alt` or `⌥ (Option)` for MacOS)
 -   Remove an element (`Del` or `Backspace`)
 -   Вкладывать элементы друг в друга (если такая возможность есть у элемента)
 
@@ -46,14 +46,16 @@ You can open the context menu for an element. The menu contains a list of action
 -   Push to Master
 -   Push All to Master
 
-#### How to add an element
+### How to add an element
 
-Есть два способа добавить элемент на страницу. Первый — перетащить или кликнуть на примитив или компонент из панели добавления.
+Есть два способа добавить элемент на страницу:
 
-![Добавление элемента из панели добавления](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-panel.png?v=2021-05-16T14:03:39.908Z)
+-   Первый — перетащить или кликнуть на примитив или компонент из панели добавления.
 
-Второй способ это нажать на кнопку `+`, открыть модальное окно Add и добавить блок или нужный компонент.
+    ![Добавление элемента из панели добавления](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-panel.png?v=2021-05-16T14:03:39.908Z)
 
-![Добавление элемента из модального окна](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-modal-view.png?v=2021-05-16T14:03:39.902Z)
+-   Второй – нажать кнопку "**+**", открыть модальное окно Add и добавить блок или нужный компонент.
+
+    ![Добавление элемента из модального окна](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-modal-view.png?v=2021-05-16T14:03:39.902Z)
 
 ---

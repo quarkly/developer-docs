@@ -15,7 +15,7 @@ Text style is a set of the following properties:
 -   Style, font outline (normal, italic, oblique).
 -   Variant, lowercase character variants.
 
-To add a text style to the theme, click on the `+` icon in front of the category.
+To add a text style to the theme, click on the "**+**" icon in front of the category.
 
 [![](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create-poster.png)](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create.mp4)
 
@@ -27,6 +27,8 @@ icon next to the Font property and select the text style you want.
 
 #### Configuring the code
 
-`font='--base'`
+```
+font='--base'
+```
 
 ---

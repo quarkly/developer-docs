@@ -14,7 +14,7 @@ Shadows make the interface vivid and your design more expressive. Shadow style i
 -   Spread radius
 -   Color
 
-To add a shadow style to the theme, click on the `+` icon in front of the category.
+To add a shadow style to the theme, click on the "**+**" icon in front of the category.
 
 ![](https://uploads.quarkly.io/landing/docs-theme-panel-shadow-styles-create.png)
 
@@ -26,6 +26,8 @@ icon next to the Box Shadow property and select the shadow style you want.
 
 #### Configuring the code
 
-`box-shadow='--xl'`
+```
+box-shadow='--xl'
+```
 
 ---

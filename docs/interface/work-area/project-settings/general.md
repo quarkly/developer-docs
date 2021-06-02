@@ -8,7 +8,7 @@ sidebar_label: General
 
 Здесь вы можете изменить имя проекта и задать favicon для разных устройств:
 
--   favicon 32px
+-   Favicon (32px)
 -   Apple Touch Icon (152px)
 -   Win10 OS Icon (270px)
 

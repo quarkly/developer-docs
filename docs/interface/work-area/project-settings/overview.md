@@ -8,12 +8,12 @@ sidebar_label: Overview
 
 Здесь вы можете переименовать проект, добавить favicons, описание, стили для всех страниц разом, добавить теги script, link, meta, style в head или body, а так же добавить зависимости проекта.
 
-В настройках проектов есть четыре раздела:
+В настройках проектов есть пять разделов:
 
--   [General](/documentation/interface/work-area/project-settings/general)
--   [SEO](/documentation/interface/work-area/project-settings/seo)
--   [Styles](/documentation/interface/work-area/project-settings/styles)
--   [Custom code](/documentation/interface/work-area/project-settings/custom-code/overview)
--   [Dependencies](/documentation/interface/work-area/project-settings/dependencies)
+-   [General](/interface/work-area/project-settings/general)
+-   [SEO](/interface/work-area/project-settings/seo)
+-   [Styles](/interface/work-area/project-settings/styles)
+-   [Custom code](/interface/work-area/project-settings/custom-code/overview)
+-   [Dependencies](/interface/work-area/project-settings/dependencies)
 
 ---

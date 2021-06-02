@@ -1,5 +1,5 @@
 ---
-id: properties
+id: add-properties
 title: Как добавить свойства
 sidebar_label: Как добавить свойства
 ---

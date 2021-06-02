@@ -6,7 +6,7 @@ sidebar_label: Color Styles
 
 [![](https://img.youtube.com/vi/tPupaz-C_1A/0.jpg)](https://www.youtube.com/watch?v=tPupaz-C_1A)
 
-To add a color style to the theme, click on the `+` icon in front of the category.
+To add a color style to the theme, click on the "**+**" icon in front of the category.
 
 [![](https://uploads.quarkly.io/landing/docs-theme-panel-color-styles-create-poster.png)](https://uploads.quarkly.io/landing/docs-theme-panel-color-styles-create.mp4)
 
@@ -20,6 +20,8 @@ icon next to the Color property and select the color you want.
 
 #### Configuring the code
 
-`color='--color-primary'`
+```
+color='--color-primary'
+```
 
 ---

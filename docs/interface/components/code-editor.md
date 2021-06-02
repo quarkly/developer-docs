@@ -6,7 +6,7 @@ sidebar_label: Компоненты и Code Editor
 
 ![Creating a Component in the Code Editor](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-components-create-plus.png?v=2021-05-24T12:58:21.884Z)
 
-To create a code component, click on the `+` button. You should be familiar with JavaScript and React.js. Once you’ve chosen the component name, the code editor will open, and you’ll see a default component. Code components allow:
+To create a code component, click on the "**+**" button. You should be familiar with JavaScript and React.js. Once you’ve chosen the component name, the code editor will open, and you’ll see a default component. Code components allow:
 
 -   Setting up any kind of content.
 -   Styling content however you like.
@@ -16,7 +16,7 @@ To create a code component, click on the `+` button. You should be familiar with
 -   Defining props (properties) for a component.
 -   Connecting to any external databases or API.
 
-To edit a component in the code editor, click on the `<>` button.
+To edit a component in the code editor, click on the "**&lt;&gt;**" button.
 
 ### How to connect an NPM module in components
 
@@ -37,10 +37,10 @@ Atomize is a library for creating Quarkly components.
 To make your React component work, you need to wrap it and define the object with the following configuration:
 
 ```
-const Dasdas = props => <div {...props}>Say hello Dasdas</div>
+const MyComponent = props => <div {...props}>Say hello MyComponent</div>
 
-export default atomize(Dasdas)({
-  name: "Dasdas",
+export default atomize(MyComponent)({
+  name: "MyComponent",
   effects: {
     hover: ":hover"
   },
@@ -49,7 +49,7 @@ export default atomize(Dasdas)({
   description: {
     // paste here the description for your component
     en:
-      "Dasdas — my awesome component",
+      "MyComponent — my awesome component",
   },
 
   propInfo: {
@@ -64,9 +64,9 @@ export default atomize(Dasdas)({
 
 Component configuration fields:
 
--   Effects. Defines browser pseudo-classes (hover, focus, etc).
--   Description. Defines the component description that shows up when hovering the mouse cursor over its name.
--   PropInfo. Configures controls that will be displayed on the right panel (props tab).
+-   **Effects** – defines browser pseudo-classes (hover, focus, etc).
+-   **Description** – defines the component description that shows up when hovering the mouse cursor over its name.
+-   **PropInfo** – configures controls that will be displayed on the right panel (props tab).
 
 ### How to display required properties on the props panel
 

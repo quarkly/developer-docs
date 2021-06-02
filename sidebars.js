@@ -64,7 +64,7 @@ module.exports = {
             },
             {
               type: 'category',
-              label: 'Elements',
+              label: 'Adding Panel',
               items: [
                 'interface/work-area/elements/overview',
                 {
@@ -97,20 +97,7 @@ module.exports = {
               label: 'Props panel',
               items: [
                 'interface/work-area/props-panel/overview',
-                {
-                  type: 'category',
-                  label: 'Styles',
-                  items: [
-                    'interface/work-area/props-panel/styles/overview',
-                    'interface/work-area/props-panel/styles/states',
-                    'interface/work-area/props-panel/styles/layout',
-                    'interface/work-area/props-panel/styles/typography',
-                    'interface/work-area/props-panel/styles/indents',
-                    'interface/work-area/props-panel/styles/border',
-                    'interface/work-area/props-panel/styles/position',
-                    'interface/work-area/props-panel/styles/effects',
-                  ],
-                },
+                'interface/work-area/props-panel/styles',
                 'interface/work-area/props-panel/props',
                 'interface/work-area/props-panel/tips-and-tricks',
               ],
@@ -158,10 +145,10 @@ module.exports = {
               label: 'Code editor',
               items: [
                 'interface/work-area/code-editor/overview',
-                'interface/work-area/code-editor/components',
-                'interface/work-area/code-editor/properties',
-                'interface/work-area/code-editor/states',
-                'interface/work-area/code-editor/styles',
+                'interface/work-area/code-editor/add-components',
+                'interface/work-area/code-editor/add-properties',
+                'interface/work-area/code-editor/add-states',
+                'interface/work-area/code-editor/add-styles',
               ],
             },
           ],

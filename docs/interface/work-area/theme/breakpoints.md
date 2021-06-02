@@ -11,12 +11,14 @@ Breakpoints (control points) are conditions under which additional design option
 -   Type, breakpoint type with max-width before the specified value and min-width after the specified value.
 -   Value, breakpoint values in pixels.
 
-The breakpoints specified in the theme are applied to all pages. To add a breakpoint to the theme, click on the `+` icon in front of the category.
+The breakpoints specified in the theme are applied to all pages. To add a breakpoint to the theme, click on the "**+**" icon in front of the category.
 
 ![](https://uploads.quarkly.io/landing/docs-theme-panel-breakpoints-create.png)
 
 #### Configuring the code
 
-`sm-width='100%'`
+```
+sm-width='100%'
+```
 
 ---

@@ -11,7 +11,7 @@ Transforms allow you to rotate, zoom or move an element and even more. Transform
 -   Type, transform type.
 -   Arguments, value.
 
-To add a transform to the theme, click on the `+` icon in front of the category.
+To add a transform to the theme, click on the "**+**" icon in front of the category.
 
 [![](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create-poster.png)](https://uploads.quarkly.io/landing/docs-theme-panel-text-styles-create.mp4)
 
@@ -23,6 +23,8 @@ icon next to the Transform property and select the transform value you want.
 
 #### Configuring the code
 
-`transform='--rotate90'`
+```
+transform='--rotate90'
+```
 
 ---

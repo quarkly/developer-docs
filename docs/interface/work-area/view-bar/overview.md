@@ -8,7 +8,7 @@ sidebar_label: Overview
 
 Under Top bar, you'll find the View bar. You can zoom, resize the page, and choose the desired breakpoint option.
 
-Content:
+View bar содержит:
 
 -   Zoom
 -   Page resolution

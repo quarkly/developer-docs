@@ -11,7 +11,7 @@ Filter contains styles with visual effects similar to those in Adobe Photoshop. 
 -   Type
 -   Arguments
 
-To add a filter to the theme, click on the `+` icon in front of the category.
+To add a filter to the theme, click on the "**+**" icon in front of the category.
 
 ![](https://uploads.quarkly.io/landing/docs-theme-panel-filters-create.png)
 
@@ -23,6 +23,8 @@ icon next to the Filter property and select the filter value you want.
 
 #### Configuring the code
 
-`filter='--blur'`
+```
+filter='--blur'
+```
 
 ---
