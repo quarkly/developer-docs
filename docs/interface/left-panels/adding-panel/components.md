@@ -21,7 +21,7 @@ sidebar_label: Components
 
 ### Удаленные компоненты
 
-![](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-doesnot-exist.png?v=2021-05-16T12:45:45.324Z)
+![Сообщение об удалённом компоненте](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-doesnot-exist.png?v=2021-05-16T12:45:45.324Z)
 
 Если компонент есть на странице и его удаляют, вместо него появляется заглушка.
 

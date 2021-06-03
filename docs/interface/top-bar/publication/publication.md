@@ -18,11 +18,11 @@ sidebar_label: Публикация проекта
 
 Статус можно увидеть на бейджике:
 
-| Description                         | Badge                                |
-| :---------------------------------- | :----------------------------------- |
-| Публикация проекта запущена         | ![](/img/netlify-badge-building.svg) |
-| Публикация завершена успешно        | ![](/img/netlify-badge-success.svg)  |
-| Публикация остановлена из-за ошибки | ![](/img/netlify-badge-failed.svg)   |
-| Публикация остановлена вручную      | ![](/img/netlify-badge-canceled.svg) |
+| Description                         | Badge                                              |
+| :---------------------------------- | :------------------------------------------------- |
+| Публикация проекта запущена         | ![badge-building](/img/netlify-badge-building.svg) |
+| Публикация завершена успешно        | ![badge-success](/img/netlify-badge-success.svg)   |
+| Публикация остановлена из-за ошибки | ![badge-failed](/img/netlify-badge-failed.svg)     |
+| Публикация остановлена вручную      | ![badge-canceled](/img/netlify-badge-canceled.svg) |
 
 ---

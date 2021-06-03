@@ -6,7 +6,7 @@ sidebar_label: Редактирование элементов
 
 ### How to resize an element with absolute and fixed position
 
-[![](https://img.youtube.com/vi/NFfHupUQnHY/0.jpg)](https://www.youtube.com/watch?v=NFfHupUQnHY)
+[![How to resize an element with absolute and fixed position](https://img.youtube.com/vi/NFfHupUQnHY/0.jpg)](https://www.youtube.com/watch?v=NFfHupUQnHY)
 
 You can use your mouse to resize elements with absolute and fixed position. Just grab any corner or edge of the selected element and pull it to the desired size.
 

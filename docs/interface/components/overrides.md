@@ -4,7 +4,7 @@ title: Overrides
 sidebar_label: Overrides
 ---
 
-![](/screenshots/overrides-general.png)
+![Список оверрайдов у дочернего элемента](/screenshots/overrides-general.png)
 
 Оверрайды позволяют выделять на холсте некоторые дочерные элементы компонента, изменять их стили и свойства.
 
