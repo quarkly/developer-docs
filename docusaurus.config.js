@@ -10,7 +10,7 @@ module.exports = {
 	organizationName: 'quarkly-team',
 	projectName: 'quarkly-docs',
 	themeConfig: {
-		image: '/img/q-og-1200.png',
+		// image: '/img/q-og-1200.png',
 		metadatas: [{name: 'twitter:card', content: 'summary'}],
 		colorMode: {
 			defaultMode: 'light',
