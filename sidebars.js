@@ -174,6 +174,7 @@ module.exports = {
             'interface/components/add',
             'interface/components/actions',
             'interface/components/code-editor',
+            'interface/components/overrides',
           ],
         },
         'interface/context-menu',

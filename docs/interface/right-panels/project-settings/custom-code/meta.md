@@ -4,7 +4,7 @@ title: <meta>
 sidebar_label: <meta>
 ---
 
-![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-meta.png?v=2021-05-21T14:21:16.038Z)
+![Тег <meta>](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-meta.png?v=2021-05-21T14:21:16.038Z)
 
 Добавляет метатеги в проект. Метатеги используются для хранения информации предназначенной для браузеров и поисковых систем.
 

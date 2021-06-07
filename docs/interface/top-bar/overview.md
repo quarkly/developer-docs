@@ -23,10 +23,10 @@ Top bar — это верхняя панель конструктора. Она 
 -   **Действия над проектом**<br />
     Вы можете переименовать проект, открыть его свойства, поделиться проектом с другими пользователями или удалить его. Для этого нажмите на иконку ![Стрелка вниз](/img/icon-arrow-down.svg) и покажется список команд:
 
-    -   Share project
+    -   [Share](/interface/top-bar/share)
+    -   [Settings](/interface/right-panels/project-settings/overview)
     -   Rename
     -   Delete
-    -   Settings
 
 -   **Undo**<br />
     Отмена любого действия в проекте.

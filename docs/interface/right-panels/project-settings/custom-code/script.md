@@ -4,7 +4,7 @@ title: <script>
 sidebar_label: <script>
 ---
 
-![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-script.png?v=2021-05-21T14:21:00.800Z)
+![Тег <script>](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code-script.png?v=2021-05-21T14:21:00.800Z)
 
 Добавляет пользовательский javascript код в проект.
 

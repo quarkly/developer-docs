@@ -4,7 +4,7 @@ title: Custom code
 sidebar_label: Overview
 ---
 
-![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code.png?v=2021-05-21T14:20:34.230Z)
+![Вкладка Custom Code](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-code.png?v=2021-05-21T14:20:34.230Z)
 
 Вкладка Custom Code, отвечает за добавление тегов внутрь head и в конец body.
 

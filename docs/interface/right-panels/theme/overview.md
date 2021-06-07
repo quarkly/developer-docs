@@ -8,7 +8,7 @@ sidebar_label: Overview
 
 Some of the values can be used as part of other values. For example, a color value can be part of a shadow style value.
 
-[![](https://img.youtube.com/vi/fyLLNYVNG30/0.jpg)](https://www.youtube.com/watch?v=fyLLNYVNG30)
+[![Theme](https://img.youtube.com/vi/fyLLNYVNG30/0.jpg)](https://www.youtube.com/watch?v=fyLLNYVNG30)
 
 You can edit, remove and add new theme values. To edit or remove a value, mouse over it and click the relevant button. To add a new value, click on the "**+**" icon next to the category of the value you want to add. The categories are:
 

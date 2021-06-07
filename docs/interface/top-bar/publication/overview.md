@@ -17,10 +17,10 @@ sidebar_label: Overview
 5. Сохраните код в репозитории
 6. Войдите или зарегистрируйтесь в Netlify
 7. Прикрепите проект к существующему или к новому сайту
-8. Нажмите кнопку "**Deploy**". Процесс сборки и публикации занимает некоторое время, обычно несколько минут. Статус можно увидеть на бейджике ![](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-badge.svg?v=2021-05-15T11:14:44.866Z)
+8. Нажмите кнопку "**Deploy**". Процесс сборки и публикации занимает некоторое время, обычно несколько минут. Статус можно увидеть на бейджике ![badge-building](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-badge.svg?v=2021-05-15T11:14:44.866Z)
 
 #### Видеоурок "Как опубликовать проект"
 
-[![](https://img.youtube.com/vi/qePS-JDO-oQ/0.jpg)](https://www.youtube.com/watch?v=qePS-JDO-oQ)
+[![Integration with Netlify](https://img.youtube.com/vi/qePS-JDO-oQ/0.jpg)](https://www.youtube.com/watch?v=qePS-JDO-oQ)
 
 ---

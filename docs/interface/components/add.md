@@ -4,7 +4,7 @@ title: Добавление компонентов
 sidebar_label: Добавление компонентов
 ---
 
-![](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-components-add.png?v=2021-05-24T12:53:33.497Z)
+![Добавление компонентов на страницу](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-components-add.png?v=2021-05-24T12:53:33.497Z)
 
 There are several ways to add the component you need to your page. You may want to grab it from the panel with the mouse and drop it in the desired place. If you left-click a component, it is added to the bottom of the page. Also, you can click on the `+` button on the block to add a component.
 
