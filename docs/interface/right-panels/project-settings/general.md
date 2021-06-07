@@ -4,7 +4,7 @@ title: General
 sidebar_label: General
 ---
 
-![Общие настройки проекта](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-project-settings-general.png?v=2021-05-21T14:19:08.199Z)
+![Общие настройки проекта](/scr/project-settings-general.png)
 
 Здесь вы можете изменить имя проекта и задать favicon для разных устройств:
 

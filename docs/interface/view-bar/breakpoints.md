@@ -4,7 +4,7 @@ title: Breakpoints
 sidebar_label: Breakpoints
 ---
 
-![Выбор брейкпоинта в View bar](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-viewbar-breakpoints.png?v=2021-05-15T14:05:39.826Z)
+![Выбор брейкпоинта в View bar](/scr/viewbar-breakpoints.png)
 
 Breakpoints (control points) are the conditions under which additional design options for your page appear. For example, if your screen width is less than 768px, your can turn your four-column layout into a two-column layout.
 
@@ -16,6 +16,6 @@ Choosing the breakpoint design is up to you. Just activate the desired breakpoin
 
 If you want to add a custom breakpoint or edit an existing one, go to the Theme panel and click on the `+` button to add a new value to the Breakpoints section.
 
-![Настройка брейкпоинта в Theme / Breakpoints](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-viewbar-breakpoints-create-new.png?v=2021-05-15T14:15:25.374Z)
+![Настройка брейкпоинта в Theme / Breakpoints](/scr/viewbar-breakpoints-adding.png)
 
 ---

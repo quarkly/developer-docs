@@ -4,7 +4,7 @@ title: Удаление проекта
 sidebar_label: Удаление проекта
 ---
 
-![Пункт "Delete" в контекстном меню удаляет проект](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-delete-project.png?v=2021-05-15T08:07:10.021Z)
+![Пункт "Delete" в контекстном меню удаляет проект](/scr/dashboard-remove-project.png)
 
 Как удалить проект:
 

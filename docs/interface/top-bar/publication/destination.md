@@ -10,7 +10,7 @@ sidebar_label: Выбор источника хранения
 1. GitHub репозиторий
 2. Zip-архив
 
-![Выбор источника хранения перед публикацией проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-destination.png?v=2021-05-15T11:42:16.961Z)
+![Выбор источника хранения перед публикацией проекта](/scr/publication-destination.png)
 
 #### Zip-архив
 

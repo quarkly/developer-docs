@@ -4,7 +4,7 @@ title: Box
 sidebar_label: Box
 ---
 
-![Примитив Box на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-box.png?v=2021-05-16T07:58:43.685Z)
+![Примитив Box на странице](/scr/primitives-box.png)
 
 ##### Примитив Box — это универсальный контейнер
 

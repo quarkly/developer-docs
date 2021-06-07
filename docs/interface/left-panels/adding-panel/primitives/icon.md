@@ -4,7 +4,7 @@ title: Icon
 sidebar_label: Icon
 ---
 
-![Примитив Icon на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-icon.png?v=2021-05-16T08:06:42.344Z)
+![Примитив Icon на странице](/scr/primitives-icon.png)
 
 ##### Иконка из доступного в конструкторе набора.
 

@@ -4,7 +4,7 @@ title: Button
 sidebar_label: Button
 ---
 
-![Примитив Button на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-button.png?v=2021-05-16T08:00:52.766Z)
+![Примитив Button на странице](/scr/primitives-button.png)
 
 ##### Простая кнопка, которая предназначена для отправки формы
 

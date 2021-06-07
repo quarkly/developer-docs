@@ -16,13 +16,13 @@ Shadows make the interface vivid and your design more expressive. Shadow style i
 
 To add a shadow style to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей shadows в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-shadow-styles-create.png)
+![Добавление новых стилей shadows в тему проекта](/scr/theme-panel-shadows-add.png)
 
 To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Box Shadow property and select the shadow style you want.
 
-![Применение стилей shadows из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-shadow-styles-apply.png)
+![Применение стилей shadows из темы проекта](/scr/theme-panel-shadows-apply.png)
 
 #### Configuring the code
 

@@ -15,13 +15,13 @@ Transitions can be used when styles of an element are changed in response to som
 
 To add a transition to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей transition в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-transitions-styles-create.png)
+![Добавление новых стилей transition в тему проекта](/scr/theme-panel-transitions-add.png)
 
 To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Transition property and select the transition value you want.
 
-![Применение стилей transition из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-shadow-styles-apply.png)
+![Применение стилей transition из темы проекта](/scr/theme-panel-transitions-apply.png)
 
 #### Configuring the code
 

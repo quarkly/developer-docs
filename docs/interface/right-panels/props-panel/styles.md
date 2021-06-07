@@ -12,7 +12,7 @@ All style properties are grouped into the following tabs:
 
 ### States
 
-![Состояния элементов (pseudo-classes)](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-props-panel-styles-states.png?v=2021-05-20T15:36:47.246Z)
+![Состояния элементов (pseudo-classes)](/scr/props-panel-styles-states.png)
 
 To configure the styles for a pseudo-class, select the desired style in the tab and change it. Don't forget to go back to the default state. To check how it works, go to the preview mode.
 

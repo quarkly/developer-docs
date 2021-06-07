@@ -13,13 +13,13 @@ Filter contains styles with visual effects similar to those in Adobe Photoshop. 
 
 To add a filter to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей filters в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-filters-create.png)
+![Добавление новых стилей filters в тему проекта](/scr/theme-panel-filters-add.png)
 
 To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Filter property and select the filter value you want.
 
-![Применение стилей filters из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-filters-apply.png)
+![Применение стилей filters из темы проекта](/scr/theme-panel-filters-apply.png)
 
 #### Configuring the code
 

@@ -4,7 +4,7 @@ title: Компоненты и Code Editor
 sidebar_label: Компоненты и Code Editor
 ---
 
-![Creating a Component in the Code Editor](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-components-create-plus.png?v=2021-05-24T12:58:21.884Z)
+![Creating a Component in the Code Editor](/scr/components-creating-plus.png)
 
 To create a code component, click on the "**+**" button. You should be familiar with JavaScript and React.js. Once you’ve chosen the component name, the code editor will open, and you’ll see a default component. Code components allow:
 

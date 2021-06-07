@@ -4,7 +4,7 @@ title: Link
 sidebar_label: Link
 ---
 
-![Примитив Link на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-link.png?v=2021-05-16T08:11:09.789Z)
+![Примитив Link на странице](/scr/primitives-link.png)
 
 ##### Примитив Link служит для:
 

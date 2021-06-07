@@ -4,7 +4,7 @@ title: Создание нового проекта
 sidebar_label: Создание нового проекта
 ---
 
-![Указание имени нового проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-enter-project-name.png?v=2021-05-15T08:01:05.663Z)
+![Указание имени нового проекта](/scr/dashboard-create-project.png)
 
 Вы можете создать до 100 своих проектов.
 

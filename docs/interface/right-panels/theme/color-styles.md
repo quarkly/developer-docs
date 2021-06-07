@@ -8,15 +8,15 @@ sidebar_label: Color Styles
 
 To add a color style to the theme, click on the "**+**" icon in front of the category.
 
-[![Добавление нового цвета в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-color-styles-create-poster.png)](https://youtu.be/TXmSrIW-l78)
+[![Добавление нового цвета в тему проекта](/scr/theme-panel-color-styles-add-poster.png)](https://youtu.be/TXmSrIW-l78)
 
 The color value in the theme can be any of those available in CSS. A color from the theme can be set as a font color, block background color, border color, etc.
 
 For example, to change the theme, go to the Typography section on the Styles panel, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Color property and select the color you want.
 
-[![Применение цвета из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-color-styles-apply-poster.png)](https://youtu.be/hDUcr_guXGg)
+[![Применение цвета из темы проекта](/scr/theme-panel-color-styles-apply-poster.png)](https://youtu.be/hDUcr_guXGg)
 
 #### Configuring the code
 

@@ -13,13 +13,13 @@ Transforms allow you to rotate, zoom or move an element and even more. Transform
 
 To add a transform to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей transform в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-transforms-styles-create.png)
+![Добавление новых стилей transform в тему проекта](/scr/theme-panel-transforms-add.png)
 
 To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Transform property and select the transform value you want.
 
-![Применение стилей transform из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-transforms-styles-apply.png)
+![Применение стилей transform из темы проекта](/scr/theme-panel-transforms-apply.png)
 
 #### Configuring the code
 

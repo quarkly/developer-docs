@@ -18,13 +18,13 @@ Backgrounds are used a lot in design. In addition to a plain color, you may want
 
 To add a background style to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей background в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-background-styles-create.png)
+![Добавление новых стилей background в тему проекта](/scr/theme-panel-background-styles-add.png)
 
 To add a background style from the theme to an element, go to the Styles panel, click on the
-![Иконка переменной темы](https://uploads.quarkly.io/landing/docs-theme-variables-icon.svg?v=1)
+![Иконка переменной темы](/img/icon-theme-variable.svg)
 icon next to the Background property and select the background style you want.
 
-![Применение стилей background из темы проекта](https://uploads.quarkly.io/landing/docs-theme-panel-background-styles-apply.png)
+![Применение стилей background из темы проекта](/scr/theme-panel-background-styles-apply.png)
 
 #### Configuring the code
 

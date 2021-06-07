@@ -4,17 +4,17 @@ title: Page
 sidebar_label: Overview
 ---
 
-![Страница в интерфейсе](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-interface.png?v=2021-05-16T13:46:40.507Z)
+![Страница в интерфейсе](/scr/page-interface.png)
 
 On the page, you can see the page version that is close to how it is going to appear for your visitors.
 
 ### Элементы на странице
 
-![Выбор элементов на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-multi-select.png?v=2021-05-16T13:50:21.663Z)
+![Выбор элементов на странице](/scr/page-elements-general.png)
 
 Elements are components the page contains. To select an element, click on it. To select several elements at a time, click on the desired elements while holding the `Shift` or `⇧ (Shift)` for MacOS.
 
-![Button bar и Props panel элемента, когда он выбран](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-panels.png?v=2021-05-16T13:55:18.955Z)
+![Button bar и Props panel элемента, когда он выбран](/scr/page-elements-panels.png)
 
 Once an element is selected, the Props panel (on the right) and Button bar (on the page) will appear. In addition, you can manage elements in the Pages and Layers tab. You can perform the following actions to the elements on the page and layers panel:
 
@@ -28,7 +28,7 @@ You can open the context menu for an element. The menu contains a list of action
 
 ### Список действий над элементом
 
-![Контекстное меню элемента](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-primitive.png?v=2021-05-20T15:59:40.385Z)
+![Контекстное меню элемента](/scr/context-menu-element.png)
 
 Содержит:
 
@@ -39,7 +39,7 @@ You can open the context menu for an element. The menu contains a list of action
 
 ### Список действий над компонентом
 
-![Контекстное меню компонента](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-component.png?v=2021-05-20T16:17:22.664Z)
+![Контекстное меню компонента](/scr/context-menu-component.png)
 
 Содержит:
 

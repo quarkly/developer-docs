@@ -4,7 +4,7 @@ title: Input
 sidebar_label: Input
 ---
 
-![Примитив Input на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-input.png?v=2021-05-16T08:09:53.001Z)
+![Примитив Input на странице](/scr/primitives-input.png)
 
 ##### Примитив Input представляет собой одно или многострочное поле ввода текста. Input служит для передачи текстовой информации в форму.
 

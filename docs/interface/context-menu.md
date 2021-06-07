@@ -4,13 +4,13 @@ title: Context Menu
 sidebar_label: Context Menu
 ---
 
-![Контекстное меню примитива](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-primitive.png?v=2021-05-20T15:59:40.385Z)
+![Контекстное меню примитива](/scr/context-menu-primitive.png)
 
 Контекстное меню содержит список действий над элементом, страницей, компонентом и другой сущностью. Чтобы вызвать контекстное меню, наведите курсор и нажмите правой кнопкой мыши.
 
 ### Context menu of a page
 
-![Контекстное меню страницы](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-page.png?v=2021-05-20T16:16:44.663Z)
+![Контекстное меню страницы](/scr/context-menu-page.png)
 
 Содержит:
 
@@ -23,7 +23,7 @@ sidebar_label: Context Menu
 
 ### Контекстное меню для элемента в списке слоев
 
-![Контекстное меню слоя](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-layer.png?v=2021-05-20T16:17:09.011Z)
+![Контекстное меню слоя](/scr/context-menu-layer.png)
 
 Содержит:
 
@@ -36,7 +36,7 @@ sidebar_label: Context Menu
 
 ### Контекстное меню для компонента в списке слоев и на странице
 
-![Контекстное меню компонента](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-component.png?v=2021-05-20T16:17:22.664Z)
+![Контекстное меню компонента](/scr/context-menu-component.png)
 
 Содержит:
 
@@ -54,7 +54,7 @@ sidebar_label: Context Menu
 
 ### Элемент(примитив) на странице
 
-![Контекстное меню примитива](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-primitive.png?v=2021-05-20T15:59:40.385Z)
+![Контекстное меню примитива](/scr/context-menu-element.png)
 
 Содержит:
 
@@ -65,7 +65,7 @@ sidebar_label: Context Menu
 
 ### Контекстное меню для группы элементов на странице
 
-![Контекстное меню для группы элементов](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-group-elements.png?v=2021-05-20T16:18:53.644Z)
+![Контекстное меню для группы элементов](/scr/context-menu-group-elements.png)
 
 Содержит:
 
@@ -74,7 +74,7 @@ sidebar_label: Context Menu
 
 ### Контекстное меню для группы элементов в списке слоев
 
-![Контекстное меню для группы слоев](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-group-layers.png?v=2021-05-20T16:19:06.845Z)
+![Контекстное меню для группы слоев](/scr/context-menu-group-components.png)
 
 Содержит:
 
@@ -83,7 +83,7 @@ sidebar_label: Context Menu
 
 ### Контекстное меню для значения в Theme
 
-![Контекстное меню для значения в теме](https://test-upl.quarkly.io/60a657b1e3623a001f692958/images/docs-new-workarea-context-menu-theme-variable.png?v=2021-05-20T16:19:21.866Z)
+![Контекстное меню для значения в теме](/scr/context-menu-theme-variable.png)
 
 Содержит:
 

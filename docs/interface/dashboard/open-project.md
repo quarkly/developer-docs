@@ -4,7 +4,7 @@ title: Открытие проекта
 sidebar_label: Открытие проекта
 ---
 
-![Пункт "Delete" в контекстном меню удаляет проект](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-open-project.png?v=2021-05-15T08:07:10.023Z)
+![Пункт "Delete" в контекстном меню удаляет проект](/scr/dashboard-open-project.png)
 
 Кликните на карточку проекта, чтобы перейти в конструктор.
 

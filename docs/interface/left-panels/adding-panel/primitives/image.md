@@ -4,7 +4,7 @@ title: Image
 sidebar_label: Image
 ---
 
-![Примитив Image на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-image.png?v=2021-05-16T08:08:44.744Z)
+![Примитив Image на странице](/scr/primitives-image.png)
 
 ##### Примитив Image представляет собой изображение
 

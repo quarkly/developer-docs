@@ -8,10 +8,10 @@ sidebar_label: Добавление элементов
 
 -   Первый — перетащить или кликнуть на примитив или компонент из панели добавления.
 
-    ![Добавление элемента из панели добавления](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-panel.png?v=2021-05-16T14:03:39.908Z)
+    ![Добавление элемента из панели добавления](/scr/page-elements-adding-from-panel.png)
 
 -   Второй – нажать кнопку "**+**", открыть модальное окно Add и добавить блок или нужный компонент.
 
-    ![Добавление элемента из модального окна](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-page-elements-adding-from-modal-view.png?v=2021-05-16T14:03:39.902Z)
+    ![Добавление элемента из модального окна](/scr/page-elements-adding-from-modal.png)
 
 ---

@@ -13,7 +13,7 @@ Breakpoints (control points) are conditions under which additional design option
 
 The breakpoints specified in the theme are applied to all pages. To add a breakpoint to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление нового breakpoint в тему проекта](https://uploads.quarkly.io/landing/docs-theme-panel-breakpoints-create.png)
+![Добавление нового breakpoint в тему проекта](/scr/theme-panel-breakpoints-add.png)
 
 #### Configuring the code
 

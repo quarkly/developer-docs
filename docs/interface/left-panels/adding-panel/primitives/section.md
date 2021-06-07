@@ -4,7 +4,7 @@ title: Section
 sidebar_label: Section
 ---
 
-![Примитив Section на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-section.png?v=2021-05-16T08:12:43.154Z)
+![Примитив Section на странице](/scr/primitives-section.png)
 
 ##### Примитив Section — это основа для создания блоков страницы
 

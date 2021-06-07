@@ -4,7 +4,7 @@ title: List
 sidebar_label: List
 ---
 
-![Примитив List на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-list.png?v=2021-05-16T08:12:13.886Z)
+![Примитив List на странице](/scr/primitives-list.png)
 
 ##### Примитив List предназначен для отображения списков и повторяющихся элементов, например карточек
 

@@ -4,7 +4,7 @@ title: Components
 sidebar_label: Components
 ---
 
-![Раздел Components на панели добавления](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-panel.png?v=2021-05-16T12:47:08.732Z)
+![Раздел Components на панели добавления](/scr/components-panel.png)
 
 В этом разделе находятся:
 
@@ -15,13 +15,13 @@ sidebar_label: Components
 
 ### Действия с компонентами на панели
 
-![Контекстное меню компонентов на панели](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-actions.png?v=2021-05-16T13:05:03.439Z)
+![Контекстное меню компонентов на панели](/scr/components-actions.png)
 
 Компоненты, созданные пользователем, можно удалять и редактировать их код. Компоненты, добавленные из маркетплейса, можно только удалить.
 
 ### Удаленные компоненты
 
-![Сообщение об удалённом компоненте](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-doesnot-exist.png?v=2021-05-16T12:45:45.324Z)
+![Сообщение об удалённом компоненте](/scr/components-deleted.png)
 
 Если компонент есть на странице и его удаляют, вместо него появляется заглушка.
 

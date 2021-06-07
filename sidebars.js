@@ -61,7 +61,6 @@ module.exports = {
           type: 'category',
           label: 'Left Panels',
           items: [
-            'interface/left-panels/overview',
             {
               type: 'category',
               label: 'Adding Panel',
@@ -88,7 +87,15 @@ module.exports = {
                 'interface/left-panels/adding-panel/catalog',
               ],
             },
-            'interface/left-panels/pages-and-layers',
+            {
+              type: 'category',
+              label: 'Pages and Layers',
+              items: [
+                'interface/left-panels/pages-and-layers/overview',
+                'interface/left-panels/pages-and-layers/pages',
+                'interface/left-panels/pages-and-layers/layers',
+              ],
+            },
             {
               type: 'category',
               label: 'Code editor',
@@ -116,7 +123,6 @@ module.exports = {
           type: 'category',
           label: 'Right Panels',
           items: [
-            'interface/right-panels/overview',
             {
               type: 'category',
               label: 'Theme',

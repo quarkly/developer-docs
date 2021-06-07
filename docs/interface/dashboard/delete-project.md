@@ -4,7 +4,7 @@ title: Полное удаление проекта
 sidebar_label: Полное удаление проекта
 ---
 
-![Пункт "Delete forever" в контекстном меню удаляет проект полностью](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-dashboard-delete-project-forever.png?v=2021-05-15T08:13:53.940Z)
+![Пункт "Delete forever" в контекстном меню удаляет проект полностью](/scr/dashboard-delete-project.png)
 
 Как удалить проект полностью:
 

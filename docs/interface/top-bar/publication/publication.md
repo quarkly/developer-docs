@@ -4,7 +4,7 @@ title: Публикация проекта
 sidebar_label: Публикация проекта
 ---
 
-![Публикация проекта](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-netlify.png?v=2021-05-15T12:02:18.544Z)
+![Публикация проекта](/scr/publication-netlify.png)
 
 После того, как вы сохранили проект в GitHub репозиторий, появляется возможность опубликовать его с помощью сервиса [Netlify](https://netlify.app/).
 

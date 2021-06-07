@@ -4,7 +4,7 @@ title: Text
 sidebar_label: Text
 ---
 
-![Примитив Text на странице](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-workarea-components-primitives-text.png?v=2021-05-16T08:18:11.646Z)
+![Примитив Text на странице](/scr/primitives-text.png)
 
 ##### Примитив Text выводит текстовую информацию на странице
 

@@ -4,13 +4,13 @@ title: Catalog
 sidebar_label: Catalog
 ---
 
-![Кнопки открытия каталога](/screenshots/catalog-general.png)
+![Кнопки открытия каталога](/scr/catalog-general.png)
 
 Каталог состоит из двух разделов: "**Blocks**" и "**Components**"
 
 ### Blocks
 
-![Раздел "Blocks"](/screenshots/catalog-blocks.png)
+![Раздел "Blocks"](/scr/catalog-blocks.png)
 
 Все доступные блоки разделены на следующие категории:
 
@@ -28,7 +28,7 @@ sidebar_label: Catalog
 
 ### Components
 
-![Раздел "Components"](/screenshots/catalog-components.png)
+![Раздел "Components"](/scr/catalog-components.png)
 
 В разделе "Components" доступно несколько категорий:
 

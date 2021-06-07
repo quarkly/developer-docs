@@ -12,7 +12,7 @@ sidebar_label: Доменное имя
 2. Введите нужное доменное имя
 3. Нажмите кнопку "**Save**"
 
-![Публикация проекта на техническом доменном имени](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-technical-domain.png?v=2021-05-15T12:21:09.444Z)
+![Публикация проекта на техническом доменном имени](/scr/publication-domain-technical.png)
 
 Чтобы прикрепить своё доменное имя к сайту, необходимо:
 
@@ -21,6 +21,6 @@ sidebar_label: Доменное имя
 3. Нажмите кнопку "**Save**"
 4. У регистратора, где вы покупали свое доменное имя, в настройках **Name Servers (NS)**, необходимо указать адреса серверов, указанные в инструкции.
 
-![Публикация проекта на своём персональном доменном имени](https://test-upl.quarkly.io/607d3473b99fb9001fcbcc16/images/docs-new-topbar-publication-custom-domain.png?v=2021-05-15T12:21:09.443Z)
+![Публикация проекта на своём персональном доменном имени](/scr/publication-domain-custom.png)
 
 ---

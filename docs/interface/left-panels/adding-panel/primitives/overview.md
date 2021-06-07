@@ -4,7 +4,7 @@ title: Примитивы
 sidebar_label: Overview
 ---
 
-![Список простых элементов](https://uploads.quarkly.io/landing/docs-interface-context-menu.png)
+![Список простых элементов](/scr/context-menu-element.png)
 
 В этом разделе находятся простые элементы, которые используются чаще всего.
 
