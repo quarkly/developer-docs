@@ -4,48 +4,70 @@ title: Interface
 sidebar_label: Overview
 ---
 
-#### [Dashboard](/documentation/interface/dashboard/overview)
+### [Dashboard](/interface/dashboard/overview)
 
-Отдельная страница, где вы создаете и управляете проектами.
+![Dashboard](/scr/interface-dashboard.png)
 
-#### [Визуальный редактор](/documentation/interface/work-area/overview)
+Отдельная страница, где вы можете создавать и управлять доступными проектами.
 
-Открывая проект, вы попадаете в визуальный редактор. Это основной интерфейс Quarkly. Здесь вы наполняете контентом стилизуете и настраиваете страницы вашего проекта.
+### [Визуальный редактор](/interface/left-panels/overview)
 
-#### [Top Bar](/documentation/interface/top-bar/overview)
+![Визуальный редактор](/scr/interface-editor.png)
 
-Эта панель располагается сверху. Здесь находятся кнопки открытия панелей, название и действия над проектом, кнопки отмены и возврата, превью, публикации и настройки аккаунта.
+Открывая проект, вы попадаете в визуальный редактор. Это основной интерфейс Quarkly. Здесь вы наполняете контентом, стилизуете и настраиваете страницы вашего проекта.
 
-#### [Publication](/documentation/interface/top-bar/publication/overview)
+### [Top Bar](/interface/top-bar/overview)
 
-Нажимая на кнопку "Publish" вы открываете модальное окно публикации проекта. Сам процесс публикации состоит из нескольких этапов: выбор структуры, выбор GitHub репозитория, сборка сайта на Netlify. В результате вы получаете ссылку на опубликованный проект.
+![Top Bar](/scr/interface-topbar.png)
 
-#### [View Bar](/documentation/interface/work-area/view-bar/overview)
+Эта панель располагается сверху. Здесь находятся кнопки переключения панелей, название и действия над текущим проектом, кнопки отмены и возврата, превью проекта, публикация и настройки аккаунта.
 
-Эта панель располагается под Top Bar. Она отвечает за работу со страницей. Здесь находятся индикаторы брейкпоинтов, переключатели масштаба, размеров страницы и брейкпоинтов.
+### [Publication](/interface/top-bar/publication/overview)
 
-#### [Elements](/documentation/interface/work-area/elements/overview)
+![Publication](/scr/interface-publication.png)
 
-Страница состоит из элементов. Вы можете добавлять, редактировать, удалять, дублировать элементы. В качестве элементов страницы могут быть примитивы, компоненты каталога, или ваши собственные компоненты.
+Нажимая на кнопку "**Publish**", вы открываете модальное окно публикации проекта. Процесс публикации состоит из выбора структуры проекта, источника хранения, публикации на Netlify и доменного имени. В результате вы получаете ссылку на опубликованный проект.
 
-#### [Theme](/documentation/interface/work-area/theme/overview)
+### [View Bar](/interface/left-panels/view-bar/overview)
 
-Панель содержит в себе группы с переменными и их значениями. Вы можете использовать существующие и добавлять свои переменные, чтобы потом использовать их в проекте. При необходимости значения можно менять, они также изменяться везде где были использованы.
+![View Bar](/scr/interface-viewbar.png)
 
-#### [Project Settings](/documentation/interface/work-area/project-settings/overview)
+Эта панель располагается под "**Top Bar**". Она отвечает за работу со страницей. Здесь находятся индикаторы брейкпоинтов, переключатели масштаба, размеров страницы и брейкпоинтов.
 
-Панель позволяет задавать общие для всех страницы фавиконки, информацию для SEO, стили, пользовательские теги внутрь `<head>` и `<body>`. Ещё здесь можно задавать имя проекта и добавлять внешние зависимости (библиотеки).
+### [Elements](/interface/left-panels/adding-panel/overview)
 
-#### [Props Panel](/documentation/interface/work-area/props-panel/overview)
+![Elements]/scr/interface-elements.png)
+
+Страница состоит из элементов. Вы можете добавлять, редактировать, дублировать и удалять элементы. В качестве элементов страницы могут быть примитивы, компоненты каталога или ваши собственные компоненты.
+
+### [Theme](/interface/left-panels/theme/overview)
+
+![Theme](/scr/interface-theme.png)
+
+Панель содержит в себе группы с переменными и их значениями. Вы можете использовать существующие и добавлять свои переменные, чтобы потом использовать их в проекте. При необходимости значения можно менять, они также изменяться везде, где были использованы.
+
+### [Project Settings](/interface/left-panels/project-settings/overview)
+
+![Project Settings](/scr/interface-project-settings.png)
+
+Панель позволяет задавать фавиконки, информацию для SEO, стили и пользовательские теги внутри `<head>` и `<body>`, общие для всех страниц. Ещё здесь можно задавать имя проекта и добавлять внешние зависимости (библиотеки).
+
+### [Props Panel](/interface/left-panels/props-panel/overview)
+
+![Props Panel](/scr/interface-props-panel.png)
 
 Панель дает возможность менять стилевые и функциональные свойства элементов. Стилевые свойства сгруппированы по назначению: макет, типографика, отступы, фон, границы, позиционирование, эффекты. Функциональные свойства уникальны для каждого элемента.
 
-#### [Context Menu](/documentation/interface/work-area/context-menu)
+### [Context Menu](/interface/left-panels/context-menu)
+
+![Context Menu](/scr/interface-context-menu.png)
 
 Контекстное меню содержит список действий над элементом, страницей, компонентом и другой сущностью. Чтобы вызвать контекстное меню, наведите курсор и нажмите правой кнопкой мыши.
 
-#### [Code Editor](/documentation/interface/work-area/code-editor/overview)
+### [Code Editor](/interface/left-panels/code-editor/overview)
 
-The second most important work area in Quarkly is the code editor. It displays all the components and their props that you can see on the screen. You can also work with the components, their props, and values much faster than on the page. You need to be able to follow JSX syntax, know the set of available components, CSS props and values.
+![Code Editor](/scr/interface-code-editor.png)
+
+It displays all the components and their props that you can see on the screen. You can also work with the components, their props, and values much faster than on the page. You need to be able to follow JSX syntax, know the set of available components, CSS props and values.
 
 ---
