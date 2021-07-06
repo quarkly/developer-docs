@@ -123,6 +123,16 @@ div[class^="docItemContainer"] h6 {
   color: var(--qtheme-color-darkL2);
 }
 
+p {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 1440px) {
+  p {
+    font-size: 20px;
+  }
+}
+
 div[class^="codeBlockLines"] {
   padding: var(--ifm-pre-padding);
   font-family: var(--ifm-font-family-monospace);
