@@ -4,7 +4,9 @@ title: Text Styles
 sidebar_label: Text Styles
 ---
 
-[![Theme. Text Styles](https://img.youtube.com/vi/Es6bOiMz35U/0.jpg)](https://www.youtube.com/watch?v=Es6bOiMz35U)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="Es6bOiMz35U" />
 
 Text style is a set of the following properties:
 

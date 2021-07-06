@@ -4,7 +4,9 @@ title: Breakpoints
 sidebar_label: Breakpoints
 ---
 
-[![Theme. Breakpoints](https://img.youtube.com/vi/dbS52XWCBcI/0.jpg)](https://www.youtube.com/watch?v=dbS52XWCBcI)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="dbS52XWCBcI" />
 
 Breakpoints (control points) are conditions under which additional design options appear on your page. Breakpoint values contain the following set of properties:
 

@@ -4,9 +4,11 @@ title: Редактирование элементов
 sidebar_label: Редактирование элементов
 ---
 
+import YouTube from "../../../src/components/YouTube";
+
 ### How to resize an element with absolute and fixed position
 
-[![How to resize an element with absolute and fixed position](https://img.youtube.com/vi/NFfHupUQnHY/0.jpg)](https://www.youtube.com/watch?v=NFfHupUQnHY)
+<YouTube videoId="NFfHupUQnHY" />
 
 You can use your mouse to resize elements with absolute and fixed position. Just grab any corner or edge of the selected element and pull it to the desired size.
 

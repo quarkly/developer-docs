@@ -4,6 +4,8 @@ title: Publication
 sidebar_label: Overview
 ---
 
+import YouTube from "../../../../src/components/YouTube";
+
 ![Окно процесса публикации проекта](/scr/publication-general.png)
 
 Чтобы проект был доступен по URL адресу, его нужно собрать и опубликовать. Кнопка "**Publish**" открывает модальное окно процесса публикации. Проект собирается в ваш GitHub репозиторий, а публикация происходит с помощью сервиса Netlify.
@@ -21,6 +23,6 @@ sidebar_label: Overview
 
 #### Видеоурок "Как опубликовать проект"
 
-[![Integration with Netlify](https://img.youtube.com/vi/qePS-JDO-oQ/0.jpg)](https://www.youtube.com/watch?v=qePS-JDO-oQ)
+<YouTube videoId="qePS-JDO-oQ" />
 
 ---

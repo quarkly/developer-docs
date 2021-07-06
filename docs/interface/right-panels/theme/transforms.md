@@ -4,7 +4,9 @@ title: Transforms
 sidebar_label: Transforms
 ---
 
-[![Theme. Transforms](https://img.youtube.com/vi/iBgOBURPrm8/0.jpg)](https://www.youtube.com/watch?v=iBgOBURPrm8)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="iBgOBURPrm8" />
 
 Transforms allow you to rotate, zoom or move an element and even more. Transform values contain the following set of properties:
 

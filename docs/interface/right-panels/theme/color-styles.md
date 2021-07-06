@@ -4,7 +4,9 @@ title: Color Styles
 sidebar_label: Color Styles
 ---
 
-[![Theme. Color Styles](https://img.youtube.com/vi/tPupaz-C_1A/0.jpg)](https://www.youtube.com/watch?v=tPupaz-C_1A)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="tPupaz-C_1A" />
 
 To add a color style to the theme, click on the "**+**" icon in front of the category.
 

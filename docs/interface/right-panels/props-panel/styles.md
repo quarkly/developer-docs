@@ -4,7 +4,9 @@ title: Styles
 sidebar_label: Styles
 ---
 
-[![Style Props. Basic](https://img.youtube.com/vi/kDEtTCMTEY8/0.jpg)](https://www.youtube.com/watch?v=kDEtTCMTEY8)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="kDEtTCMTEY8" />
 
 Here, you can set the visual representation of the element. You can configure both default state and pseudo-class styles: hover, active, focused and more.
 
@@ -18,26 +20,26 @@ To configure the styles for a pseudo-class, select the desired style in the tab 
 
 ### Layout
 
-[![Style Props. Layout](https://img.youtube.com/vi/poqFYGSi8Qg/0.jpg)](https://www.youtube.com/watch?v=poqFYGSi8Qg)
+<YouTube videoId="poqFYGSi8Qg" />
 
 ### Typography
 
-[![Style Props. Typography](https://img.youtube.com/vi/rDvkk93OiQA/0.jpg)](https://www.youtube.com/watch?v=rDvkk93OiQA)
+<YouTube videoId="rDvkk93OiQA" />
 
 ### Indents
 
-[![Style Props. Indents](https://img.youtube.com/vi/og2CZMritoY/0.jpg)](https://www.youtube.com/watch?v=og2CZMritoY)
+<YouTube videoId="og2CZMritoY" />
 
 ### Border
 
-[![Style Props. Border](https://img.youtube.com/vi/_lBpE4uFhkk/0.jpg)](https://www.youtube.com/watch?v=_lBpE4uFhkk)
+<YouTube videoId="_lBpE4uFhkk" />
 
 ### Position
 
-[![Style Props. Position](https://img.youtube.com/vi/Y-MOOBqjSg4/0.jpg)](https://www.youtube.com/watch?v=Y-MOOBqjSg4)
+<YouTube videoId="Y-MOOBqjSg4" />
 
 ### Effects
 
-[![Style Props. Effects](https://img.youtube.com/vi/esh5UtPaXcU/0.jpg)](https://www.youtube.com/watch?v=esh5UtPaXcU)
+<YouTube videoId="esh5UtPaXcU" />
 
 ---

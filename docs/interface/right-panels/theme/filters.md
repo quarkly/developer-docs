@@ -4,7 +4,9 @@ title: Filters
 sidebar_label: Filters
 ---
 
-[![Theme. Filters](https://img.youtube.com/vi/HJq18Rp6IE4/0.jpg)](https://www.youtube.com/watch?v=HJq18Rp6IE4)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="HJq18Rp6IE4" />
 
 Filter contains styles with visual effects similar to those in Adobe Photoshop. Filters can be used if you need, for example, to change color shades, to make an element brighter or blur it. Filter values contain the following set of properties:
 

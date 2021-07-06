@@ -4,7 +4,9 @@ title: Background Styles
 sidebar_label: Background Styles
 ---
 
-[![Theme. Background](https://img.youtube.com/vi/r353OYO5C60/0.jpg)](https://www.youtube.com/watch?v=r353OYO5C60)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="r353OYO5C60" />
 
 Backgrounds are used a lot in design. In addition to a plain color, you may want to a gradient, tile or an image. Element properties allow you to create a complex background consisting of several simpler overlapping ones. A background style is a set of the following properties:
 

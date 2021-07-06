@@ -4,7 +4,9 @@ title: Shadows
 sidebar_label: Shadows
 ---
 
-[![Theme. Shadows](https://img.youtube.com/vi/CDqjqIX7D0A/0.jpg)](https://www.youtube.com/watch?v=CDqjqIX7D0A)
+import YouTube from "../../../../src/components/YouTube";
+
+<YouTube videoId="CDqjqIX7D0A" />
 
 Shadows make the interface vivid and your design more expressive. Shadow style is a set of the following properties:
 
