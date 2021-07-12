@@ -12,7 +12,7 @@ To create a component in the Code Editor, click the "**+**" icon and enter the c
 
 **Important!** You won't be able to rename it in the future, since it's a system name and can be used throughout the project: both on the layer and in other components.
 
-After entering the component name, the Code Editor will open and you will see the standard component code, which we will discuss in detail in the next sections and show you other features for creating custom components.
+After entering the component name, the Code Editor will open and you will see the standard component code, which we will discuss in detail in the next sections when showing you other features for creating custom components.
 
 To reopen the component Code Editor, click the "**&lt;&gt;**" button next to the component name.
 

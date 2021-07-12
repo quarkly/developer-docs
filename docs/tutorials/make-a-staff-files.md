@@ -1,7 +1,7 @@
 ---
 id: make-a-staff-files
-title: Make a Staff Files (with Airtable)
-sidebar_label: Make a Staff Files (with Airtable)
+title: Make a Staff File (with Airtable)
+sidebar_label: Make a Staff File (with Airtable)
 ---
 
 import YouTube from "../../src/components/YouTube";
@@ -106,7 +106,7 @@ We first decided to use Airtable because of its user-friendly API. And it’s al
 
 ### Part 4. Integrate Airtable base into Quarkly
 
-In this stage, you will add code to the **EmployeeTable** component that will fetch data from the API.
+In this part, you will add code to the **EmployeeTable** component that will fetch data from the API.
 
 1. Go to the code editor. To do this, open the "**Components**" tab and click on the "**&lt;&gt;**" icon next to **EmployeeTable** (it will appear when mousing over the component);
 
@@ -447,7 +447,7 @@ In this stage, you will configure the employee card to accept data and display i
     },
    ```
 
-   Save and check:
+   Save and check.
 
    ![](/scr/tutorials-airtable-part5-with-title.png)
 
@@ -515,11 +515,11 @@ In this stage, you will configure the employee card to accept data and display i
     },
    ```
 
-   Save and check:
+   Save and check.
 
    ![](/scr/tutorials-airtable-part5-with-names.png)
 
-8. Add some more Text in the same way. Let’s leave **Department** and **Reports** to because this data is in another "**DEPARTMENTS TABLE**" database.
+8. Add some more Text in the same way. Let’s leave **Department** and **Reports** because this data is in another "**DEPARTMENTS TABLE**" database.
 
    Add:
 
@@ -614,7 +614,7 @@ In this stage, you will configure the employee card to accept data and display i
     },
    ```
 
-   Check the result:
+   Check the result.
 
    ![](/scr/tutorials-airtable-part5-with-links.png)
 
@@ -770,15 +770,15 @@ Wait a few minutes and check: [https://keen-varahamihira-c54ae1.netlify.app/](ht
 
 ![](/scr/tutorials-airtable-part6-publication-result.png)
 
-To check synchronization, change the data in the database:
+To check synchronization, change the data in the database.
 
 ![](/scr/tutorials-airtable-part6-publication-database.png)
 
-Now you will see the changes in the app:
+Now you will see the changes in the app.
 
 ![](/scr/tutorials-airtable-part6-publication-changes.png)
 
-In the future, you will be able to style your card elements, however you want to do this without breaking the configured import from Airtable. You can see an example [here](https://youtu.be/mbPukPi0RZA?t=489).
+In the future you will be able to style your card elements but you want to do this without breaking the configured import from Airtable. You can see an example [here](https://youtu.be/mbPukPi0RZA?t=489).
 
 GitHub repository: [https://github.com/quarkly-dev/Getting-data-from-Airtable-tutorial](https://github.com/quarkly-dev/Getting-data-from-Airtable-tutorial)
 

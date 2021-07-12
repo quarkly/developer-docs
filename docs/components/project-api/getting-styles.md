@@ -25,6 +25,6 @@ return (
 
 **Note:** Use the `getComputedStyle` function only to get styles added from the builder interface or third-party libraries. The styles you added in a component can be retrieved from the `e.target.style` object.
 
-Please also note that the `getComputedStyle` function returns the object with the standard style names written with `background-color` hyphen, while the `e.target.style` object uses the names as `backgroundColor` as if you were transferring them in any component.
+Please also note that the `getComputedStyle` function returns the object with the standard style names written with a hyphen (e.g. `background-color`), while the `e.target.style` object uses the names as `backgroundColor` as if you were transferring them in any component.
 
 ---

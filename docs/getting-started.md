@@ -48,7 +48,7 @@ import { useOverrides } from "@quarkly/components";
 import atomize from "@quarkly/atomize";
 ```
 
-4. Then after importing, add override descriptions which will be used later. We'll add only a button description. Let's call it `My Button`, apply the props from the `Button` primitive and specify the caption `color`.
+4. Then after importing, add override descriptions which will be used later. We'll just add a button description. Let's call it `My Button`, apply the props from the `Button` primitive, and specify the caption `color`.
 
 ```js
 const overrides = {
@@ -101,7 +101,7 @@ const overrides = {
 
    - Call the previously imported **useOverrides** hook to be able to apply overrides;
    - Add **useState** to store the counter state. It returns **counter** with the current value and the **setCounter** function to update the value;
-   - Create a **onIncrement** function that will increase the counter digit by 1. We added **useCallback** so that the function is created only when **setCounter** changes, not every time the component is updated.
+   - Create an **onIncrement** function that will increase the counter digit by 1. We added **useCallback** so that the function is created only when **setCounter** changes, not every time the component is updated.
    - Let's edit the component structure:
      - Replace `{...props}` with the new `{...rest}` we got from **useOverrides**;
      - Display the current `{{counter: ${counter}}}`; value
@@ -134,7 +134,7 @@ const overrides = {
 
 8. Press `Ctrl` + `S` or `⌘ (Cmd)` + `S` for MacOS to save the changes.
 
-Congrats! You've created your first component on Quarkly. Now close the code editor, go to the Adding panel, and drag your new component from the list to the page. Check how it works in the preview mode (the "eye" icon in the upper right corner).
+Congrats! You've created your first component on Quarkly. Now close the Code Editor, go to the Adding panel, and drag your new component from the list to the page. Check how it works in the preview mode (the "eye" icon in the upper right corner).
 
 Learn more about the structure, component properties, overrides, and much more in the following sections of the documentation.
 

@@ -12,7 +12,7 @@ Atomize makes it easier to create a component and lets you integrate your compon
 - Add different styles for breakpoints;
 - Use variables from the project theme.
 
-This is necessary, first of all, to create your own primitives (which are not in the Quarkly library) for later use in the main components.
+This is necessary, first of all to create your own primitives (which are not in the Quarkly library) for later use in the main components.
 
 ###### &nbsp;
 

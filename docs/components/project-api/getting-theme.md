@@ -24,7 +24,7 @@ Then you can change the color (make it lighter or darker) or use it directly in 
 <MyComponent color={theme.color.primary} />
 ```
 
-Which in this case is similar to using a variable:
+...which in this case is similar to using a variable:
 
 ```jsx
 <MyComponent color="--color-primary" />
