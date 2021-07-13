@@ -123,16 +123,18 @@ div[class^="docItemContainer"] h6 {
   color: var(--qtheme-color-darkL2);
 }
 
-p,
-ul,
-table {
+div[class^="docItemContainer"] p,
+div[class^="docItemContainer"] ol,
+div[class^="docItemContainer"] ul,
+div[class^="docItemContainer"] table {
   font-size: 18px;
 }
 
 @media screen and (min-width: 1440px) {
-  p,
-  ul,
-  table {
+  div[class^="docItemContainer"] p,
+  div[class^="docItemContainer"] ol,
+  div[class^="docItemContainer"] ul,
+  div[class^="docItemContainer"] table {
     font-size: 20px;
   }
 }
