@@ -1,13 +1,13 @@
 ---
 id: index
-title: Guide for developers
-sidebar_label: Guide for developers
+title: Guide for Developers
+sidebar_label: Guide for Developers
 slug: /
 ---
 
 import Link from "../src/components/NavLink";
 
-Welcome to Quarkly, a tool for building websites and web applications. Quarkly helps web designers create their projects using various pre-made components and working with developers in real time. In addition to ready-made components, you can create custom ones. This guide will help you figure out how to do it.
+Welcome to Quarkly, a tool for building websites and web applications. Quarkly helps web designers create their projects using various pre-made components and working with developers in real time. In addition to ready-made components, you can create custom ones. This guide will help you learn how.
 
 <Link
     href="/welcome"

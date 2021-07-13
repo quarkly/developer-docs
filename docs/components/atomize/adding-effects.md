@@ -7,16 +7,16 @@ sidebar_label: How Do I Add Effects
 Effects define element states that are changed by user actions. The following effects are available:
 
 - `hover` — applied when the cursor is within an element;
-- `focus` — applied when the element receives focus. For example, for a text field, getting focus for a text field means that the cursor is set in the field and you can enter text into it;
-- `active` — applied when the user activates an element. For example, a link becomes active if you hover over it and click it;
+- `focus` — applied when the element receives focus. For example, for a text field, applying focus means that the cursor is set in the field and you can enter text into it;
+- `active` — applied when the user activates an element. For example, a link becomes active when you click it;
 - `link` — applied to unvisited links;
 - `visited` — applied to visited links.
 
-**Important!** The browser stores the history of visits, so the link can be marked as visited if it had been used.
+**Important!** The browser stores a history of visits, so the link can be marked as visited if it has been used.
 
 For your component to be able to handle different effects, you should transfer an object with a list of desired effects when you create the component. Key (e.g. `hover`) is a prefix in the property name, and the value (e.g. `:hover`) is a CSS selector.
 
-An example of creating a component from an HTML element:
+An example of how to create a component from an HTML element:
 
 ```js
 const MyButton = atomize.button({
@@ -27,7 +27,7 @@ const MyButton = atomize.button({
 });
 ```
 
-An example of creating a component from an HTML element:
+An example of how to create a component from an HTML element:
 
 ```js
 const MyButton = atomize(Button)({
@@ -44,7 +44,7 @@ Now, if you add a hover or focus prefix to any CSS property, it will be applied 
 <MyButton color="red" hover-color="green" focus-color="blue" />
 ```
 
-As a result, the button color will be **red**. When the user hovers over the component, the color changes into **green**. When they set the focus on it, the color changes into **blue**.
+As a result, the button color will be **red**. When the user hovers over the component, the color will change to **green**. When they set the focus on it, the color will change to **blue**.
 
 #### Effects (pseudo classes) in primitives:
 
@@ -60,7 +60,7 @@ The list of effects available **in all** primitives:
 - before: ":before"
 - after: ":after"
 
-The following effects are also available in the **Box** and **List** primitives:
+In the **Box** and **List** primitives, the effect below is also available::
 
 - empty: ":empty"
 

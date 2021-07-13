@@ -22,7 +22,7 @@ export default Object.assign(MyComponent, {
 
 ### How do I group the property descriptions of a component?
 
-Specify the "**category**" parameter with the group name you want in the property description.<br /> If such a name doesn't exist, a new group will be created.
+Specify the "**category**" parameter with the group name you want in the property description.<br /> If the name doesn't already exist, a new group will be created.
 
 ```js
 const propInfo = {

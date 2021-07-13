@@ -27,7 +27,7 @@ Let's take a look at a few basic points when creating components:
 
 A component is a simple JavaScript module, and you can create components that will only store or read something. You don't have to use React inside the component to do this.
 
-You need to use React if your component is going to display something on the page or create other React components. To do this, first, connect the React library:
+You need to use React if your component is going to display something on the page or create other React components. To do this, first connect the React library:
 
 ```js
 import React from "react";
@@ -43,7 +43,7 @@ Regardless of the component purpose, it must be exported. To do this, add `expor
 
 Components that use React can be exported in two ways:
 
-1. If the parent component is imported from Quarkly or previously created with atomize (e.g. `<Box {...rest}>`), you can export the object as it is by adding a header, description, etc.:
+1. If the parent component is imported from Quarkly or was previously created with Atomize (e.g. `<Box {...rest}>`), you can export the object as it is by adding a header, description, etc.:
 
    ```js
    export default Object.assign(MyComponent, {
@@ -54,7 +54,7 @@ Components that use React can be exported in two ways:
    });
    ```
 
-2. In other cases when you used a regular HTML element (e.g. `<div {...rest}>`) as a parent, you should convert it into a component using atomize before exporting as in the example above:
+2. In other cases when you used a regular HTML element (e.g. `<div {...rest}>`) as a parent, you should convert it into a component using Atomize before exporting as in the example above:
 
    ```js
    export default atomize(MyComponent)({

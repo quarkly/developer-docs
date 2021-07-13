@@ -13,12 +13,12 @@ Components are elements or groups of elements with specific property values and 
 To create a new component:
 
 - Method 1: Click the "**+**" icon on the Adding panel under "**Components**"
-- Method 2: Open the add component modal window, go to "**Components**" and click "**Create for Project**"
+- Method 2: Open the add component modal window, go to "**Components**", and click "**Create for Project**"
 
 To create a new component from an existing element on the page:
 
 - Method 1: Select the element on the page, call the context menu and select "**Create new Component**"
-- Method 2: Select the element on the Layers panel, call the context menu and select "**Create new Component**"
+- Method 2: Select the element on the Layers panel, call the context menu, and select "**Create new Component**"
 
 ### How do I edit my component?
 

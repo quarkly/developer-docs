@@ -18,13 +18,13 @@ You can use existing components and NPM modules in your component. In other word
   import { Menu } from "@quarkly/components";
   ```
 
-- **Import existing custom components** from the catalog of the current project as follows:
+- **Import existing custom components** from the catalog of the current project, as follows:
 
   ```js
   import MyComponent from "./MyComponent";
   ```
 
-  Where `MyComponent` is the component name.
+  where `MyComponent` is the component name.
 
 - **Import modules of other users from NPM** by adding a simple import. The module will be automatically installed and written as a project dependency:
   ```js

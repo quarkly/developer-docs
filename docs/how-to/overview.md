@@ -16,7 +16,7 @@ import Link from "../../src/components/NavLink";
 />
 <Link
     href="/how-to/keyframe-animation"
-    title="How to create keyframe animations"
+    title="How to Create Keyframe Animations"
 />
 
 ---
