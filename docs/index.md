@@ -11,17 +11,20 @@ Welcome to Quarkly, a tool for building websites and web applications. Quarkly h
 
 <Link
     href="/welcome"
-    title="🖐 Welcome to Quarkly"
+    icon="🖐"
+    name="Welcome to Quarkly"
 />
 
 <Link
     href="/getting-started"
-    title="🏃‍♀️ Getting Started"
+    icon="🏃‍♀️"
+    name="Getting Started"
 />
 
 <Link
     href="/components/overview"
-    title="💠 Components"
+    icon="💠"
+    name="Components"
     links={[
         {
             name: 'Creating',
@@ -56,7 +59,8 @@ Welcome to Quarkly, a tool for building websites and web applications. Quarkly h
 
 <Link
     href="/tutorials/overview"
-    title="🎓 Tutorials"
+    icon="🎓"
+    name="Tutorials"
     links={[
         {
             name: 'Create a Counter',
@@ -83,7 +87,8 @@ Welcome to Quarkly, a tool for building websites and web applications. Quarkly h
 
 <Link
     href="/how-to/overview"
-    title="📋 How-to's"
+    icon="📋"
+    name="How-to's"
     links={[
         {
             name: 'How to Get the Component сontent',
@@ -102,7 +107,8 @@ Welcome to Quarkly, a tool for building websites and web applications. Quarkly h
 
 <Link
     href="/faq/overview"
-    title="❓ FAQ's"
+    icon="❓"
+    name="FAQ's"
     links={[
         {
             name: 'General',
@@ -125,7 +131,8 @@ Welcome to Quarkly, a tool for building websites and web applications. Quarkly h
 
 <Link
     href="/resources"
-    title="🧩 Resources"
+    icon="🧩"
+    name="Resources"
 />
 
 ---

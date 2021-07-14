@@ -95,6 +95,23 @@ input[type="search"]::-webkit-search-results-decoration {
   background: var(--ifm-menu-link-sublist-icon) 50% / 1.25rem 1.25rem;
 }
 
+/* PAGINATION BUTTONS */
+
+@media screen and (max-width: 379px) {
+  .pagination-nav {
+    flex-direction: column;
+  }
+
+  .pagination-nav__item {
+    max-width: 100%;
+  }
+
+  .pagination-nav__item + .pagination-nav__item {
+    margin-top: 8px;
+    margin-left: 0;
+  }
+}
+
 /* CONTENT ELEMENTS */
 
 div[class^="docItemContainer"] h1,
@@ -127,15 +144,41 @@ div[class^="docItemContainer"] p,
 div[class^="docItemContainer"] ol,
 div[class^="docItemContainer"] ul,
 div[class^="docItemContainer"] table {
-  font-size: 18px;
+  font-size: 20px;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (max-width: 1439px) {
   div[class^="docItemContainer"] p,
   div[class^="docItemContainer"] ol,
   div[class^="docItemContainer"] ul,
   div[class^="docItemContainer"] table {
-    font-size: 20px;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 575px) {
+  div[class^="docItemContainer"] h1,
+  div[class^="docItemContainer"] h2 {
+    font-size: 56px;
+  }
+}
+@media screen and (max-width: 479px) {
+  div[class^="docItemContainer"] h1,
+  div[class^="docItemContainer"] h2 {
+    font-size: 48px;
+  }
+  div[class^="docItemContainer"] h3,
+  div[class^="docItemContainer"] h4 {
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 359px) {
+  div[class^="docItemContainer"] h1,
+  div[class^="docItemContainer"] h2 {
+    font-size: 40px;
+  }
+  div[class^="docItemContainer"] h3,
+  div[class^="docItemContainer"] h4 {
+    font-size: 24px;
   }
 }
 
@@ -155,5 +198,8 @@ div[class^="codeBlockLines"] .token-line {
 }
 
 code {
+  max-width: 100%;
   white-space: nowrap;
+  display: inline-block;
+  overflow-x: auto;
 }
