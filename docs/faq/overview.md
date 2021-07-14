@@ -6,9 +6,21 @@ sidebar_label: Overview
 
 import Link from "../../src/components/NavLink";
 
-<Link href="/faq/general" title="General" />
-<Link href="/faq/atomize" title="Styling" />
-<Link href="/faq/overrides" title="Overrides" />
-<Link href="/faq/properties" title="Properties" />
+<Link
+    href="/faq/general"
+    name="General"
+/>
+<Link
+    href="/faq/atomize"
+    name="Styling"
+/>
+<Link
+    href="/faq/overrides"
+    name="Overrides"
+/>
+<Link
+    href="/faq/properties"
+    name="Properties"
+/>
 
 ---

@@ -8,31 +8,31 @@ import Link from "../../src/components/NavLink";
 
 <Link
     href="/components/creating"
-    title="How to Create Components"
+    name="How to Create Components"
 />
 <Link
     href="/components/importing"
-    title="How to Import Third-Party Components"
+    name="How to Import Third-Party Components"
 />
 <Link
     href="/components/structure"
-    title="Component Structure"
+    name="Component Structure"
 />
 <Link
     href="/components/atomize/overview"
-    title="How to Create Components Using Atomize"
+    name="How to Create Components Using Atomize"
 />
 <Link
     href="/components/project-api/overview"
-    title="Project API"
+    name="Project API"
 />
 <Link
     href="/components/properties/overview"
-    title="Component Properties"
+    name="Component Properties"
 />
 <Link
     href="/components/overrides/overview"
-    title="Overrides"
+    name="Overrides"
 />
 
 ---
