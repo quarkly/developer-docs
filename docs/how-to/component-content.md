@@ -4,7 +4,7 @@ title: How to Get the Component Content
 sidebar_label: How to Get the Component Content
 ---
 
-In this section, you'll learn some things about markup and the component content display.
+In this section, you'll learn about markup and the component content display.
 
 - As a simple example, let's display the **Text** component with some content:
 
@@ -30,9 +30,9 @@ In this section, you'll learn some things about markup and the component content
   <Text>{someProp === "opt1" ? "First line" : "Second line"}</Text>
   ```
 
-  In this example, we check if the value of `someProp` equals to the specified `'opt1'` and, if it is, we output **First line**, otherwise we output **Second line**.
+  In this example, we check if the value of `someProp` equals the specified `'opt1'` and, if so, we output **First line**; otherwise we output **Second line**.
 
-  Also, you can take a part of the text out of the expression not to repeat it twice. The final example would look like this:
+  Also, you can take a part of the text out of the expression so you don't repeat it. The final example would look like this:
 
   ```jsx
   <MyButton>{someProp === "opt1" ? "First" : "Second"} line</MyButton>
@@ -71,7 +71,7 @@ In this section, you'll learn some things about markup and the component content
   </Text>
   ```
 
-- Not to break the text, you can also wrap it in curly brackets with slanted apostrophes to apply all indents and breaks to the text, and insert values of variables and functions or expressions in the middle of the text using the `${someVariable}` construction:
+- In order not to break the text, you can also wrap it in curly brackets with slanted apostrophes to apply all indents and breaks to the text, and insert values of variables and functions or expressions in the middle of the text using the `${someVariable}` construction:
 
   ```jsx
   <Text>

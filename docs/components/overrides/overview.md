@@ -4,9 +4,9 @@ title: Overrides
 sidebar_label: Overview
 ---
 
-Overrides allow you to select nested subcomponents on the layers, change their styles and props in the builder or directly in the component code.
+Overrides allow you to select nested subcomponents on the layers, and change their styles and props in the builder or directly in the component code.
 
-In this section, you will learn what useOverrides hook is for, how to describe the overrides list and apply them to components.
+In this section, you will learn what the useOverrides hook is for, how to describe the overrides list, and how to apply them to components.
 
 ###### &nbsp;
 

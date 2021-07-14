@@ -71,9 +71,9 @@ At the moment, the before and after pseudo elements haven't been added to the bu
   `;
   ```
 
-### What's the difference between exporting Object.assign(Component) and atomize(Component)?
+### What's the difference between exporting Object.assign(Component) and Atomize(Component)?
 
-If a component is wrapped in an HTML element (e.g. `<div {...props}> ... </div>`), exporting **atomize** will create a React component from it. If a component is wrapped in another component (e.g. `<Box {...props}> ... </Box>`), there is no difference.
+If a component is wrapped in another component (e.g. `<div {...props}> ... </div>`), exporting **Atomize** will create a React component from it. If a component is wrapped in another component (e.g. `<Box {...props}> ... </Box>`), there is no difference.
 
 ### How do I get a project theme?
 

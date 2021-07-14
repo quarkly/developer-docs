@@ -1,12 +1,12 @@
 ---
 id: keyframe-animation
-title: How to create keyframe animations (keyframes)
-sidebar_label: How to create keyframe animations
+title: How to Create Keyframe Animations (Keyframes)
+sidebar_label: How to Create Keyframe Animations
 ---
 
 In the current version, it is possible to animate only a custom code component using **animation** and **keyframes**.
 
-Here’s a step-by-step guide on how to apply rotating animation to an element:
+Here’s a step-by-step guide to applying rotating animation to an element:
 
 1. Create a code component. Click on the + button in the Project section of the Components tab.
 

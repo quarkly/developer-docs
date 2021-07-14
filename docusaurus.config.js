@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Quarkly docs",
-  tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
+  title: "Guide for developers",
+  tagline: "A tool for building websites and web applications",
+  url: "https://developers.quarkly.io/",
   baseUrl: "/",
   plugins: [require.resolve("docusaurus-lunr-search")],
   onBrokenLinks: "throw",
@@ -12,6 +12,7 @@ module.exports = {
   themeConfig: {
     // image: "/img/q-og-1200.png",
     metadatas: [{ name: "twitter:card", content: "summary" }],
+    image: "/img/q-og-1200.png",
     colorMode: {
       defaultMode: "light",
       disableSwitch: true,
@@ -81,8 +82,8 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Spectrum",
-              href: "https://spectrum.chat/quarkly",
+              label: "Community",
+              href: "https://community.quarkly.io/",
             },
             {
               label: "Discord",
@@ -177,8 +178,7 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl: "https://github.com/quarkly/developer-docs/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

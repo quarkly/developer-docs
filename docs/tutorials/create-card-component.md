@@ -1,7 +1,7 @@
 ---
 id: create-card-component
-title: Create Card component
-sidebar_label: Create Card component
+title: Create Card Component
+sidebar_label: Create Card Component
 ---
 
 import YouTube from "../../src/components/YouTube";

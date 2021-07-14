@@ -10,7 +10,7 @@ To create a new component of an HTML element or other component, connect the `at
 import atomize from "@quarkly/atomize";
 ```
 
-Atomize is a wrapper over styled-components and has a similar API. Just call the method using the name of the desired HTML element, for example, create a new element from a `button`:
+Atomize is a wrapper for styled-components and has a similar API. Just call the method using the name of the desired HTML element. For example, create a new element from a `button`:
 
 ```js
 const MyButton = atomize.button();
@@ -18,7 +18,7 @@ const MyButton = atomize.button();
 
 You can also create a new component from an existing one:
 
-- An example of creating a component from an imported one:
+- An example of how to create a component from an imported one:
 
   ```js
   import { Button } from "@quarkly/widgets";
@@ -26,7 +26,7 @@ You can also create a new component from an existing one:
   const MyButton = atomize(Button);
   ```
 
-- An example of creating a component from an existing one:
+- An example of how to create a component from an existing one:
 
   ```js
   const Button = ({ children }) => {
