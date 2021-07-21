@@ -7,6 +7,8 @@ slug: /
 
 import Link from "../src/components/NavLink";
 
+![](/img/header-illustration.png)
+
 Welcome to Quarkly, a tool for building websites and web applications. Quarkly helps web designers create their projects using various pre-made components and working with developers in real time. In addition to ready-made components, you can create custom ones. This guide will help you learn how.
 
 <Link
