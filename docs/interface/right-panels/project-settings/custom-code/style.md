@@ -4,9 +4,9 @@ title: <style>
 sidebar_label: <style>
 ---
 
-![Тег <style>](/scr/project-settings-code-style.png)
+![Tag <style>](/scr/project-settings-code-style.png)
 
-Добавляет CSS стили на все страницы проекта. Например, такой код сделает текст, у которого не указан цвет, оранжевым:
+Adds CSS styles to all project pages. For example, this code would make text with no color specified orange:
 
 ```
 * {

@@ -4,15 +4,15 @@ title: Context Menu
 sidebar_label: Context Menu
 ---
 
-![Контекстное меню примитива](/scr/context-menu-primitive.png)
+![Primitive Context Menu](/scr/context-menu-primitive.png)
 
-Контекстное меню содержит список действий над элементом, страницей, компонентом и другой сущностью. Чтобы вызвать контекстное меню, наведите курсор и нажмите правой кнопкой мыши.
+The context menu contains a list of actions on an element, page, component, or other entity. To call the context menu, mouse over and right-click.
 
 ### Context menu of a page
 
-![Контекстное меню страницы](/scr/context-menu-page.png)
+![Page Context Menu](/scr/context-menu-page.png)
 
-Содержит:
+Contains:
 
 -   Edit Code
 -   Settings
@@ -21,11 +21,11 @@ sidebar_label: Context Menu
 -   Rename
 -   Delete
 
-### Контекстное меню для элемента в списке слоев
+### Context menu for an element on the layer list
 
-![Контекстное меню слоя](/scr/context-menu-layer.png)
+![Layer Context Menu](/scr/context-menu-layer.png)
 
-Содержит:
+Contains:
 
 -   Show in Code Editor
 -   Settings
@@ -34,11 +34,11 @@ sidebar_label: Context Menu
 -   Delete
 -   Create Component
 
-### Контекстное меню для компонента в списке слоев и на странице
+### Context menu for a component on the layer list and on the page
 
-![Контекстное меню компонента](/scr/context-menu-component.png)
+![Component Context Menu](/scr/context-menu-component.png)
 
-Содержит:
+Contains:
 
 -   Edit Code
 -   Show in Code Editor
@@ -52,40 +52,40 @@ sidebar_label: Context Menu
 -   Push to Master
 -   Push All to Master
 
-### Элемент(примитив) на странице
+### Element (primitive) on the page
 
-![Контекстное меню примитива](/scr/context-menu-element.png)
+![Primitive Context Menu](/scr/context-menu-element.png)
 
-Содержит:
+Contains:
 
 -   Show in Code Editor
 -   Duplicate
 -   Delete
 -   Create new Component
 
-### Контекстное меню для группы элементов на странице
+### Context menu for a group of elements on the page
 
-![Контекстное меню для группы элементов](/scr/context-menu-group-elements.png)
+![Context Menu for a Group of Elements](/scr/context-menu-group-elements.png)
 
-Содержит:
-
--   Duplicate
--   Delete
-
-### Контекстное меню для группы элементов в списке слоев
-
-![Контекстное меню для группы слоев](/scr/context-menu-group-components.png)
-
-Содержит:
+Contains:
 
 -   Duplicate
 -   Delete
 
-### Контекстное меню для значения в Theme
+### Context menu for a group of elements on the layer list
 
-![Контекстное меню для значения в теме](/scr/context-menu-theme-variable.png)
+![Context Menu for a Group of Layers](/scr/context-menu-group-components.png)
 
-Содержит:
+Contains:
+
+-   Duplicate
+-   Delete
+
+### Context menu for the value in Theme
+
+![Context Menu for the Value in Theme](/scr/context-menu-theme-variable.png)
+
+Contains:
 
 -   Duplicate
 -   Delete

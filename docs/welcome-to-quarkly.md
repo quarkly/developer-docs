@@ -5,31 +5,31 @@ sidebar_label: Welcome to Quarkly
 slug: /
 ---
 
-### Что такое Quarkly
+### What is Quarkly
 
-Quarkly — это инструмент для создания сайтов, лендингов и веб-приложений. Он совмещает в себе визуальный редактор, интегрированную среду разработки и конструктор сайтов. Специалистам web-разработки в нём доступна совместная работа над одним проектом:
+Quarkly is a tool for creating websites, landing pages, and web applications. It combines a visual editor, an integrated development environment, and a website builder. Web specialists can work together on a single project:
 
--   **Дизайнерам** — визуальный редактор для создания макетов, прототипов и компонентов
--   **Разработчикам** — готовый код, возможность добавлять бизнес-логику или писать свои собственные компоненты с нуля
--   **Контент-мейкерам** — возможность удобного редактирования и публикации
+-   **Designers** can use the visual editor for creating layouts, prototypes, and components
+-   **Developers** can use the ready-made code to add business logic and code custom components from scratch
+-   **Contentmakers** can easily edit and publish projects
 
-Любой макет, созданный в Quarkly — это уже готовый проект, доступный для экспорта и публикации. Ваши макеты и прототипы — это готовый код, который не нужно писать разработчику с нуля. А также ваш код — это готовые макеты и прототипы, которые не нужно переносить в ручную в визуальный редактор.
+Any layout created in Quarkly is a finished project available for export and publication. Your layouts and prototypes are ready-made code that a developer doesn't have to write from scratch. And your code is also ready-made layouts and prototypes that you don't have to transfer manually to the visual editor.
 
-### Как выглядит рабочий процесс
+### What the workflow looks like
 
-Процесс создания проекта в Quarkly делится на несколько этапов:
+The project creating process in Quarkly contains several stages:
 
-1. Вы **создаете новый проект** и делитесь им с вашей командой.
-2. В визуальном редакторе **наполняете страницы**, используя базовые примитивы и при необходимости создаете из них компоненты для повторного использования.
-3. При необходимости, разработчик **добавляет бизнес-логику** проекта.
-4. Вы **публикуете готовый проект** на своем или доступном в Quarkly хостинге.
+1. You **create a new project** and share it with your team.
+2. In the visual editor, you **add content to the pages** using basic primitives, and create components from them to reuse later if needed.
+3. If necessary, the developer **adds business logic** to the project.
+4. You **publish the finished project** on your own hosting service or the one available at Quarkly.
 
-### Как работает Quarkly
+### How Quarkly works
 
-Основой всех проектов на Quarkly являются **React-компоненты** и библиотека **@quarkly/atomize**. Каждый отдельно взятый примитив на холсте редактора — это уже готовый к работе и повторному использованию код.
+All Quarkly projects are based on **React components** and the **@quarkly/atomize** library. Every single primitive on the editor's layout is ready-to-use and reusable code.
 
-Когда вы создаете новый макет, прототип или компонент, **Quarkly генерирует для вас реальный код**, который в дальнейшем может быть использован разработчиком и доработан, либо экспортирован и опубликован без изменений.
+When you create a new layout, prototype, or component, **Quarkly generates real code for you** which can later be used by the developer and finalized or exported and published without changes.
 
-Вам не стоит беспокоится, если вы не владеете навыками программирования и верстки, потому что любой компонент доступен к редактированию через **визуальный редактор** и различные **панели свойств**. Работа в Quarkly для дизайнера ничем не сложнее работы в любом другом графическом редакторе.
+No worries if you have no coding or design skills because any component can be edited in the **visual editor** and on the **Props panel**. Working with Quarkly is as easy as any other graphics editor for a designer.
 
 ---

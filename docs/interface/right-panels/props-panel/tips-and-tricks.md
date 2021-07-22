@@ -28,7 +28,7 @@ For example, **100vh-60px** will be converted to **calc(100vh-60px)**.
 | Decrease by 10  | `Shift` + `↓`     | `⇧ (Shift)` + `↓`  |
 | Increase by 0.1 | `Alt` + `↑`       | `⌥ (Option)` + `↑` |
 | Decrease by 0.1 | `Alt` + `↓`       | `⌥ (Option)` + `↓` |
-| Increase by 100 | `Ctrl` + `↑`      | `⌘ (Cmd) ` + `↑`   |
-| Decrease by 100 | `Ctrl` + `↓`      | `⌘ (Cmd) ` + `↓`   |
+| Increase by 100 | `Ctrl` + `↑`      | `⌘ (Cmd)` + `↑`    |
+| Decrease by 100 | `Ctrl` + `↓`      | `⌘ (Cmd)` + `↓`    |
 
 ---

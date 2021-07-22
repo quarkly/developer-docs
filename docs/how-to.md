@@ -1,83 +1,90 @@
 ---
 id: how-to
-title: How to's
-sidebar_label: How to's
+title: How To's
+sidebar_label: How To's
 ---
 
-# How to's
+# How To's
 
-## Общее
+## General
 
-### Как опубликовать сайт
-Ответ
+#### How to publish the site?
 
-### Как сохранить себе проект и запустить на компьютере
-Ответ
+To publish the site, click "**Publish**" on the top bar of the builder. Then in the [modal window that will open](/interface/top-bar/publication/overview), follow the steps below:
 
-### Как сохранить себе проект и опубликовать на другом хостинге
-Ответ
+1. Select the project structure (for a site we recommend "**Gatsby Project**").
+2. Log in or sign up to GitHub.
+3. Attach the project to a new or existing repository.
+4. Save the code to the repository if you have selected an existing repository.
+5. Log in or sign up to Netlify.
+6. Attach the project to a new or existing site.
+7. Click "**Deploy**".
 
-## Стилизация
+Project creation and publishing usually takes a few minutes. The status can be seen on the badge ![badge-building](/img/netlify-badge-building.svg)
 
-### Как добавить CSS свойство, которого нет на панели Styles
-Ответ
+#### How to save my project and launch it on my PC?
 
-### Как растянуть Section во всю ширину
-Ответ
+To save and launch the project on PC, click "**Publish**" on the top bar of the builder and in the [modal window that will open](/interface/top-bar/publication/overview), follow the steps below:
 
-### Как сделать иконку/кнопку/картинку ссылкой
-Ответ
+1. Select the project structure (for a site we recommend "**Gatsby Project**").
+2. Select "**Zip-Archive**" as the storage source.
+3. Click "**Download**", save the archive to your PC and extract it to a folder.
+4. Install [NodeJS](https://nodejs.org) version 14 or higher on your PC.<br/> If NodeJS is already installed, you can check the current version with the `node -v`.
+5. In the project folder on the PC, run the command `npm i` to build the dependencies.
+6. After finishing the project building, run the command `npm start` to launch the project.
 
-### Как фиксировать фон
-Ответ
+The project will be available at "**https://localhost:8000**".
 
-### Как скруглить углы
-Ответ
+#### How to save my project and publish it on another hosting site?
 
-## Технические
+To save the project and publish it on another hosting site, click "**Publish**" on the top bar of the builder and in the [modal window that will open](/interface/top-bar/publication/overview), follow the steps below:
 
-### Как привязать событие onClick к Button
-Ответ
+1. Select the project structure (for a site we recommend "**Gatsby Project**").
+2. Select "**Zip-Archive**" as the storage source.
+3. Click "**Download**", save the archive to your PC, and copy the contents of the archive to your server.
+4. Install [NodeJS](https://nodejs.org) version 14 or higher on the server.<br/> If NodeJS is already installed, you can check the current version with the `node -v`.
+5. In the project folder on the server, run the command `npm i` to build the dependencies.
+6. After finishing the project building, run the command `npm build` to build the project.
 
-### Как вставить скрипты и теги в head или body, например Google Analytics
-Ответ
+## Components
 
-### Можно ли подключить API?
-Ответ
+#### How to create a custom component?
 
+To create a new component:
 
+-   Method 1: Click the "**+**" icon on the Adding panel under "**Components**".
+-   Method 2: Open the add component modal window, go to "Components" and click "**Create for Project**".
 
+To create a new component from an existing element on the page:
 
-## Компоненты
+-   Method 1: Select the element on the page, call the context menu and select "**Create new Component**".
+-   Method 2: Select the element on the Layers panel, call the context menu and select "**Create new Component**".
 
-### Как можно создать свой компонент?
-Чтобы создать новый компонент:
-Способ 1: Нажмите «+» на панели добавления в разделе «Components»
-Способ 2: Откройте модальное окно добавления компонента, перейдите в раздел «Components» и нажмите кнопку «Create for Project»
+#### I added several copies of my component to the layer. How do I change them all at once?
 
-Чтобы создать новый компонент из существующего на странице элемента:
-Способ 1: Выберите элемент на странице, вызовите контекстное меню и там пункт «Create New Component»
-Способ 2: Выберите элемент на панели слоев, вызовите контекстное меню и там пункт «Create New Component»
+There are 2 options:
 
-### Я добавил несколько копий своего компонента на холст, как мне изменить их все сразу?
-Есть два способа. 
-Первый способ это изменить любую копию компонента и нажать кнопку Push All to Master. Это действие отправит изменения в “мастер-компонент” и изменит все копии компонента (если они сами не были изменены). 
-Второй способ это открыть компонент в коде и изменить нужные значения там. Для этого выберите компонент и вызовите контекстное меню на правую кнопку мыши и выберите пункт Edit code. 
+-   Option 1: change any copy of the component and click "**Push All to Master**". This action will send the changes to the "master component" and change all copies of the component (if they haven't been changed themselves).
+-   Option 2: open the component in the code and change the desired values there. To do this, select the component, right-click the context menu, and select "**Edit code**".
 
-### Могу ли я превратить копию своего компонента в примитивы?
-Да, для этого есть команда Detach. Однако это работает только с компонентами сделанными из элементов на странице.
+#### Can I turn a copy of my component into primitives?
 
-### Если я изменил внешний вид копии своего компонента, могу ли я сбросить изменения, и вернуть версию мастер-компонента?
-Да, для этого есть команда Reset Overrides и команда Reset All Overrides. Отличие в том, что Reset Overrides сбрасывает изменения только компонента-родителя, а Reset All Overrides сбрасывает изменения ещё и вложенных компонентов.
+Yes, click "**Detach**". However, this only works with components made from elements on the page.
 
-### Я хотел бы иметь возможность делать из измененного своего компонента другой свой компонент? Возможно ли такое?
-Да, вы можете изменить компонент и сделать на его основе другой свой компонент командой Create New Component.
+#### If I changed my component copy appearance, can I reset the changes and get the master component version back?
 
-### Могу ли я изменить вложенный элемент внутри копии своего компонента, и отправить в мастер-компонент эти и только эти изменения?
-Да, выберите измененный вложенный элемент, и нажмите команду Push to Master у этого элемента. Если же вы хотите обновить мастер-компонент и все его вложенные компоненты, то выберите у родителя копии Push All to Master.
+Yes, click "**Reset Overrides**" or "**Reset All Overrides**". The difference is that "**Reset Overrides**" only resets changes to the parent component, while "**Reset All Overrides**" also resets changes to the nested components.
 
-### Могу ли я вкладывать в копию своего компонента другие компоненты? При этом в мастер-компонент я не хочу их отправлять. Например, в одной форме мне нужно добавить два дополнительных поля. 
-Да, вы можете добавлять в копию своего компонента другие элементы/компоненты, но только после всех элементов или перед ними.
+#### I'd like to be able to make my modified component into another component. Is that possible?
 
+Yes, you can modify a component and make another component of it, just click "**Create New Component**".
+
+#### Can I change a nested element inside a copy of my component, and send only those changes to the master component?
+
+Yes, select the modified sub-element, and click "**Push to Master**" on that element. If you want to update the master component and all its subcomponents, select "**Push All to Master**" from the copy parent.
+
+#### Can I nest other components within a copy of my component? However, I don't want to send them to the master component. For example, I need to add two additional fields into one form.
+
+Yes, you can add other elements/components to your component copy but only after or before all elements.
 
 ---

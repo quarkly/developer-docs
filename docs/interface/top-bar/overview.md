@@ -4,45 +4,33 @@ title: Top Bar
 sidebar_label: Overview
 ---
 
-![Top bar в верхней части экрана](/scr/topbar-general.png)
+![Top bar at the top of the screen](/scr/topbar-general.png)
 
-Top bar — это верхняя панель конструктора. Она позволит вам открыть панель со слоями и страницами, редактор кода, опубликовать проект, открыть предпросмотр страницы, отменить или вернуть изменения и некоторые другие действия. Панель содержит:
+Top bar is a bar at the top of the builder. It allows you to open the layers and pages panel, the code editor, publish the project, open the page preview, undo or redo changes and perform other actions. The panel contains:
 
--   **Dashboard**<br />
-    Здесь вы создаете удаляете и переходите в проекты.
+-   **Dashboard**<br /> Here you create, delete, and go to projects.
 
--   **Pages and Layers**<br />
-    Здесь вы управляете страницами и слоями (элементами) страницы.
+-   **Pages and Layers**<br /> Here you manage pages and page layers (elements).
 
--   **Code Editor**<br />
-    Здесь можно редактировать код страницы и компонентов.
+-   **Code Editor**<br /> Here you edit the code of the page and components.
 
--   **Название проекта**<br />
-    По двойному клику можно изменить название проекта.
+-   **Project Name**<br /> With a double click, you can change the project name.
 
--   **Действия над проектом**<br />
-    Вы можете переименовать проект, открыть его свойства, поделиться проектом с другими пользователями или удалить его. Для этого нажмите на иконку ![Стрелка вниз](/img/icon-arrow-down.svg) и покажется список команд:
+-   **Actions on the Project**<br /> Here you rename the project, open its properties, share the project with others, or delete it. To do this, click the ![Arrow Down](/img/icon-arrow-down. svg) icon and a list of actions will appear:
 
     -   [Share](/interface/top-bar/share)
     -   [Settings](/interface/right-panels/project-settings/overview)
     -   Rename
     -   Delete
 
--   **Undo**<br />
-    Отмена любого действия в проекте.
+-   **Undo**<br /> Undo any action in the project.
 
--   **Redo**<br />
-    Возврат отмененного действия в проекте.
+-   **Redo**<br /> Redo a canceled action in the project.
 
--   **Preview**<br />
-    Переход в режим предпросмотра страницы. Это удобно, когда нужно посмотреть как работают разные эффекты, например при наведении курсора мыши.
+-   **Preview**<br /> Go to page preview mode. This is useful when you want to see how different effects work, for example, when hovering over an element.
 
--   **Publish**<br />
-    Чтобы проект был доступен по URL адресу, его нужно опубликовать. Кнопка "**Publish**" открывает модальное окно публикации проекта.<br />
-    [Подробнее](/interface/top-bar/publication/overview)
+-   **Publish**<br /> The project must be published to be accessible from a URL. The "**Publish**" button opens a modal window for publishing the project.<br /> [Learn more](/interface/top-bar/publication/overview)
 
--   **Account Settings**<br />
-    Здесь находится информация об аккаунте и кнопка выхода.<br />
-    [Подробнее](/interface/top-bar/account)
+-   **Account Settings**<br /> Here you can find the account information and the logout button.<br /> [Learn more](/interface/top-bar/account)
 
 ---

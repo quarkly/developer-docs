@@ -1,13 +1,13 @@
 ---
 id: add-styles
-title: Как добавить стили для брейкпоинта
-sidebar_label: Как добавить стили для брейкпоинта
+title: How to Add Styles for Breakpoints
+sidebar_label: How to Add Styles for Breakpoints
 ---
 
-Стилевые свойства можно задавать для разных брейкпоинтов, используя такой синтаксис: breakpount-props="value". Например:
+Style properties can be set for different breakpoints using the following syntax: breakpoint-props="value". For example:
 
 ```
-<Text lg-color="orange"> Оранжевый текст </Text>
+<Text lg-color="orange"> Orange text </Text>
 ```
 
 ---

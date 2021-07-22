@@ -4,14 +4,14 @@ title: General
 sidebar_label: General
 ---
 
-![Общие настройки проекта](/scr/project-settings-general.png)
+![General Project Settings](/scr/project-settings-general.png)
 
-Здесь вы можете изменить имя проекта и задать favicon для разных устройств:
+Here you can change the project name and set a favicon for different devices:
 
 -   Favicon (32px)
 -   Apple Touch Icon (152px)
 -   Win10 OS Icon (270px)
 
-Остальные необходимые фавиконки проекта будут сгенерированы автоматически.
+The rest of the necessary project favicons will be generated automatically.
 
 ---

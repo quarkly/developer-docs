@@ -1,18 +1,18 @@
 ---
 id: restore-project
-title: Восстановление удаленного проекта
-sidebar_label: Восстановление удаленного проекта
+title: How to Restore a Deleted Project
+sidebar_label: How to Restore a Deleted Project
 ---
 
-![Пункт "Restore" в контекстном меню восстанавливает проект](/scr/dashboard-restore-project.png)
+![The "Restore" option in the context menu restores the project](/scr/dashboard-restore-project.png)
 
-После удаления проекта он перемещается в раздел "**Archived**". Редактировать проект в этом разделе нельзя. Чтобы появилась возможность редактировать проект, нужно его восстановить.
+After deleting a project, it's moved to "**Archived**". You can't edit a project in this section. To be able to edit a project, you must restore it.
 
-Как восстановить проект:
+How to restore a deleted project:
 
-1.  Перейдите в раздел "**Archived**"
-2.  Выберите проект, который хотите восстановить
-3.  Вызовите контекстное меню проекта правой кнопкой мыши
-4.  Выберите пункт "**Restore**"
+1.  Go to the "**Archived**" section
+2.  Select the project you want to restore
+3.  Right-click to call the project context menu
+4.  Select "**Restore**"
 
 ---

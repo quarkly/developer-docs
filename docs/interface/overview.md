@@ -8,61 +8,61 @@ sidebar_label: Overview
 
 ![Dashboard](/scr/interface-dashboard.png)
 
-Отдельная страница, где вы можете создавать и управлять доступными проектами.
+A separate page where you can create and manage available projects.
 
-### [Визуальный редактор](/interface/left-panels/overview)
+### [Visual Editor](/interface/page/overview)
 
-![Визуальный редактор](/scr/interface-editor.png)
+![Visual editor](/scr/interface-editor.png)
 
-Открывая проект, вы попадаете в визуальный редактор. Это основной интерфейс Quarkly. Здесь вы наполняете контентом, стилизуете и настраиваете страницы вашего проекта.
+When you open a project, you are taken to the visual editor. This is the basic Quarkly interface. Here you style and customize your project pages and fill them with content.
 
 ### [Top Bar](/interface/top-bar/overview)
 
 ![Top Bar](/scr/interface-topbar.png)
 
-Эта панель располагается сверху. Здесь находятся кнопки переключения панелей, название и действия над текущим проектом, кнопки отмены и возврата, превью проекта, публикация и настройки аккаунта.
+This panel is at the top. Here you can find the buttons for switching panels, project name, and actions on the current project, undo and redo buttons, project preview, publishing, and account settings.
 
 ### [Publication](/interface/top-bar/publication/overview)
 
 ![Publication](/scr/interface-publication.png)
 
-Нажимая на кнопку "**Publish**", вы открываете модальное окно публикации проекта. Процесс публикации состоит из выбора структуры проекта, источника хранения, публикации на Netlify и доменного имени. В результате вы получаете ссылку на опубликованный проект.
+By clicking "**Publish**", a modal window for publishing the project opens. The publishing process includes selecting the project structure, the storage source, domain name, and publishing to Netlify. As a result, you get a link to the published project.
 
-### [View Bar](/interface/left-panels/view-bar/overview)
+### [View Bar](/interface/view-bar/overview)
 
 ![View Bar](/scr/interface-viewbar.png)
 
-Эта панель располагается под "**Top Bar**". Она отвечает за работу со страницей. Здесь находятся индикаторы брейкпоинтов, переключатели масштаба, размеров страницы и брейкпоинтов.
+This panel is located under "**Top Bar**". It's used for working with the page. Here you can find the breakpoint indicators, scale, page size, and breakpoint switches.
 
 ### [Elements](/interface/left-panels/adding-panel/overview)
 
-![Elements]/scr/interface-elements.png)
+![Elements](/scr/interface-elements.png)
 
-Страница состоит из элементов. Вы можете добавлять, редактировать, дублировать и удалять элементы. В качестве элементов страницы могут быть примитивы, компоненты каталога или ваши собственные компоненты.
+The page contains elements. You can add, edit, duplicate, and delete elements. The page elements can be primitives, catalog components, or custom components.
 
-### [Theme](/interface/left-panels/theme/overview)
+### [Theme](/interface/right-panels/theme/overview)
 
 ![Theme](/scr/interface-theme.png)
 
-Панель содержит в себе группы с переменными и их значениями. Вы можете использовать существующие и добавлять свои переменные, чтобы потом использовать их в проекте. При необходимости значения можно менять, они также изменяться везде, где были использованы.
+The panel contains groups with variables and their values. You can use existing variables and add custom variables to use them later in the project. The values can be changed if necessary, and they also change wherever they were used.
 
-### [Project Settings](/interface/left-panels/project-settings/overview)
+### [Project Settings](/interface/right-panels/project-settings/overview)
 
 ![Project Settings](/scr/interface-project-settings.png)
 
-Панель позволяет задавать фавиконки, информацию для SEO, стили и пользовательские теги внутри `<head>` и `<body>`, общие для всех страниц. Ещё здесь можно задавать имя проекта и добавлять внешние зависимости (библиотеки).
+The panel allows you to set up favicon, SEO information, styles, and custom tags within `<head>` and `<body>` common to all pages. Here you can also set the project name and add external dependencies (libraries).
 
-### [Props Panel](/interface/left-panels/props-panel/overview)
+### [Props Panel](/interface/right-panels/props-panel/overview)
 
 ![Props Panel](/scr/interface-props-panel.png)
 
-Панель дает возможность менять стилевые и функциональные свойства элементов. Стилевые свойства сгруппированы по назначению: макет, типографика, отступы, фон, границы, позиционирование, эффекты. Функциональные свойства уникальны для каждого элемента.
+The panel allows you to change the style and functionality of the elements. The style properties are grouped by purpose: layout, typography, indents, background, borders, positioning, and effects. The functional properties are unique to each element.
 
-### [Context Menu](/interface/left-panels/context-menu)
+### [Context Menu](/interface/context-menu)
 
 ![Context Menu](/scr/interface-context-menu.png)
 
-Контекстное меню содержит список действий над элементом, страницей, компонентом и другой сущностью. Чтобы вызвать контекстное меню, наведите курсор и нажмите правой кнопкой мыши.
+The context menu contains a list of actions on an element, page, component, or other entity. To call the context menu, mouse over and right-click.
 
 ### [Code Editor](/interface/left-panels/code-editor/overview)
 

@@ -4,16 +4,16 @@ title: <meta>
 sidebar_label: <meta>
 ---
 
-![Тег <meta>](/scr/project-settings-code-meta.png)
+![Tag <meta>](/scr/project-settings-code-meta.png)
 
-Добавляет метатеги в проект. Метатеги используются для хранения информации предназначенной для браузеров и поисковых систем.
+Adds meta tags to the project. Meta tags are used to store information for browsers and search engines.
 
-Содержит атрибуты:
+Contains the following attributes:
 
--   charset — задает кодировку документа
--   name — имя метатега, также косвенно устанавливает его предназначение
--   content — содержит значение для атрибута http-equiv или name, в зависимости от того какой используется
--   http-equiv — предназначен для конвертирования метатега в заголовок HTTP
--   itemprop — предназначен для добавления пользовательских метаданных
+-   charset — sets the document encoding
+-   name — the meta tag name, also indirectly sets its purpose
+-   content — contains a value for the http-equiv or name attribute, whichever is used
+-   http-equiv — is used to convert the meta tag into an HTTP heading
+-   itemprop — is used for adding user metadata
 
 ---

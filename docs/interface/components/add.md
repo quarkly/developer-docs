@@ -1,10 +1,10 @@
 ---
 id: add
-title: Добавление компонентов
-sidebar_label: Добавление компонентов
+title: How to Add Components
+sidebar_label: How to Add Components
 ---
 
-![Добавление компонентов на страницу](/scr/components-adding.png)
+![How to Add Components to the Page](/scr/components-adding.png)
 
 There are several ways to add the component you need to your page. You may want to grab it from the panel with the mouse and drop it in the desired place. If you left-click a component, it is added to the bottom of the page. Also, you can click on the `+` button on the block to add a component.
 

@@ -4,11 +4,11 @@ title: Layers
 sidebar_label: Layers
 ---
 
-![Контекстное меню слоя](/scr/pages-and-layers-layers.png)
+![Layer Context Menu](/scr/pages-and-layers-layers.png)
 
-You can open the context menu for a layer. The menu contains a list of actions you can perform. To open it, mouse over the page or layer and right-click on it.
+You can open the context menu for a layer. The menu contains a list of actions you can perform. To open it, mouse over the layer and right-click on it.
 
-Действия в контекстном меню для слоев элементов:
+Actions in the context menu for element layers:
 
 -   Show in Code Editor
 -   Duplicate
@@ -16,7 +16,7 @@ You can open the context menu for a layer. The menu contains a list of actions y
 -   Delete
 -   Create new Component
 
-Действия в контекстном меню для слоев компонентов:
+Actions in the context menu for component layers:
 
 -   Edit code
 -   Show in Code Editor

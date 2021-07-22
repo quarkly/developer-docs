@@ -6,22 +6,23 @@ sidebar_label: Overview
 
 import YouTube from "../../../../src/components/YouTube";
 
-![Окно процесса публикации проекта](/scr/publication-general.png)
+![Project Publishing Window](/scr/publication-general.png)
 
-Чтобы проект был доступен по URL адресу, его нужно собрать и опубликовать. Кнопка "**Publish**" открывает модальное окно процесса публикации. Проект собирается в ваш GitHub репозиторий, а публикация происходит с помощью сервиса Netlify.
+For a project to be available at a URL, it must be created and published. The "**Publish**" button opens a modal window for publishing the project. The project is built in your GitHub repository and published using the Netlify service.
 
-Итак, чтобы опубликовать проект:
+So, to publish the project:
 
-1. Нажмите кнопку "**Log In with Netlify**", чтобы предоставить доступ Quarkly к вашим сайтам на Netlify. Войдите или зарегистрируйтесь в Netlify, если это необходимо.
-2. Выберите структуру проекта
-3. Войдите или зарегистрируйтесь в GitHub
-4. Прикрепите проект к существующему или к новому репозиторию
-5. Сохраните код в репозитории
-6. Войдите или зарегистрируйтесь в Netlify
-7. Прикрепите проект к существующему или к новому сайту
-8. Нажмите кнопку "**Deploy**". Процесс сборки и публикации занимает некоторое время, обычно несколько минут. Статус можно увидеть на бейджике ![badge-building](/img/netlify-badge-building.svg)
+1. Choose the project structure.
+2. Log in or sign up to GitHub.
+3. Attach the project to a new or existing repository.
+4. Save the code to the repository if you have selected an existing repository.
+5. Log in or sign up to Netlify.
+6. Attach the project to a new or existing site.
+7. Click "**Deploy**".
 
-#### Видеоурок "Как опубликовать проект"
+Project creation and publishing usually takes a few minutes. The status can be seen on the badge ![badge-building](/img/netlify-badge-building.svg)
+
+#### Video tutorial "How to Publish a Project"
 
 <YouTube videoId="qePS-JDO-oQ" />
 

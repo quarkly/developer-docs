@@ -15,7 +15,7 @@ Breakpoints (control points) are conditions under which additional design option
 
 The breakpoints specified in the theme are applied to all pages. To add a breakpoint to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление нового breakpoint в тему проекта](/scr/theme-panel-breakpoints-add.png)
+![Add New Breakpoint to the Project Theme](/scr/theme-panel-breakpoints-add.png)
 
 #### Configuring the code
 

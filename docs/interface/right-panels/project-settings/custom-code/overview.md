@@ -1,21 +1,21 @@
 ---
 id: overview
-title: Custom code
+title: Custom Code
 sidebar_label: Overview
 ---
 
-![Вкладка Custom Code](/scr/project-settings-code-general.png)
+![The Custom Code Tab](/scr/project-settings-code-general.png)
 
-Вкладка Custom Code, отвечает за добавление тегов внутрь head и в конец body.
+The Custom Code tab is used for adding tags inside the head and at the end of the body.
 
-Теги которые можно добавлять внутрь head:
+Tags that can be added inside the head:
 
 -   &lt;Script&gt;
 -   &lt;Link&gt;
 -   &lt;Meta&gt;
 -   &lt;Style&gt;
 
-Теги которые можно добавлять в конец body:
+Tags that can be added to the end of the body:
 
 -   &lt;Script&gt;
 -   &lt;Link&gt;

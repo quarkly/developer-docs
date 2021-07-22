@@ -1,33 +1,33 @@
 ---
 id: select-elements
-title: Выделение элементов
-sidebar_label: Выделение элементов
+title: Select Elements
+sidebar_label: Select Elements
 ---
 
-![Выделение элемента на странице](/scr/selection-element.png)
+![Select an element on a page](/scr/selection-element.png)
 
-Чтобы выбрать элемент на самом верхнем или текущем уровне вложенности, просто кликните на него. Если вам нужно выбрать вложенный элемент на уровень ниже от текущего, то есть два способа:
+To select an element at the highest or current nesting level, just click it. If you need to select a nested element one level down from the current one, there are two ways:
 
--   Используйте двойной клик, чтобы спуститься на один уровень вложенности
--   Кликните по элементу с зажатой клавишей `Ctrl` или `⌘(Cmd)` для MacOS. В этом случае иерархия элементов игнорируется.
+-   Use double-click to go down one level of nesting
+-   Click on an element while holding `Ctrl` or `⌘(Cmd)` for MacOS. In this case, the hierarchy of elements isn't taken into account.
 
-Чтобы сбросить выделение нажмите клавишу `Esc`.
+To reset the selection, press `Esc`.
 
-### Групповой выбор элементов
+### Group selection of elements
 
-![Выделение нескольких элементов на странице](/scr/selection-multiple.png)
+![Select several elements on a page](/scr/selection-multiple.png)
 
-Чтобы выбрать несколько элементов, есть два способа:
+There are two ways to select several elements:
 
--   Клик с зажатой клавишей `Shift` по нужным элементам на одном уровне
--   Клик с зажатыми клавишами `Shift` и `Ctrl` или `⇧(Shift)` и `⌘(Cmd)` для MacOS по нужным элементам на любом уровне.
+-   Click and hold `Shift` on the desired elements at the same level
+-   While holding `Shift` and `Ctrl` or `⇧(Shift)` and `⌘(Cmd)` for MacOS, click on the desired elements at any level.
 
-Чтобы снять выбор кликните по элементу ещё раз с зажатыми клавишами.
+To deselect, click the element again with the keys held.
 
-### Отображение дистанции
+### Spacing display
 
-![Отображение дистанции между элементами](/scr/selection-distance.png)
+![Spacing display between elements](/scr/selection-distance.png)
 
-Чтобы посмотреть дистанцию между элементами, выберите первый элемент, зажмите клавишу `Alt` или `⌥(Option)` для MacOS и наведите на второй элемент. Если вы хотите посмотреть расстояние до вложенного элемента, зажимать нужно `Ctrl` и `Alt` или `⌘(Cmd)` и `⌥(Option)` для MacOS.
+To see the spacing between elements, select the first element, press `Alt` or `⌥(Option)` for MacOS and point at the second element. If you want to see the spacing to the nested element, hold `Ctrl` and `Alt` or `⌘(Cmd)` and `⌥(Option)` for MacOS.
 
 ---

@@ -4,22 +4,22 @@ title: Input
 sidebar_label: Input
 ---
 
-![Примитив Input на странице](/scr/primitives-input.png)
+![The Input Primitive on Page](/scr/primitives-input.png)
 
-##### Примитив Input представляет собой одно или многострочное поле ввода текста. Input служит для передачи текстовой информации в форму.
+##### The Input primitive is a single or multi-line text input field. It's used for transferring text information to the form.
 
-В свойствах можно выбрать тип Input, ввести текст подсказки, указать значение по умолчанию, установить флаги обязательного к заполнению или отключенного состояния.
+In the properties, you can select the Input type, enter the placeholder, specify the default value, set the flags of mandatory or disabled state.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name    | Description                                                             |
-| :----------- | :---------------------------------------------------------------------- |
-| name         | Уникальное для формы имя поля                                           |
-| type         | тип элемента формы: text, email, tel, date, number, file, search        |
-| placeholder  | подсказывающий текст                                                    |
-| defaultValue | значение поля по умолчанию                                              |
-| required     | флаг, если поле обязательное для заполнения                             |
-| disabled     | флаг, если поле отключено по умолчанию                                  |
-| as           | html-элемент, который будет использован в документе: input или textarea |
+| Prop name    | Description                                                       |
+| :----------- | :---------------------------------------------------------------- |
+| name         | Unique field name for the form                                    |
+| type         | form element type: text, email, tel, date, number, file, search   |
+| placeholder  | placeholder                                                       |
+| defaultValue | default field value                                               |
+| required     | flag indicating a required field                                  |
+| disabled     | flag indicating the field is disabled by default                  |
+| as           | HTML element that will be used in the document: input or textarea |
 
 ---

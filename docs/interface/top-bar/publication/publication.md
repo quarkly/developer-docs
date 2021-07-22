@@ -1,28 +1,28 @@
 ---
 id: publication
-title: Публикация проекта
-sidebar_label: Публикация проекта
+title: Project Publication
+sidebar_label: Project Publication
 ---
 
-![Публикация проекта](/scr/publication-netlify.png)
+![Project Publication](/scr/publication-netlify.png)
 
-После того, как вы сохранили проект в GitHub репозиторий, появляется возможность опубликовать его с помощью сервиса [Netlify](https://netlify.app/).
+After you save the project in the GitHub repository, you can publish it using [Netlify](https://netlify.app/).
 
-Как выбрать сайт и запустить публикацию:
+To choose a site and start publication:
 
-1. Нажмите кнопку "**Log In with Netlify**", чтобы предоставить доступ Quarkly к вашим сайтам на Netlify. Войдите или зарегистрируйтесь в Netlify, если это необходимо.
-2. Выберите уже существующий сайт в вашем аккаунте Netlify или создайте новый.
-3. Нажмите кнопку "**Build**" для запуска сборки и публикации проекта.
+1. Click "**Log In with Netlify**" to give Quarkly access to your sites on Netlify. Log in or sign up to Netlify, if necessary.
+2. Select an existing site in your Netlify account or create a new one.
+3. Click "**Build**" to start building and then publishing the project.
 
-Процесс сборки и публикации занимает некоторое время и обычно несколько минут.
+Project creation and publishing usually takes a few minutes.
 
-Статус можно увидеть на бейджике:
+The status can be seen on the badge:
 
-| Description                         | Badge                                              |
-| :---------------------------------- | :------------------------------------------------- |
-| Публикация проекта запущена         | ![badge-building](/img/netlify-badge-building.svg) |
-| Публикация завершена успешно        | ![badge-success](/img/netlify-badge-success.svg)   |
-| Публикация остановлена из-за ошибки | ![badge-failed](/img/netlify-badge-failed.svg)     |
-| Публикация остановлена вручную      | ![badge-canceled](/img/netlify-badge-canceled.svg) |
+| Description                           | Badge                                              |
+| :------------------------------------ | :------------------------------------------------- |
+| Publication has started               | ![badge-building](/img/netlify-badge-building.svg) |
+| Publication has finished successfully | ![badge-success](/img/netlify-badge-success.svg)   |
+| Publication stopped due to an error   | ![badge-failed](/img/netlify-badge-failed.svg)     |
+| Publication stopped manually          | ![badge-canceled](/img/netlify-badge-canceled.svg) |
 
 ---

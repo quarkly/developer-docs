@@ -24,9 +24,9 @@ sidebar_label: Shortcuts
 
 | Action                       | Windows and Linux                    | MacOS                                        |
 | :--------------------------- | :----------------------------------- | :------------------------------------------- |
-| Reset Selection              | `Esc`                                | `Esc`                                        |
-| Select a Parent element      | `Shift` + `↑`<br />`Shift` + `Enter` | `⇧ (Shift)` + `↑`<br />`⇧ (Shift)` + `Enter` |
-| Select All Children elements | `Enter`                              | `Enter`                                      |
+| Reset selection              | `Esc`                                | `Esc`                                        |
+| Select a parent element      | `Shift` + `↑`<br />`Shift` + `Enter` | `⇧ (Shift)` + `↑`<br />`⇧ (Shift)` + `Enter` |
+| Select all children elements | `Enter`                              | `Enter`                                      |
 
 ### Edit
 
@@ -51,39 +51,39 @@ sidebar_label: Shortcuts
 | Decrease by 10  | `Shift` + `↓`     | `⇧ (Shift)` + `↓`  |
 | Increase by 0.1 | `Alt` + `↑`       | `⌥ (Option)` + `↑` |
 | Decrease by 0.1 | `Alt` + `↓`       | `⌥ (Option)` + `↓` |
-| Increase by 100 | `Ctrl` + `↑`      | `⌘ (Cmd) ` + `↑`   |
-| Decrease by 100 | `Ctrl` + `↓`      | `⌘ (Cmd) ` + `↓`   |
+| Increase by 100 | `Ctrl` + `↑`      | `⌘ (Cmd)` + `↑`    |
+| Decrease by 100 | `Ctrl` + `↓`      | `⌘ (Cmd)` + `↓`    |
 
 ### View
 
-| Action  | Windows and Linux | MacOS            |
-| :------ | :---------------- | :--------------- |
-| Preview | `Ctrl` + `P`      | `⌘ (Cmd) ` + `P` |
+| Action  | Windows and Linux | MacOS           |
+| :------ | :---------------- | :-------------- |
+| Preview | `Ctrl` + `P`      | `⌘ (Cmd)` + `P` |
 
 #### Canvas
 
-| Action      | Windows and Linux | MacOS            |
-| :---------- | :---------------- | :--------------- |
-| Zoom In     | `Ctrl` + `+`      | `⌘ (Cmd) ` + `+` |
-| Zoom Out    | `Ctrl` + `-`      | `⌘ (Cmd) ` + `-` |
-| Actual Size | `Ctrl` + `0`      | `⌘ (Cmd) ` + `0` |
-| Pan         | `Space` + Drag    | `Space` + Drag   |
+| Action      | Windows and Linux | MacOS           |
+| :---------- | :---------------- | :-------------- |
+| Zoom in     | `Ctrl` + `+`      | `⌘ (Cmd)` + `+` |
+| Zoom out    | `Ctrl` + `-`      | `⌘ (Cmd)` + `-` |
+| Actual size | `Ctrl` + `0`      | `⌘ (Cmd)` + `0` |
+| Pan         | `Space` + Drag    | `Space` + Drag  |
 
 #### Panels
 
-| Action                           | Windows and Linux                        | MacOS                                                |
-| :------------------------------- | :--------------------------------------- | :--------------------------------------------------- |
-| Show / Hide All Panels           | `Ctrl` + `\`                             | `⌘ (Cmd) ` + `\`                                     |
-| Show / Hide Properties Panel     | `Shift` + `Ctrl` + `\`                   | `⇧ (Shift)` + `⌘ (Cmd) ` + `\`                       |
-| Show / Hide Pages & Layers Panel | `Ctrl` + `1`<br />`Shift` + `Ctrl` + `\` | `⌘ (Cmd) ` + `1`<br />`⇧ (Shift)` + `⌘ (Cmd) ` + `\` |
-| Show / Hide Code Editor          | `Ctrl` + `2`                             | `⌘ (Cmd) ` + `2`                                     |
+| Action                           | Windows and Linux                        | MacOS                                              |
+| :------------------------------- | :--------------------------------------- | :------------------------------------------------- |
+| Show / hide all panels           | `Ctrl` + `\`                             | `⌘ (Cmd)` + `\`                                    |
+| Show / hide properties panel     | `Shift` + `Ctrl` + `\`                   | `⇧ (Shift)` + `⌘ (Cmd)` + `\`                      |
+| Show / hide pages & layers panel | `Ctrl` + `1`<br />`Shift` + `Ctrl` + `\` | `⌘ (Cmd)` + `1`<br />`⇧ (Shift)` + `⌘ (Cmd)` + `\` |
+| Show / hide code editor          | `Ctrl` + `2`                             | `⌘ (Cmd)` + `2`                                    |
 
 ### Component
 
-| Action         | Windows and Linux    | MacOS                           |
-| :------------- | :------------------- | :------------------------------ |
-| Create         | `Alt` + `Ctrl` + `K` | `⌥ (Option)` + `⌘ (Cmd) ` + `K` |
-| Detach         | `Alt` + `Ctrl` + `B` | `⌥ (Option)` + `⌘ (Cmd) ` + `B` |
-| Push to Master | `Alt` + `Ctrl` + `A` | `⌥ (Option)` + `⌘ (Cmd) ` + `A` |
+| Action         | Windows and Linux    | MacOS                          |
+| :------------- | :------------------- | :----------------------------- |
+| Create         | `Alt` + `Ctrl` + `K` | `⌥ (Option)` + `⌘ (Cmd)` + `K` |
+| Detach         | `Alt` + `Ctrl` + `B` | `⌥ (Option)` + `⌘ (Cmd)` + `B` |
+| Push to Master | `Alt` + `Ctrl` + `A` | `⌥ (Option)` + `⌘ (Cmd)` + `A` |
 
 ---

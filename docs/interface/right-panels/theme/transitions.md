@@ -17,13 +17,11 @@ Transitions can be used when styles of an element are changed in response to som
 
 To add a transition to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей transition в тему проекта](/scr/theme-panel-transitions-add.png)
+![Add New Transition Styles to the Project Theme](/scr/theme-panel-transitions-add.png)
 
-To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](/img/icon-theme-variable.svg)
-icon next to the Transition property and select the transition value you want.
+To add a background style from the theme to an element, go to the Effect section, click on the ![Variable theme icon](/img/icon-theme-variable.svg) icon next to the Transition property and select the transition value you want.
 
-![Применение стилей transition из темы проекта](/scr/theme-panel-transitions-apply.png)
+![Apply Transition Styles from the Project Theme](/scr/theme-panel-transitions-apply.png)
 
 #### Configuring the code
 

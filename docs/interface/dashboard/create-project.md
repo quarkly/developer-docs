@@ -1,17 +1,17 @@
 ---
 id: create-project
-title: Создание нового проекта
-sidebar_label: Создание нового проекта
+title: Creating a New Project
+sidebar_label: Creating a New Project
 ---
 
-![Указание имени нового проекта](/scr/dashboard-create-project.png)
+![Entering a New Project Name](/scr/dashboard-create-project.png)
 
-Вы можете создать до 100 своих проектов.
+You can create up to 100 projects.
 
-Как создать новый проект:
+To create a project:
 
-1.  Нажмите на карточку "**New Project**"
-2.  Укажите имя нового проекта
-3.  Нажмите кнопку "**Save**"
+1.  Click on the "**New Project**" card
+2.  Enter a new project name
+3.  Click "**Save**"
 
 ---

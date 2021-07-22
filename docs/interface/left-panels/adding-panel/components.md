@@ -4,25 +4,25 @@ title: Components
 sidebar_label: Components
 ---
 
-![Раздел Components на панели добавления](/scr/components-panel.png)
+![The Сomponents section on the Adding panel](/scr/components-panel.png)
 
-В этом разделе находятся:
+This section is about:
 
--   Компоненты, созданные пользователем
--   Компоненты, добавленные пользователем из каталога компонентов
+-   Custom components
+-   Components added by the user from the Components catalog
 
-Чтобы добавить компонент на страницу, просто перетащите его и бросьте в нужное место.
+To add a component to the page, just drag and drop it where you want.
 
-### Действия с компонентами на панели
+### Actions with components on the panel
 
-![Контекстное меню компонентов на панели](/scr/components-actions.png)
+![Component context menu on the panel](/scr/components-actions.png)
 
-Компоненты, созданные пользователем, можно удалять и редактировать их код. Компоненты, добавленные из маркетплейса, можно только удалить.
+Custom components can be removed and their code can be edited. Components added from the Marketplace can only be removed.
 
-### Удаленные компоненты
+### Removed components
 
-![Сообщение об удалённом компоненте](/scr/components-deleted.png)
+![Message about a removed component](/scr/components-deleted.png)
 
-Если компонент есть на странице и его удаляют, вместо него появляется заглушка.
+If a component is on the page and it's removed, a dummy page appears.
 
 ---

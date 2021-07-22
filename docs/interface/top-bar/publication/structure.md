@@ -1,16 +1,16 @@
 ---
 id: structure
-title: Выбор структуры
-sidebar_label: Выбор структуры
+title: Select Structure
+sidebar_label: Select Structure
 ---
 
-![Выбор структуры перед публикацией проекта](/scr/publication-structure.png)
+![Select the structure before publishing the project](/scr/publication-structure.png)
 
-Проекты на React содержат в себе зависимости, рабочие файлы и контент. Для организации сборки проектов нужна определенная структура.
+React projects contain dependencies, work files, and content. You need a certain structure to organize the assembly of projects.
 
-Структура экспорта — это то, как в проекте организованы файлы, как будет происходить сборка и какие вспомогательные библиотеки будут участвовать в сборке проекта. В Quarkly мы предлагаем две самые популярные на сегодняшний день:
+The export structure is the way the files in the project are organized, how the project will be built, and which auxiliary libraries will be involved in project building. In Quarkly, we offer two of the most popular structures:
 
--   Gatsby Project — больше подходит для сайтов
--   Create React App — больше подходит для приложений
+-   Gatsby Project — more suits websites
+-   Create React App — more suits applications
 
 ---

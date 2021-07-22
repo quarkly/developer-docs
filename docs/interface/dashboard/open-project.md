@@ -1,16 +1,16 @@
 ---
 id: open-project
-title: Открытие проекта
-sidebar_label: Открытие проекта
+title: How to Open the Project
+sidebar_label: How to Open the Project
 ---
 
-![Пункт "Delete" в контекстном меню удаляет проект](/scr/dashboard-open-project.png)
+![The "Delete" option in the context menu deletes the project](/scr/dashboard-open-project.png)
 
-Кликните на карточку проекта, чтобы перейти в конструктор.
+Click on the project card to go to the builder.
 
-Альтернативный способ:
+Alternative way:
 
-1.  Вызовите контекстное меню проекта правой кнопкой мыши
-2.  Выберите пункт "**Open**"
+1.  Right-click to call the project context menu
+2.  Select "**Open**"
 
 ---

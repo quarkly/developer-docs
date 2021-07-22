@@ -1,17 +1,17 @@
 ---
 id: remove-project
-title: Удаление проекта
-sidebar_label: Удаление проекта
+title: How to Delete Project
+sidebar_label: How to Delete Project
 ---
 
-![Пункт "Delete" в контекстном меню удаляет проект](/scr/dashboard-remove-project.png)
+![The "Delete" option in the context menu deletes the project](/scr/dashboard-remove-project.png)
 
-Как удалить проект:
+To delete your project:
 
-1.  Выберите проект, который хотите удалить
-2.  Вызовите контекстное меню проекта правой кнопкой мыши
-3.  Выберите пункт "**Delete**"
+1.  Select the project you want to delete
+2.  Right-click to call the project context menu
+3.  Select "**Delete**"
 
-После удаления проект переместиться в раздел Archived. Здесь его можно восстановить или удалить окончательно.
+After deletion, the project will be moved to "**Archived**". Here you can restore or delete it forever.
 
 ---

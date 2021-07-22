@@ -27,8 +27,8 @@ const Overlay = styled.div`
 `;
 
 const Button = styled.div`
-	top: calc(50% - 50px);
-	left: calc(50% - 50px);
+	top: calc(50% - 45px);
+	left: calc(50% - 45px);
 	width: 90px;
 	height: 90px;
 	background-color: #248de0;

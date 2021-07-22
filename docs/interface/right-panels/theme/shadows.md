@@ -18,13 +18,11 @@ Shadows make the interface vivid and your design more expressive. Shadow style i
 
 To add a shadow style to the theme, click on the "**+**" icon in front of the category.
 
-![Добавление новых стилей shadows в тему проекта](/scr/theme-panel-shadows-add.png)
+![Add New Shadows Styles to the Project Theme](/scr/theme-panel-shadows-add.png)
 
-To add a background style from the theme to an element, go to the Effect section, click on the
-![Иконка переменной темы](/img/icon-theme-variable.svg)
-icon next to the Box Shadow property and select the shadow style you want.
+To add a background style from the theme to an element, go to the Effect section, click on the ![Variable theme icon](/img/icon-theme-variable.svg) icon next to the Box Shadow property and select the shadow style you want.
 
-![Применение стилей shadows из темы проекта](/scr/theme-panel-shadows-apply.png)
+![Apply Shadows Styles from the Project Theme](/scr/theme-panel-shadows-apply.png)
 
 #### Configuring the code
 

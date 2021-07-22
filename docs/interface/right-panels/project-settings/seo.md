@@ -4,14 +4,14 @@ title: SEO
 sidebar_label: SEO
 ---
 
-![Настройки SEO](/scr/project-settings-seo.png)
+![SEO Settings](/scr/project-settings-seo.png)
 
-Здесь вы можете задать заголовок, описание для поисковых систем и соцсетей (свойства с префиксом og:). Вы также можете указать изображение, которое будет появляется вместе со ссылкой в соцсетях и мессенджерах.
+Here you can set the title and description for search engines and social networks (properties with the og: prefix). You can also specify the image that will appear with the link for social networks and messengers.
 
--   Title — заголовок проекта, будет показываться во вкладке и в поисковых системах
--   Description — краткое описание проекта
--   og:title — заголовок проекта для соцсетей
--   og:description — описание проекта для соцсетей
--   og:image URL — превью сайта для соцсетей и мессенджеров
+-   Title — the project title that will be shown in the tab and in search engines
+-   Description — a brief project description
+-   og:title — project title for social networks
+-   og:description — project description for social networks
+-   og:image URL — site previews for social networks and messengers
 
 ---

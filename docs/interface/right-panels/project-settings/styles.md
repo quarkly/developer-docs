@@ -4,8 +4,8 @@ title: Styles
 sidebar_label: Styles
 ---
 
-![Настройки стилей](/scr/project-settings-styles.png)
+![Style Settings](/scr/project-settings-styles.png)
 
-Здесь вы можете задать стили для всех страниц проекта разом. Укажите стили типографики, фон, внутренние отступы страниц, и другие стилевые свойства, которые можно задавать обычным элементам. Все они применяться ко всем страницам.
+Here you can set styles for all project pages at once. Specify typography styles, backgrounds, internal page indents, and other style properties that you can set for common elements. They are applied to all pages.
 
 ---
