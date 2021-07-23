@@ -4,17 +4,17 @@ title: Button
 sidebar_label: Button
 ---
 
-![Примитив Button на странице](/scr/primitives-button.png)
+![The Button Primitive on Page](/scr/primitives-button.png)
 
-##### Простая кнопка, которая предназначена для отправки формы
+##### A simple button for sending a form
 
-В свойствах можно выбрать в виде какого тега будет кнопка на опубликованном сайте. Также в свойствах можно установить состояние "отключена".
+In the properties, you can choose in what kind of tag the button will be displayed on the published site. You can also set the "disabled" state in the properties.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name | Description                                                           |
-| :-------- | :-------------------------------------------------------------------- |
-| type      | HTML-элемент, который будет использован в документе: input или button |
-| disabled  | Флаг, если кнопка отключена по умолчанию                              |
+| Prop name | Description                                                     |
+| :-------- | :-------------------------------------------------------------- |
+| type      | HTML element that will be used in the document: input or button |
+| disabled  | Flag indicating whether the button is locked or not             |
 
 ---

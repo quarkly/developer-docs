@@ -4,19 +4,19 @@ title: Catalog
 sidebar_label: Catalog
 ---
 
-![Кнопки открытия каталога](/scr/catalog-general.png)
+![Catalog opening buttons](/scr/catalog-general.png)
 
-Каталог состоит из двух разделов: "**Blocks**" и "**Components**"
+The catalog contains two sections: "**Blocks**" and "**Components**"
 
 ### Blocks
 
-![Раздел "Blocks"](/scr/catalog-blocks.png)
+![The "Blocks" section](/scr/catalog-blocks.png)
 
-Все доступные блоки разделены на следующие категории:
+All available blocks are divided into the following categories:
 
 -   About
 -   Cover
--   Faq
+-   FAQ
 -   Footer
 -   Forms
 -   Header
@@ -24,22 +24,22 @@ sidebar_label: Catalog
 -   Social
 -   Team
 
-Чтобы добавить понравившийся блок в проект, просто кликните по нему. Он будет добавлен в конец страницы.
+To add your favorite block to the project, just click on it. It will be added to the end of the page.
 
 ### Components
 
-![Раздел "Components"](/scr/catalog-components.png)
+![The "Components" section](/scr/catalog-components.png)
 
-В разделе "Components" доступно несколько категорий:
+The following categories are available in the "Components" section:
 
--   Primitives – простые элементы, которые используются чаще всего.
--   Project – компоненты, уже добавленные в текущий проект.
--   Catalog – компоненты из каталога, доступные для добавления в проект.
+-   Primitives – simple elements used most often.
+-   Project – components already added to the current project.
+-   Catalog – components from the catalog that can be added to the project.
 
-Для компонентов из категории "Catalog" доступна кнопка "**Add to project**", по клику на которую компонент будет добавлен в проект и появится в вашем списке компонентов, но не будет добавлен на текущую страницу. Чтобы добавить его сразу на страницу, кликните на кнопку "**Add to page**", компонент будет добавлен в проект автоматически.
+For components from the "Catalog" category, the button "**Add to project**" is available. By clicking on it, the component will be added to the project and appear on your component list but it won't be added to the current page. To add it directly to the page, click the "**Add to page**" button, and the component will be added to the project automatically.
 
-Компоненты из категории "Primitives" и "Project" уже доступны в проекте и их можно только добавить на страницу, кликнув на кнопку "**Add to page**".
+Components from the "Primitives" and "Project" categories are already available in the project and you can only add them to the page by clicking "**Add to page**".
 
-Примечание: каталог компонентов постоянно обновляется и с выходом новой версии вам будет доступна кнопка "**Update version**". Нажмите на неё, чтобы обновить компоненты в каталоге.
+Note: The component catalog is constantly updated and as soon as a new version is released, the "**Update version**" button will appear. Click it to update the components in the catalog.
 
 ---

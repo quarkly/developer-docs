@@ -1,12 +1,12 @@
 ---
 id: overview
-title: Примитивы
+title: Primitives
 sidebar_label: Overview
 ---
 
-![Список простых элементов](/scr/context-menu-element.png)
+![List of simple elements](/scr/context-menu-element.png)
 
-В этом разделе находятся простые элементы, которые используются чаще всего.
+This section contains the simple elements that are used most often.
 
 -   [Box](/interface/left-panels/adding-panel/primitives/box)
 -   [Button](/interface/left-panels/adding-panel/primitives/button)
@@ -19,8 +19,8 @@ sidebar_label: Overview
 -   [Section](/interface/left-panels/adding-panel/primitives/section)
 -   [Text](/interface/left-panels/adding-panel/primitives/text)
 
-Чтобы добавить элемент на страницу, просто перетащите его и бросьте в нужное место. Еще вы можете кликнуть на него, и элемент добавится вниз страницы.
+To add an element to the page, just drag and drop it where you want. You can also click on it and it will be added to the bottom of the page.
 
-Примитивам можно задавать стилевые и функциональные свойства (props). У каждого свой уникальный набор.
+You can set the style and functional properties to primitives. Each has its own unique set.
 
 ---

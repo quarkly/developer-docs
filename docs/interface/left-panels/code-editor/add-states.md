@@ -1,23 +1,23 @@
 ---
 id: add-states
-title: Как добавить состояния
-sidebar_label: Как добавить состояния
+title: How to Add States
+sidebar_label: How to Add States
 ---
 
-Для некоторых компонентов доступны различные состояния, вот несколько из них:
+Different states are available for some components, here are a few of them:
 
--   hover — состояние при наведении курсора
--   focus — состояние когда компонент в фокусе
--   active, for a &lt;Button/&gt; and an &lt;Input/&gt; — состояние когда элемент активен
--   disabled, for a &lt;Button/&gt; — состояние когда кнопка не активна
--   link, for a &lt;Link/&gt; — состояние для непосещенной ссылки
--   visited, for a &lt;Link/&gt; — состояние для посещенной ссылки
--   и другие
+-   hover — a state triggered when hovering over an element
+-   focus — state when an element gets focus
+-   active, for a &lt;Button/&gt; and an &lt;Input/&gt; — state when an element is active
+-   disabled, for a &lt;Button/&gt; — state when a button is disabled
+-   link, for a &lt;Link/&gt; — state for an unvisited link
+-   visited, for a &lt;Link/&gt; — state for a visited link
+-   and more
 
-Свойства и значения для таких состояний вы можете указывать и в коде, используя такой синтаксис: state-props="value". Например:
+You can also specify properties and values for such states in your code using the following syntax: state-props="value". For example:
 
 ```
-<Text hover-color="orange"> Оранжевый текст </Text>
+<Text hover-color="orange"> Orange text </Text>
 ```
 
 ---

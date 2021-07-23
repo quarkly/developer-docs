@@ -1,29 +1,28 @@
 ---
 id: destination
-title: Выбор источника хранения
-sidebar_label: Выбор источника хранения
+title: Select a Storage Source
+sidebar_label: Select a Storage Source
 ---
 
-После того, как вы выбрали структуру проекта, необходимо выбрать источник хранения.<br />
-Мы предлагаем два варианта:
+Once you've chosen the project structure, you need to select the storage source.<br /> We offer two options:
 
-1. GitHub репозиторий
-2. Zip-архив
+1. GitHub repository
+2. Zip archive
 
-![Выбор источника хранения перед публикацией проекта](/scr/publication-destination.png)
+![Select a storage source before publishing the project](/scr/publication-destination.png)
 
-#### Zip-архив
+#### Zip archive
 
-В случае выбора Zip-архива, вы скачиваете и собираете проект у себя на компьютере. Сборку и публикацию в интернет вы также делаете самостоятельно. Инструкции о том, как собрать и развернуть проект, находятся в файле readme.md в корневой папке архива.
+If you choose a Zip archive, you download and create the project on your PC. You can also create and publish the project on the Internet yourself. You will find the instructions on how to build and deploy the project in the readme.md file in the root folder of the archive.
 
-#### GitHub репозиторий
+#### GitHub repository
 
-Если вы хотите опубликовать ваш проект с помощью Quarkly, то хранение проекта в вашем GitHub репозитории — необходимость.
+If you want to publish your project with Quarkly, storing the project in your GitHub repository is required.
 
-Как отправить код проекта в GitHub репозиторий:
+To submit project code to the GitHub repository:
 
-1. Нажмите на кнопку "**Log In with GitHub**", чтобы предоставить доступ Quarkly к вашим GitHub репозиториям. Войдите или зарегистрируйтесь в GitHub, если это необходимо.
-2. Выберите существующий или введите имя нового репозитория для вашего проекта.
-3. Если вы создали новый репозиторий, проект сохраниться в него автоматически. Если вы выбрали существующий репозиторий, нужно нажать кнопку "**Commit changes**", чтобы сохранить проект в выбранный репозиторий.
+1. Click "**Log In with GitHub**" to give Quarkly access to your GitHub repositories. Log in or sign up to GitHub, if necessary.
+2. Select an existing repository or enter a new repository name for your project.
+3. If you create a new repository, the project will be saved to it automatically. If you selected an existing repository, click "**Commit changes**" to save the project to the selected repository.
 
 ---

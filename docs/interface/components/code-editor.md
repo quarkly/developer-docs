@@ -1,7 +1,7 @@
 ---
 id: code-editor
-title: Компоненты и Code Editor
-sidebar_label: Компоненты и Code Editor
+title: Components and the Code Editor
+sidebar_label: Components and the Code Editor
 ---
 
 ![Creating a Component in the Code Editor](/scr/components-creating-plus.png)
@@ -16,7 +16,7 @@ To create a code component, click on the "**+**" button. You should be familiar 
 -   Defining props (properties) for a component.
 -   Connecting to any external databases or API.
 
-Подробнее о том, как создавать собственные компоненты вы можете прочитать в [руководстве для разработчика](/).
+Read more about creating a custom component in the [Developer's Guide](/).
 
 To edit a component in the code editor, click on the "**&lt;&gt;**" button.
 

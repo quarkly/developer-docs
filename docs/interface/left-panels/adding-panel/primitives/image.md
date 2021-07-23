@@ -4,23 +4,23 @@ title: Image
 sidebar_label: Image
 ---
 
-![Примитив Image на странице](/scr/primitives-image.png)
+![The Image Primitive on Page](/scr/primitives-image.png)
 
-##### Примитив Image представляет собой изображение
+##### The Image primitive represents an image
 
-В свойствах Image указывается источник изображения, способ кадрирования и выравнивания при кадрировании. Также можно настроить источники для устройств с высокой плотностью пикселей и для различных макетов. Свойство Loading поможет в ускорении загрузки страницы.
+The Image properties specify the source of the image, the cropping method, and alignment when cropping. You can also adjust sources for devices with high pixel densities and for different layouts. The Loading property helps speed up page loading.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name       | Description                                                                                                                                                                                                     |
-| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| object fit      | Определяет, как содержимое должно заполнять контейнер относительно его высоты и ширины                                                                                                                          |
-| object position | Используется в сочетании с object fit и задаёт положение содержимого внутри контейнера                                                                                                                          |
-| src             | Ссылка на изображение                                                                                                                                                                                           |
-| srcset          | Список из одной или нескольких строк, разделенных запятыми, определяющий набор возможных изображений для отображения в браузере. Каждая строка списка должна содержать дескриптор ширины или плотности пикселей |
-| sizes           | Список размеров изображений для разных размеров страниц. Он состоит из разделенных запятыми медиа-запросов со значениями ширины изображения                                                                     |
-| alt             | Альтернативное текстовое описание изображения, будет показано в браузере если изображение не получилось загрузить                                                                                               |
-| title           | Заголовок изображения, будет показан в виде всплывающей подсказки при наведении курсора                                                                                                                         |
-| loading         | Отложить загрузку изображения за пределами экрана                                                                                                                                                               |
+| Prop name       | Description                                                                                                                                                                           |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| object fit      | Defines the way the content should fill the container relative to its height and width                                                                                                |
+| object position | Used with object fit and specifies the position of the contents inside the container                                                                                                  |
+| src             | Image link                                                                                                                                                                            |
+| srcset          | A comma-separated list of one or more lines defining a set of possible images to display in the browser. Each line of the list must contain a pixel width or pixel density descriptor |
+| sizes           | A list of image sizes for different page sizes. It contains comma-separated media queries with image width values                                                                     |
+| alt             | Alternative text description of the image will be displayed in the browser if the image couldn't be loaded                                                                            |
+| title           | The image title that will be shown as a tooltip when you hover over the image                                                                                                         |
+| loading         | Postpone image loading outside the screen                                                                                                                                             |
 
 ---

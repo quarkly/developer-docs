@@ -1,26 +1,26 @@
 ---
 id: domain
-title: Доменное имя сайта
-sidebar_label: Доменное имя
+title: Site Domain Name
+sidebar_label: Domain Name
 ---
 
-На последнем этапе вы можете изменить техническое доменное имя своего проекта или прикрепить своё купленное имя.
+In the last step, you can change your project's technical domain name or connect a custom one.
 
-Для того, чтобы изменить имя домена предоставляемого сервисом Netlify:
+To change the domain name provided by Netlify:
 
-1. Нажмите кнопку "**Edit**"
-2. Введите нужное доменное имя
-3. Нажмите кнопку "**Save**"
+1. Click "**Edit**"
+2. Enter the desired domain name
+3. Click "**Save**"
 
-![Публикация проекта на техническом доменном имени](/scr/publication-domain-technical.png)
+![Publish the project with a technical domain name](/scr/publication-domain-technical.png)
 
-Чтобы прикрепить своё доменное имя к сайту, необходимо:
+To connect a custom domain name to your site:
 
-1. Выберите вкладку "**Custom**"
-2. Введите в поле ввода ваше доменное имя
-3. Нажмите кнопку "**Save**"
-4. У регистратора, где вы покупали свое доменное имя, в настройках **Name Servers (NS)**, необходимо указать адреса серверов, указанные в инструкции.
+1. Select "**Custom**"
+2. Enter the custom domain name
+3. Click "**Save**"
+4. At the registrar where you bought your domain name, in the **Name Servers (NS)** settings, you must enter the server URLs specified in the instructions.
 
-![Публикация проекта на своём персональном доменном имени](/scr/publication-domain-custom.png)
+![Publish the project with a custom domain name](/scr/publication-domain-custom.png)
 
 ---

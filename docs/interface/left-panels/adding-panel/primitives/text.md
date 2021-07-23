@@ -4,13 +4,13 @@ title: Text
 sidebar_label: Text
 ---
 
-![Примитив Text на странице](/scr/primitives-text.png)
+![The Text Primitive on Page](/scr/primitives-text.png)
 
-##### Примитив Text выводит текстовую информацию на странице
+##### The Text primitive displays text information on the page
 
-Часть текста может быть преобразована в примитив Link или в span. Link и Span внутри текста можно стилизовать отдельно от Text.
+Part of the text can be converted into a Link primitive or span. Link and Span within Text can be styled separately from Text.
 
-#### Доступные свойства
+#### Available props
 
 | Prop name     | Description                                                                                                                             |
 | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,6 +20,6 @@ sidebar_label: Text
 | text-indent   | Sets the length of empty space (indentation) that is put before lines of text in a block                                                |
 | text-overflow | Sets how hidden overflow content is signaled to users                                                                                   |
 | hyphens       | specifies how words should be hyphenated when text wraps across multiple lines                                                          |
-| as            | html-элемент, который будет использован в документе: h1, h2, h3, h4, h5, h6, p, div                                                     |
+| as            | HTML element that will be used in the document: h1, h2, h3, h4, h5, h6, p, div                                                          |
 
 ---

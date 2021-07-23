@@ -4,14 +4,14 @@ title: Dashboard
 sidebar_label: Overview
 ---
 
-![Вид дашборда после регистрации](/scr/dashboard-general.png)
+![The Dashboard View After Signup](/scr/dashboard-general.png)
 
-Здесь находятся все проекты пользователя и проекты, которыми с ним поделились другие пользователи.
+Here you can find all user projects and the projects that other users have shared with them.
 
-Содержит три раздела:
+It contains 3 sections:
 
--   **Recent** — недавние проекты
--   **My projects** — все проекты
--   **Archived** — удаленные проекты
+-   **Recent** — recent projects
+-   **My projects** — all projects
+-   **Archived** — deleted projects
 
 ---

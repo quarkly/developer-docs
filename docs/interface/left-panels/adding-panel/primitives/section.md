@@ -4,19 +4,19 @@ title: Section
 sidebar_label: Section
 ---
 
-![Примитив Section на странице](/scr/primitives-section.png)
+![The Section Primitive on Page](/scr/primitives-section.png)
 
-##### Примитив Section — это основа для создания блоков страницы
+##### The Section primitive is the basis for creating page blocks
 
-Section состоит из двух контейнеров, внешнего и внутреннего. Внутренний контейнер служит для контента, а внешний для фона. В свойствах можно регулировать ширину внутреннего контейнера.
+The Section consists of two containers: external and internal. The internal container is used for the content and the external container is used for the background. In the properties, you can adjust the internal container width.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name       | Description                                        |
-| :-------------- | :------------------------------------------------- |
-| Inner-width     | Ширина контентной зоны                             |
-| inner-min-width | Минимальная ширина контентной зоны                 |
-| inner-max-width | Максимальная ширина контентной зоны                |
-| lazy-load       | Включает загрузку блока по мере прокрутки страницы |
+| Prop name       | Description                               |
+| :-------------- | :---------------------------------------- |
+| Inner-width     | Width of content area                     |
+| inner-min-width | Minimum width of content area             |
+| inner-max-width | Maximum width of content area             |
+| lazy-load       | Enables block loading as the page scrolls |
 
 ---

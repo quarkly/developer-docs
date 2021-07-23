@@ -1,10 +1,10 @@
 ---
 id: overview
-title: Props panel
+title: Props Panel
 sidebar_label: Overview
 ---
 
-![Панель свойств](/scr/props-panel-general.png)
+![Props Panel](/scr/props-panel-general.png)
 
 To open the element props editor, select the desired element in one of the following ways:
 

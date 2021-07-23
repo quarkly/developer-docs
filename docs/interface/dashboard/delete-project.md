@@ -1,19 +1,19 @@
 ---
 id: delete-project
-title: Полное удаление проекта
-sidebar_label: Полное удаление проекта
+title: How to Delete Project Forever
+sidebar_label: How to Delete Project Forever
 ---
 
-![Пункт "Delete forever" в контекстном меню удаляет проект полностью](/scr/dashboard-delete-project.png)
+![The "Delete forever" option in the context menu deletes the project forever](/scr/dashboard-delete-project.png)
 
-Как удалить проект полностью:
+To delete your project forever:
 
-1.  Перейдите в раздел "**Archived**"
-2.  Выберите проект, который хотите полностью удалить
-3.  Вызовите контекстное меню проекта правой кнопкой мыши
-4.  Выберите пункт "**Delete Forever**"
-5.  В диалоговом окне подтверждения нажмите кнопку "**Delete Forever**"
+1.  Go to the "**Archived**" section
+2.  Select the project you want to remove forever
+3.  Right-click to call the project context menu
+4.  Select "**Delete Forever**"
+5.  In the confirmation dialog window, click "**Delete Forever**"
 
-После полного удаления проекта он исчезает из Dashboard. Но если вам всё-таки необходимо восстановить этот проект, отправьте запрос в службу поддержки.
+After the project is deleted forever, it disappears from the Dashboard. But if you still need to restore this project, send a request to the Quarkly support team.
 
 ---

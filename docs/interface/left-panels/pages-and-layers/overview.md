@@ -4,9 +4,9 @@ title: Pages and Layers
 sidebar_label: Overview
 ---
 
-![Панель Pages and Layers](/scr/pages-and-layers-general.png)
+![Pages and Layers Panel](/scr/pages-and-layers-general.png)
 
-Проекты состоят из страниц, а страницы содержат в себе элементы. Панель страниц и слоев содержит в себе:
+Projects contain pages, and pages contain elements. The Pages and Layers panel contains:
 
 -   [List of pages](/interface/left-panels/pages-and-layers/pages)
 -   [List of elements the page contains](/interface/left-panels/pages-and-layers/layers)

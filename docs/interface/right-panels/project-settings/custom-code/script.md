@@ -4,20 +4,20 @@ title: <script>
 sidebar_label: <script>
 ---
 
-![Тег <script>](/scr/project-settings-code-script.png)
+![Tag <script>](/scr/project-settings-code-script.png)
 
-Добавляет пользовательский javascript код в проект.
+Adds custom javascript code to the project.
 
-Содержит атрибуты:
+Contains the following attributes:
 
--   content — javascript код
--   async — асинхронная загрузка скрипта
--   defer — отложить выполнение скрипта до тех пор, пока вся страница не будет загружена полностью
--   src — адрес файла с javascript кодом, который будет импортироваться в проект
--   type — определяет тип содержимого тега script
--   crossorigin — указывает, должен ли CORS использоваться при получении файла
--   integrity — содержит встроенные метаданные, которые нужны для проверки того, что файл был доставлен без неожиданных манипуляций
--   nomodule — использовано для обслуживания резервных скриптов старых браузеров, которые не поддерживают модульный код JavaScript
--   referrerpolicy — указывает, какой референт отправить при получении скрипта
+-   content — javascript code
+-   async — asynchronous script loading
+-   defer — delay script execution until the entire page has been fully loaded
+-   src — address of the file with javascript code that will be imported into the project
+-   type — defines the content type of the script tag
+-   crossorigin — specifies whether CORS should be used when a file is received or not
+-   integrity — contains embedded metadata necessary to verify that the file was delivered without unexpected actions
+-   nomodule — used to serve backup scripts in older browsers that don't support modular JavaScript code
+-   referrerpolicy — specifies the referent to be sent when the script is received
 
 ---

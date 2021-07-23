@@ -4,17 +4,17 @@ title: List
 sidebar_label: List
 ---
 
-![Примитив List на странице](/scr/primitives-list.png)
+![The List Primitive on Page](/scr/primitives-list.png)
 
-##### Примитив List предназначен для отображения списков и повторяющихся элементов, например карточек
+##### The List primitive is used to display lists and repeating items, such as cards
 
-В свойствах вы можете выбрать тип списка и вид маркера для элементов списка.
+In the properties, you can choose the list and marker types for the list elements.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name       | Description                                          |
-| :-------------- | :--------------------------------------------------- |
-| as              | тип списка: ol (нумерованный) или ul (маркированный) |
-| list-style-type | вид маркера для каждого элемента списка              |
+| Prop name       | Description                               |
+| :-------------- | :---------------------------------------- |
+| as              | list type: ol (numbered) or ul (bulleted) |
+| list-style-type | marker type for each element on the list  |
 
 ---

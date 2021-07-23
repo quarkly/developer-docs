@@ -1,15 +1,15 @@
 ---
 id: overview
-title: Панель для добавления элементов
+title: Adding Panel
 sidebar_label: Overview
 ---
 
-![Панель добавления элементов](/scr/adding-panel-general.png)
+![Adding Panel](/scr/adding-panel-general.png)
 
-Эта панель служит для добавления элементов на страницу. В ней содержатся 3 группы:
+This panel is used to add elements to the page. It contains 3 groups:
 
--   [Примитивы](/interface/left-panels/adding-panel/primitives/overview)
--   [Компоненты, участвующие в проекте](/interface/left-panels/adding-panel/components)
--   [Кнопки добавления блоков и компонентов из каталога](/interface/left-panels/adding-panel/catalog)
+-   [Primitives](/interface/left-panels/adding-panel/primitives/overview)
+-   [Components involved in the project](/interface/left-panels/adding-panel/components)
+-   [Buttons for adding blocks and components from the catalog](/interface/left-panels/adding-panel/catalog)
 
 ---

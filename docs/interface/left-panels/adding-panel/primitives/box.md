@@ -4,16 +4,16 @@ title: Box
 sidebar_label: Box
 ---
 
-![Примитив Box на странице](/scr/primitives-box.png)
+![The Box Primitive on Page](/scr/primitives-box.png)
 
-##### Примитив Box — это универсальный контейнер
+##### The Primitive Box is a universal container
 
-В свойствах можно выбрать в виде какого элемента Box будет на опубликованном сайте.
+In the properties, you can choose in what kind of element Box will be displayed on the published site.
 
-#### Доступные свойства
+#### Available props
 
-| Prop name | Description                                                                                                                                             |
-| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| as        | html-элемент, который будет использован в документе: article, aside, blockquote, div, figcaption, figure, footer, header, hgroup, main, nav или section |
+| Prop name | Description                                                                                                                                           |
+| :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| as        | an HTML element that will be used in the document: article, aside, blockquote, div, figcaption, figure, footer, header, hgroup, main, nav, or section |
 
 ---

@@ -4,10 +4,10 @@ title: Hr
 sidebar_label: Hr
 ---
 
-![Примитив Hr на странице](/scr/primitives-hr.png)
+![The Hr Primitive on Page](/scr/primitives-hr.png)
 
-##### Разделитель, который образуется за счет верхней границы.
+##### Separator built due to the upper boundary.
 
-На опубликованной странице будет представлять собой тег Hr
+On the published page, will be displayed as an Hr tag
 
 ---

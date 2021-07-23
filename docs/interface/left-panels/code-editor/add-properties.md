@@ -1,13 +1,13 @@
 ---
 id: add-properties
-title: Как добавить свойства
-sidebar_label: Как добавить свойства
+title: How to Add Properties
+sidebar_label: How to Add Properties
 ---
 
-Если вы хотите добавить свойство (props) компоненту, вам нужно написать его в таком синтаксисе: props="value". Например:
+To add a property (prop) to a component, write it in the following syntax: props="value". For example:
 
 ```
-<Text color="orange"> Оранжевый текст </Text>
+<Text color="orange"> Orange text </Text>
 ```
 
 ---

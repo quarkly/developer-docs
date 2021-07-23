@@ -1,18 +1,18 @@
 ---
 id: add-components
-title: Как добавить компоненты
-sidebar_label: Как добавить компоненты
+title: How to Add Components
+sidebar_label: How to Add Components
 ---
 
-Чтобы добавить компонент введите его имя как HTML тег, например:
+To add a component, enter its name as an HTML tag, for example:
 
 ```
-<Text> Простой текст </Text>
+<Text> Simple text </Text>
 ```
 
-### Примитив
+### Primitive
 
-Так вы можете добавлять любой примитив:
+You can add any primitive:
 
 -   &lt;Box/&gt;
 -   &lt;Button/&gt;
@@ -23,21 +23,21 @@ sidebar_label: Как добавить компоненты
 -   &lt;List/&gt;
 -   &lt;Text/&gt;
 
-### Свой компонент
+### Custom component
 
-Свой созданный или добавленный компонент, указав его название. Например, чтобы добавить на страницу свой компонент с названием MyComponent вам нужно написать:
+A custom component is a component you created or added by specifying its name. For example, to add your component called MyComponent to a page you need to write:
 
 ```
 <MyComponent/>
 ```
 
-### Вложенный компонент
+### Nested component
 
-Если хотите поместить один компонент в другой, вам нужно написать:
+If you want to nest one component inside another, you need to write:
 
 ```
 <MyComponent>
-  <Text>Простой текст</Text>
+  <Text>Simple text</Text>
 </MyComponent>
 ```
 

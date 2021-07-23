@@ -1,17 +1,17 @@
 ---
 id: adding-elements
-title: Добавление элементов
-sidebar_label: Добавление элементов
+title: How to Add Elements
+sidebar_label: How to Add Elements
 ---
 
-Есть два способа добавить элемент на страницу:
+There are two ways to add an element to the page:
 
--   Первый — перетащить или кликнуть на примитив или компонент из панели добавления.
+-   The first is to drag or click on a primitive or component from the Adding panel.
 
-    ![Добавление элемента из панели добавления](/scr/page-elements-adding-from-panel.png)
+    ![How to Add an Element from the Adding Panel](/scr/page-elements-adding-from-panel.png)
 
--   Второй – нажать кнопку "**+**", открыть модальное окно Add и добавить блок или нужный компонент.
+-   The second is to click the "**+**" icon, open the Add modal window and add a block or desired component.
 
-    ![Добавление элемента из модального окна](/scr/page-elements-adding-from-modal.png)
+    ![How to Add an Element from the Modal Window](/scr/page-elements-adding-from-modal.png)
 
 ---

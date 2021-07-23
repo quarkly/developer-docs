@@ -6,14 +6,14 @@ sidebar_label: Overview
 
 ![Project Settings](/scr/project-settings-general.png)
 
-Здесь вы можете переименовать проект, добавить favicons, описание, стили для всех страниц разом, добавить теги script, link, meta, style в head или body, а так же добавить зависимости проекта.
+Here you can rename the project, add favicons, description, styles for all pages at once, add tags such as script, link, meta, or style to head or body, as well as add project dependencies.
 
-В настройках проектов есть пять разделов:
+There are 5 sections in the project settings:
 
--   [General](/interface/left-panels/project-settings/general)
--   [SEO](/interface/left-panels/project-settings/seo)
--   [Styles](/interface/left-panels/project-settings/styles)
--   [Custom code](/interface/left-panels/project-settings/custom-code/overview)
--   [Dependencies](/interface/left-panels/project-settings/dependencies)
+-   [General](/interface/right-panels/project-settings/general)
+-   [SEO](/interface/right-panels/project-settings/seo)
+-   [Styles](/interface/right-panels/project-settings/styles)
+-   [Custom code](/interface/right-panels/project-settings/custom-code/overview)
+-   [Dependencies](/interface/right-panels/project-settings/dependencies)
 
 ---
