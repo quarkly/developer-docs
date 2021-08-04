@@ -10,9 +10,8 @@ module.exports = {
   organizationName: "quarkly-team",
   projectName: "quarkly-docs",
   themeConfig: {
-    // image: "/img/q-og-1200.png",
-    metadatas: [{ name: "twitter:card", content: "summary" }],
     image: "/img/q-og-1200.png",
+    metadatas: [{ name: "twitter:card", content: "summary" }],
     colorMode: {
       defaultMode: "light",
       disableSwitch: true,
@@ -32,7 +31,7 @@ module.exports = {
     footer: {
       style: "dark",
       logo: {
-        alt: "My Site Logo",
+        alt: "Quarkly logo",
         src: "/img/quarkly-beta-logo-on-dark.svg",
       },
       links: [
@@ -69,17 +68,17 @@ module.exports = {
               href: "https://twitter.com/quarklyapp",
             },
             {
-              label: "Youtube",
+              label: "YouTube",
               href: "https://www.youtube.com/channel/UCK5bXs2L0bbSMQ82BQ3hIkw",
             },
             {
-              label: "Github",
+              label: "GitHub",
               href: "https://github.com/quarkly",
             },
           ],
         },
         {
-          title: "Community",
+          title: "Help",
           items: [
             {
               label: "Community",
@@ -90,8 +89,8 @@ module.exports = {
               href: "https://discord.com/invite/AevfxmF3TM",
             },
             {
-              label: "Feedback",
-              href: "https://feedback.quarkly.io/",
+              label: "Quarkly docs",
+              href: "https://help.quarkly.io/",
             },
           ],
         },
@@ -177,7 +176,6 @@ module.exports = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl: "https://github.com/quarkly/developer-docs/",
         },
         theme: {
