@@ -27,17 +27,6 @@ const MyButton = atomize.button({
 });
 ```
 
-An example of how to create a component from an HTML element:
-
-```js
-const MyButton = atomize(Button)({
-  effects: {
-    hover: ":hover",
-    focus: ":focus",
-  },
-});
-```
-
 Now, if you add a hover or focus prefix to any CSS property, it will be applied to a specific effect:
 
 ```jsx
