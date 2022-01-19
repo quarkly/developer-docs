@@ -1,199 +1,104 @@
 module.exports = {
-	sidebar: [
-		{
-			type: 'doc',
-			id: 'welcome-to-quarkly',
-		},
-		{
-			type: 'doc',
-			id: 'getting-started',
-		},
-		{
-			type: 'category',
-			label: 'Interface',
-			collapsed: false,
-			items: [
-				'interface/overview',
-				{
-					type: 'category',
-					label: 'Dashboard',
-					items: [
-						'interface/dashboard/overview',
-						'interface/dashboard/create-project',
-						'interface/dashboard/open-project',
-						'interface/dashboard/remove-project',
-						'interface/dashboard/restore-project',
-						'interface/dashboard/delete-project',
-					],
-				},
-				{
-					type: 'category',
-					label: 'Top Bar',
-					items: [
-						'interface/top-bar/overview',
-						'interface/top-bar/share',
-						'interface/top-bar/preview',
-						{
-							type: 'category',
-							label: 'Publication',
-							items: [
-								'interface/top-bar/publication/overview',
-								'interface/top-bar/publication/structure',
-								'interface/top-bar/publication/destination',
-								'interface/top-bar/publication/publication',
-								'interface/top-bar/publication/domain',
-							],
-						},
-						'interface/top-bar/account',
-					],
-				},
-				{
-					type: 'category',
-					label: 'View Bar',
-					items: [
-						'interface/view-bar/overview',
-						'interface/view-bar/zoom',
-						'interface/view-bar/resolutions',
-						'interface/view-bar/breakpoints',
-					],
-				},
-				{
-					type: 'category',
-					label: 'Left Panels',
-					items: [
-						{
-							type: 'category',
-							label: 'Adding Panel',
-							items: [
-								'interface/left-panels/adding-panel/overview',
-								{
-									type: 'category',
-									label: 'Primitives',
-									items: [
-										'interface/left-panels/adding-panel/primitives/overview',
-										'interface/left-panels/adding-panel/primitives/box',
-										'interface/left-panels/adding-panel/primitives/button',
-										'interface/left-panels/adding-panel/primitives/hr',
-										'interface/left-panels/adding-panel/primitives/icon',
-										'interface/left-panels/adding-panel/primitives/image',
-										'interface/left-panels/adding-panel/primitives/input',
-										'interface/left-panels/adding-panel/primitives/link',
-										'interface/left-panels/adding-panel/primitives/list',
-										'interface/left-panels/adding-panel/primitives/section',
-										'interface/left-panels/adding-panel/primitives/text',
-									],
-								},
-								'interface/left-panels/adding-panel/components',
-								'interface/left-panels/adding-panel/catalog',
-							],
-						},
-						{
-							type: 'category',
-							label: 'Pages and Layers',
-							items: [
-								'interface/left-panels/pages-and-layers/overview',
-								'interface/left-panels/pages-and-layers/pages',
-								'interface/left-panels/pages-and-layers/layers',
-							],
-						},
-						{
-							type: 'category',
-							label: 'Code editor',
-							items: [
-								'interface/left-panels/code-editor/overview',
-								'interface/left-panels/code-editor/add-components',
-								'interface/left-panels/code-editor/add-properties',
-								'interface/left-panels/code-editor/add-states',
-								'interface/left-panels/code-editor/add-styles',
-							],
-						},
-					],
-				},
-				{
-					type: 'category',
-					label: 'Page',
-					items: [
-						'interface/page/overview',
-						'interface/page/adding-elements',
-						'interface/page/editing-elements',
-						'interface/page/select-elements',
-					],
-				},
-				{
-					type: 'category',
-					label: 'Right Panels',
-					items: [
-						{
-							type: 'category',
-							label: 'Theme',
-							items: [
-								'interface/right-panels/theme/overview',
-								'interface/right-panels/theme/text-styles',
-								'interface/right-panels/theme/color-styles',
-								'interface/right-panels/theme/background-styles',
-								'interface/right-panels/theme/shadows',
-								'interface/right-panels/theme/transitions',
-								'interface/right-panels/theme/transforms',
-								'interface/right-panels/theme/filters',
-								'interface/right-panels/theme/breakpoints',
-							],
-						},
-						{
-							type: 'category',
-							label: 'Props panel',
-							items: [
-								'interface/right-panels/props-panel/overview',
-								'interface/right-panels/props-panel/styles',
-								'interface/right-panels/props-panel/props',
-								'interface/right-panels/props-panel/tips-and-tricks',
-							],
-						},
-						{
-							type: 'category',
-							label: 'Project Settings',
-							items: [
-								'interface/right-panels/project-settings/overview',
-								'interface/right-panels/project-settings/general',
-								'interface/right-panels/project-settings/seo',
-								'interface/right-panels/project-settings/styles',
-								{
-									type: 'category',
-									label: 'Custom code',
-									items: [
-										'interface/right-panels/project-settings/custom-code/overview',
-										'interface/right-panels/project-settings/custom-code/script',
-										'interface/right-panels/project-settings/custom-code/meta',
-										'interface/right-panels/project-settings/custom-code/style',
-										'interface/right-panels/project-settings/custom-code/link',
-									],
-								},
-								'interface/right-panels/project-settings/dependencies',
-							],
-						},
-					],
-				},
-				{
-					type: 'category',
-					label: 'Components',
-					items: [
-						'interface/components/overview',
-						'interface/components/add',
-						'interface/components/actions',
-						'interface/components/code-editor',
-						'interface/components/overrides',
-					],
-				},
-				'interface/context-menu',
-				'interface/shortcuts',
-			],
-		},
-		{
-			type: 'doc',
-			id: 'how-to',
-		},
-		{
-			type: 'doc',
-			id: 'resources',
-		},
-	],
+  sidebar: [
+    {
+      type: 'doc',
+      id: 'index',
+    },
+    {
+      type: 'doc',
+      id: 'welcome',
+    },
+    {
+      type: 'doc',
+      id: 'getting-started',
+    },
+    {
+      type: 'category',
+      label: 'Components',
+      items: [
+        'components/overview',
+        'components/creating',
+        'components/importing',
+        'components/structure',
+        {
+          type: 'category',
+          label: 'How to Create Components Using Atomize',
+          items: [
+            'components/atomize/overview',
+            'components/atomize/creating-component',
+            'components/atomize/adding-effects',
+            'components/atomize/using-breakpoints',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Project API',
+          items: [
+            'components/project-api/overview',
+            'components/project-api/getting-styles',
+            'components/project-api/getting-theme',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Properties',
+          items: [
+            'components/properties/overview',
+            'components/properties/propinfo-object',
+            'components/properties/default-props',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Overrides',
+          items: [
+            'components/overrides/overview',
+            'components/overrides/adding-overrides',
+            'components/overrides/creating-overrides',
+            'components/overrides/using-overrides',
+            'components/overrides/exporting-overrides',
+            'components/overrides/example-components-with-overrides',
+            'components/overrides/example-imported-components',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Tutorials',
+      items: [
+        'tutorials/overview',
+        'tutorials/create-a-counter',
+        'tutorials/create-component-from-npm',
+        'tutorials/create-card-component',
+        'tutorials/make-a-staff-files',
+        'tutorials/create-an-entertaining-app',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'How-to\'s',
+      items: [
+        'how-to/overview',
+        'how-to/component-content',
+        'how-to/process-events',
+        'how-to/keyframe-animation',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'FAQ\'s',
+      items: [
+        'faq/overview',
+        'faq/general',
+        'faq/atomize',
+        'faq/overrides',
+        'faq/properties',
+      ],
+    },
+    {
+      type: 'doc',
+      id: 'resources',
+    },
+  ],
 };

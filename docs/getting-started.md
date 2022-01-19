@@ -4,49 +4,138 @@ title: Getting Started
 sidebar_label: Getting Started
 ---
 
-1. After logging in, you will be taken to the [Dashboard](/interface/dashboard/overview). Two projects are automatically created for you:
+Let's create a simple Counter component. It will contain a number and a button. By clicking on the button, the number will increase, i.e. count the clicks.
 
-    - **Onboarding Tutorial** that will teach you the basics of Quarkly
-    - **Website Example** — a ready-made website example
+1. Create a new component by clicking the "**+**" icon in the Code Editor and enter the name of the component, for example, `Counter`.
 
-    ![Dashboard](/scr/getting-started-dashboard-default.png)
+![](/scr/getting-started-create-component.png)
 
-2. Create a new Quarkly project. To do this, click on the card with the "**+**" icon and enter the project name. ![Creating a new Quarkly project](/scr/getting-started-dashboard-creating.png)
+2. After entering the component name, the Code Editor will open, and you will see the default code of the component.
 
-3. Now go to the project. To do that, click it or call the context menu and select "**Open**". ![Project context menu on the dashboard](/scr/getting-started-dashboard-opening.png)
+```js
+import React from "react";
+import atomize from "@quarkly/atomize";
 
-4. You are now in the [visual editor interface](/interface/overview). To allow other users to access, rename, or delete the project, open its settings. ![Menu of project settings in the visual editor](/scr/getting-started-interface-project-actions.png)
+const Counter = (props) => <div {...props}>Say hello Test</div>;
 
-5. Add a finished block to the layout by clicking the "**+**" icon in the center of the page. ![Adding a ready-made block to the page](/scr/getting-started-interface-add-block.png)
+export default atomize(Counter)({
+  name: "Counter",
+  effects: {
+    hover: ":hover",
+  },
+  normalize: true,
+  mixins: true,
+  description: {
+    // paste here description for your component
+    en: "Counter — my awesome component",
+  },
+  propInfo: {
+    // paste here props description for your component
+    yourCustomProps: {
+      control: "input",
+    },
+  },
+});
+```
 
-6. Select the block you like and click on it. ![Selecting a ready-made block from the catalog](/scr/getting-started-interface-choose-block.png)
+3. First, add the import of the `useState` and `useCallback` hooks from the React library, the `Button` primitive, and the `useOverrides` hook:
 
-7. Now select the text element on the page. Click it while pressing `Ctrl`, or `⌘ (Cmd)` on MacOS. This allows you to select elements while ignoring parent ones. You can also select child elements by double-clicking them. ![Selecting components on the page](/scr/getting-started-interface-select-element.png)
+```js
+import React, { useState, useCallback } from "react";
 
-8. Change the text color on the right property panel. ![Changing the text color on the props panel](/scr/getting-started-interface-edit-font-color.png)
+import { Box, Button } from "@quarkly/widgets";
+import { useOverrides } from "@quarkly/components";
+import atomize from "@quarkly/atomize";
+```
 
-9. Edit text. To do that, double-click the text in the selected element. ![Text editing](/scr/getting-started-interface-edit-text.png)
+4. Then after importing, add override descriptions which will be used later. We'll just add a button description. Let's call it `My Button`, apply the props from the `Button` primitive, and specify the caption `color`.
 
-10. You can create pages. To do that, open the [Pages and Layers](/interface/left-panels/pages-and-layers/overview) panel. !["Pages and Layers" panel](/scr/getting-started-interface-pages-and-layers.png)
+```js
+const overrides = {
+  "My Button": {
+    kind: "Button",
+    props: {
+      color: "--color-light",
+    },
+  },
+};
+```
 
-11. To add an element, go to the [Components](/interface/components/overview) panel. There are both simple and complex components. You can also create custom components. !["Components" panel](/scr/getting-started-interface-components.png)
+5. Let's edit the component props. Add a `numb` text field that will contain the number by which the counter will increased.
 
-12. Just drag the component to the desired place and it will become part of the page. ![Dragging and dropping a component onto the page](/scr/getting-started-interface-add-new-element.png)
+   To do that, replace the `yourCustomProps` property in the `propInfo` object with a new one:
 
-13. Publish the project. To start [publishing](/interface/top-bar/publication/overview), click "**Publish**". ![Project publication](/scr/getting-started-interface-publish-button.png)
+   ```js
+   propInfo: {
+     numb: {
+       title: 'How much to increment the counter',
+       control: 'input',
+       type: 'number',
+       category: 'Main',
+       weight: 1
+     },
+   }
+   ```
 
-14. Connect your GitHub account to export your project to the repository. ![Connecting a GitHub account](/scr/getting-started-interface-publication-window.png)
+6. At the end of the export, add an object with the default value `numb`:
 
-15. Select "New repository", enter the name, and click "Create repository". ![Creating a new repository](/scr/getting-started-interface-destination-new-repository.png)
+   ```js
+   export default atomize(Counter)({
+     name: "Counter",
+     ...
+     propInfo: {
+       numb: {
+         title: 'How much to increment the counter',
+         control: 'input',
+         type: 'number',
+         category: 'Main',
+         weight: 1
+       },
+     }
+   }, {
+     numb: 1,
+   });
+   ```
 
-16. After connecting the repository, connect your Netlify account. ![Connecting a Netlify account](/scr/getting-started-interface-publication-netlify.png)
+7. After describing the override list, add the component code:
 
-17. Select "New website" and click "Create website". ![Creating a new website](/scr/getting-started-interface-publication-netlify-new-site.png)
+   - Call the previously imported **useOverrides** hook to be able to apply overrides;
+   - Add **useState** to store the counter state. It returns **counter** with the current value and the **setCounter** function to update the value;
+   - Create an **onIncrement** function that will increase the counter digit by 1. We added **useCallback** so that the function is created only when **setCounter** changes, not every time the component is updated.
+   - Let's edit the component structure:
+     - Replace `{...props}` with the new `{...rest}` we got from **useOverrides**;
+     - Display the current `{{counter: ${counter}}}`; value
+     - Add a **Button** with the "Increment" caption where we call the **override** function with our override name and pass the previously created **onIncrement** function which will be called by click.
+     - After displaying the button, you can add `{children}` to be able to add any other component to this one.
 
-18. The process of project building takes a few minutes. Once the badge changes status to "**Success**", the project is published and available via a link. ![Project building status](/scr/getting-started-interface-publication-netlify-status.png)
+   The new component code looks like this:
 
-19. Click the link to open the published project. ![Link to the published project](/scr/getting-started-interface-publication-netlify-link.png)
+   ```js
+   const Counter = ({ numb, ...props }) => {
+     const { override, children, rest } = useOverrides(props, overrides);
+     const [counter, setCounter] = useState(0);
+     const onIncrement = useCallback(
+       () => setCounter((val) => val + numb),
+       [setCounter]
+     );
+     return (
+       <div {...rest}>
+         <Box margin-right="1em" display="inline">
+           {`counter: ${counter}`}
+         </Box>
+         <Button {...override("My Button")} onClick={onIncrement}>
+           Increment
+         </Button>
+         {children}
+       </div>
+     );
+   };
+   ```
 
-Congrats! You've just created and published your first project on Quarkly.
+8. Press `Ctrl` + `S` or `⌘ (Cmd)` + `S` for MacOS to save the changes.
+
+Congrats! You've created your first component on Quarkly. Now close the Code Editor, go to the Adding panel, and drag your new component from the list to the page. Check how it works in the preview mode (the "eye" icon in the upper right corner).
+
+Learn more about the structure, component properties, overrides, and much more in the following sections of the documentation.
 
 ---
